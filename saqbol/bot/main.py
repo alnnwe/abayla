@@ -3,9 +3,12 @@ from __future__ import annotations
 
 import asyncio
 import logging
+import os
+import ssl
 import sys
 
 from aiogram import Bot, Dispatcher
+from aiogram.client.session.aiohttp import AiohttpSession
 from aiogram.fsm.storage.memory import MemoryStorage
 from aiogram.types import BotCommand
 
@@ -17,6 +20,17 @@ from saqbol.service.privacy import setup_logging
 from saqbol.storage.db import Storage
 
 log = logging.getLogger("saqbol")
+
+
+def build_session() -> AiohttpSession | None:
+    """Необязательно: свой набор корневых сертификатов (SAQBOL_CA_BUNDLE) для сетей с перехватом TLS
+    (корпоративные/университетские прокси). По умолчанию aiogram использует certifi."""
+    ca = os.getenv("SAQBOL_CA_BUNDLE")
+    if not ca:
+        return None
+    session = AiohttpSession()
+    session._connector_init["ssl"] = ssl.create_default_context(cafile=ca)
+    return session
 
 
 def build_dispatcher(core: SaqBolCore) -> Dispatcher:
@@ -39,7 +53,14 @@ async def run() -> None:
         log.warning("SAQBOL_HASH_SECRET не задан — используется значение для разработки")
     core = SaqBolCore(Storage(settings.db_path), analyzer, settings)
     dp = build_dispatcher(core)
-    bot = Bot(token=settings.bot_token)
+    bot = Bot(token=settings.bot_token, session=build_session())
+    try:
+        await _start(bot, dp, analyzer)
+    finally:
+        await bot.session.close()
+
+
+async def _start(bot: Bot, dp: Dispatcher, analyzer: Analyzer) -> None:
     await bot.set_my_commands([
         BotCommand(command="start", description="Начать / Бастау"),
         BotCommand(command="help", description="Помощь / Көмек"),

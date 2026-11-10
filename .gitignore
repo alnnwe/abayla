@@ -7,3 +7,5 @@ artifacts/models/xlmr/
 artifacts/models_aug/
 data/raw/*
 !data/raw/.gitkeep
+.venv/
+.DS_Store

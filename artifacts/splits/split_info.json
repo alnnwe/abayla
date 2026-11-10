@@ -1,5 +1,5 @@
 {
-  "dataset": "/home/claude/abayla/data/demo/abayla_demo_v1.csv",
+  "dataset": "/Users/alanamukanova/Downloads/abayla/data/demo/abayla_demo_v1.csv",
   "seed": 42,
   "rows_total": 286,
   "rows_trainable": 280,

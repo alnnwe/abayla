@@ -1,44 +1,44 @@
 id,text,label,scheme,language,source_type,source_id,template_group,annotation_status
-demo_0011,"Здравствуйте, это банк. Для защиты вашего счёта установите приложение для удалённой поддержки и включите демонстрацию экрана, специалист всё проверит.",scam,bank_police_impersonation,ru,synthetic_demo,saqbol_demo_v1,demo_g005,verified
-demo_0012,"Сәлеметсіз бе, банктен хабарласып тұрмыз. Шотыңызды қорғау үшін қашықтан қолдау қосымшасын орнатып, экранды көрсетуді қосыңыз, маман бәрін тексереді.",scam,bank_police_impersonation,kk,synthetic_demo,saqbol_demo_v1,demo_g005,verified
-demo_0013,"Банк: скачайте программу удалённого доступа, наш специалист подключится к телефону и отменит подозрительную операцию.",scam,bank_police_impersonation,ru,synthetic_demo,saqbol_demo_v1,demo_g005,verified
-demo_0031,Говорит дежурный полиции. Ваш сосед подозревается в мошенничестве с вашими документами. Назовите номер удостоверения и ИИН для проверки.,scam,bank_police_impersonation,ru,synthetic_demo,saqbol_demo_v1,demo_g014,verified
-demo_0032,Полицияның кезекшісі сөйлеп тұр. Көршіңіз сіздің құжаттарыңызбен алаяқтық жасады деген күдік бар. Тексеру үшін куәлік нөмірі мен ЖСН-ді айтыңыз.,scam,bank_police_impersonation,kk,synthetic_demo,saqbol_demo_v1,demo_g014,verified
-demo_0038,"Демобанк: ваш доступ ограничен. Подтвердите данные по ссылке http://demobank-verify.example.com/login в течение 2 часов, иначе счёт будет заблокирован.",scam,phishing,ru,synthetic_demo,saqbol_demo_v1,demo_g018,verified
-demo_0039,"Демобанк: қолжетімділігіңіз шектелді. 2 сағат ішінде http://demobank-verify.example.com/login сілтемесі арқылы деректеріңізді растаңыз, әйтпесе шот бұғатталады.",scam,phishing,kk,synthetic_demo,saqbol_demo_v1,demo_g018,verified
-demo_0040,Ваш онлайн-банк приостановлен. Срочно войдите по ссылке http://demobank-secure-login.example.com и подтвердите личность.,scam,phishing,ru,synthetic_demo,saqbol_demo_v1,demo_g018,verified
-demo_0083,"Тётя, это Айгерим, пишу с телефона подруги. Срочно скинь 50 000, потом объясню, не звони на мой номер.",scam,relative_in_trouble,ru,synthetic_demo,saqbol_demo_v1,demo_g039,verified
-demo_0084,"Тәте, бұл Айгерім, құрбымның телефонынан жазып отырмын. Тез 50 000 салып жіберші, кейін түсіндіремін, менің нөміріме қоңырау шалма.",scam,relative_in_trouble,kk,synthetic_demo,saqbol_demo_v1,demo_g039,verified
-demo_0088,"Продаю диван почти даром, 20 000 тенге. Доставка бесплатная, но нужна предоплата 100% на карту, иначе не резервирую.",scam,fake_ad,ru,synthetic_demo,saqbol_demo_v1,demo_g042,verified
-demo_0089,"Диванды арзанға сатамын, 20 000 теңге. Жеткізу тегін, бірақ картаға 100% алдын ала төлем керек, әйтпесе брондамаймын.",scam,fake_ad,kk,synthetic_demo,saqbol_demo_v1,demo_g042,verified
-demo_0090,"Здравствуйте, хочу купить ваш товар с объявления. Я уже оплатил, получите деньги по ссылке http://board-pay.example.com/receive , введите данные карты.",scam,fake_ad,ru,synthetic_demo,saqbol_demo_v1,demo_g043,verified
-demo_0091,"Сәлеметсіз бе, хабарландырудағы тауарыңызды сатып алғым келеді. Мен төлеп қойдым, ақшаны http://board-pay.example.com/receive сілтемесі арқылы алыңыз, карта деректерін енгізіңіз.",scam,fake_ad,kk,synthetic_demo,saqbol_demo_v1,demo_g043,verified
-demo_0092,"Я покупатель с сайта объявлений. Оплату отправил через безопасную сделку, чтобы получить деньги, перейдите по ссылке и укажите карту: http://safe-deal.example.com",scam,fake_ad,ru,synthetic_demo,saqbol_demo_v1,demo_g043,verified
-demo_0093,"Сдаю квартиру в центре за 80 000 в месяц. Сейчас я за границей, ключи пришлю курьером только после перевода залога.",scam,fake_ad,ru,synthetic_demo,saqbol_demo_v1,demo_g044,verified
-demo_0094,"Орталықтағы пәтерді айына 80 000-ға жалға беремін. Қазір шетелдемін, кепіл ақшасын аударғаннан кейін ғана кілтті курьермен жіберемін.",scam,fake_ad,kk,synthetic_demo,saqbol_demo_v1,demo_g044,verified
-demo_0095,"Покупатель: перевёл вам оплату, но банк требует подтверждения. Назовите код из SMS, чтобы деньги поступили.",scam,fake_ad,ru,synthetic_demo,saqbol_demo_v1,demo_g045,verified
-demo_0096,"Сатып алушы: сізге төлем аудардым, бірақ банк растауды талап етеді. Ақша түсуі үшін SMS-тегі кодты айтыңыз.",scam,fake_ad,kk,synthetic_demo,saqbol_demo_v1,demo_g045,verified
-demo_0127,"Ваш электросчётчик неисправен, завтра отключим свет. Чтобы избежать отключения, оплатите проверку мастеру 15 000 сегодня.",scam,other_scheme,ru,synthetic_demo,saqbol_demo_v1,demo_g060,verified
-demo_0128,"Электр есептегішіңіз ақаулы, ертең жарықты өшіреміз. Өшірмеу үшін бүгін шеберге тексеру ақысын 15 000 төлеңіз.",scam,other_scheme,kk,synthetic_demo,saqbol_demo_v1,demo_g060,verified
-demo_0133,"Вас беспокоят из благотворительного фонда. Ребёнку срочно нужна операция, переведите любую сумму на личную карту волонтёра.",scam,other_scheme,ru,synthetic_demo,saqbol_demo_v1,demo_g063,verified
-demo_0134,"Қайырымдылық қорынан хабарласып тұрмыз. Балаға тез ота керек, еріктінің жеке картасына кез келген соманы аударыңыз.",scam,other_scheme,kk,synthetic_demo,saqbol_demo_v1,demo_g063,verified
-demo_0146,"Код подтверждения операции: 739104. Если вы не совершали операцию, не сообщайте код и позвоните в банк по номеру на обратной стороне карты.",not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g069,verified
-demo_0147,"Операцияны растау коды: 739104. Егер операцияны сіз жасамасаңыз, кодты айтпаңыз және картаның артындағы нөмір бойынша банкке хабарласыңыз.",not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g069,verified
-demo_0148,Код для входа на портал госуслуг: 5512. Не передавайте его третьим лицам.,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g070,verified
-demo_0149,Мемлекеттік қызметтер порталына кіру коды: 5512. Оны үшінші тұлғаларға бермеңіз.,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g070,verified
-demo_0154,"Вход в мобильный банк с нового устройства. Если это были не вы, смените пароль в приложении.",not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g073,verified
-demo_0155,"Мобильді банкке жаңа құрылғыдан кіру. Егер бұл сіз болмасаңыз, қосымшада құпиясөзді өзгертіңіз.",not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g073,verified
-demo_0170,Банк: по вкладу начислено вознаграждение 3 120 тенге.,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g081,verified
-demo_0171,Банк: салым бойынша 3 120 теңге сыйақы есептелді.,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g081,verified
-demo_0200,"Дорогая, я задержусь на работе, ужинайте без меня.",not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g095,verified
-demo_0201,"Жаным, жұмыста кешігемін, кешкі асты менсіз ішіңдер.",not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g095,verified
-demo_0214,Результаты анализов готовы. Их можно получить у участкового врача.,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g102,verified
-demo_0215,Талдау нәтижелері дайын. Оларды учаскелік дәрігерден алуға болады.,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g102,verified
-demo_0220,Запись на приём к врачу доступна на сайте https://clinic.example.org/booking,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g105,verified
-demo_0221,Дәрігер қабылдауына жазылу https://clinic.example.org/booking сайтында қолжетімді.,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g105,verified
-demo_0256,"Напоминаю, что в воскресенье у нас поминки по дедушке, начало в 13:00.",not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g123,verified
-demo_0257,"Еске саламын, жексенбіде атамыздың асы болады, басталуы 13:00-де.",not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g123,verified
-demo_0260,"Хор ветеранов приглашает на концерт в Доме культуры в пятницу, вход свободный.",not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g125,verified
-demo_0261,"Ардагерлер хоры жұма күні Мәдениет үйіндегі концертке шақырады, кіру тегін.",not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g125,verified
-demo_0279,Библиотека проводит бесплатные курсы компьютерной грамотности для пенсионеров по вторникам.,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g135,verified
-demo_0280,Кітапхана сейсенбі сайын зейнеткерлерге компьютерлік сауаттылықтың тегін курстарын өткізеді.,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g135,verified
+demo_0011,"Здравствуйте, это банк. Для защиты вашего счёта установите приложение для удалённой поддержки и включите демонстрацию экрана, специалист всё проверит.",scam,bank_police_impersonation,ru,synthetic_demo,abayla_demo_v1,demo_g005,verified
+demo_0012,"Сәлеметсіз бе, банктен хабарласып тұрмыз. Шотыңызды қорғау үшін қашықтан қолдау қосымшасын орнатып, экранды көрсетуді қосыңыз, маман бәрін тексереді.",scam,bank_police_impersonation,kk,synthetic_demo,abayla_demo_v1,demo_g005,verified
+demo_0013,"Банк: скачайте программу удалённого доступа, наш специалист подключится к телефону и отменит подозрительную операцию.",scam,bank_police_impersonation,ru,synthetic_demo,abayla_demo_v1,demo_g005,verified
+demo_0031,Говорит дежурный полиции. Ваш сосед подозревается в мошенничестве с вашими документами. Назовите номер удостоверения и ИИН для проверки.,scam,bank_police_impersonation,ru,synthetic_demo,abayla_demo_v1,demo_g014,verified
+demo_0032,Полицияның кезекшісі сөйлеп тұр. Көршіңіз сіздің құжаттарыңызбен алаяқтық жасады деген күдік бар. Тексеру үшін куәлік нөмірі мен ЖСН-ді айтыңыз.,scam,bank_police_impersonation,kk,synthetic_demo,abayla_demo_v1,demo_g014,verified
+demo_0038,"Демобанк: ваш доступ ограничен. Подтвердите данные по ссылке http://demobank-verify.example.com/login в течение 2 часов, иначе счёт будет заблокирован.",scam,phishing,ru,synthetic_demo,abayla_demo_v1,demo_g018,verified
+demo_0039,"Демобанк: қолжетімділігіңіз шектелді. 2 сағат ішінде http://demobank-verify.example.com/login сілтемесі арқылы деректеріңізді растаңыз, әйтпесе шот бұғатталады.",scam,phishing,kk,synthetic_demo,abayla_demo_v1,demo_g018,verified
+demo_0040,Ваш онлайн-банк приостановлен. Срочно войдите по ссылке http://demobank-secure-login.example.com и подтвердите личность.,scam,phishing,ru,synthetic_demo,abayla_demo_v1,demo_g018,verified
+demo_0083,"Тётя, это Айгерим, пишу с телефона подруги. Срочно скинь 50 000, потом объясню, не звони на мой номер.",scam,relative_in_trouble,ru,synthetic_demo,abayla_demo_v1,demo_g039,verified
+demo_0084,"Тәте, бұл Айгерім, құрбымның телефонынан жазып отырмын. Тез 50 000 салып жіберші, кейін түсіндіремін, менің нөміріме қоңырау шалма.",scam,relative_in_trouble,kk,synthetic_demo,abayla_demo_v1,demo_g039,verified
+demo_0088,"Продаю диван почти даром, 20 000 тенге. Доставка бесплатная, но нужна предоплата 100% на карту, иначе не резервирую.",scam,fake_ad,ru,synthetic_demo,abayla_demo_v1,demo_g042,verified
+demo_0089,"Диванды арзанға сатамын, 20 000 теңге. Жеткізу тегін, бірақ картаға 100% алдын ала төлем керек, әйтпесе брондамаймын.",scam,fake_ad,kk,synthetic_demo,abayla_demo_v1,demo_g042,verified
+demo_0090,"Здравствуйте, хочу купить ваш товар с объявления. Я уже оплатил, получите деньги по ссылке http://board-pay.example.com/receive , введите данные карты.",scam,fake_ad,ru,synthetic_demo,abayla_demo_v1,demo_g043,verified
+demo_0091,"Сәлеметсіз бе, хабарландырудағы тауарыңызды сатып алғым келеді. Мен төлеп қойдым, ақшаны http://board-pay.example.com/receive сілтемесі арқылы алыңыз, карта деректерін енгізіңіз.",scam,fake_ad,kk,synthetic_demo,abayla_demo_v1,demo_g043,verified
+demo_0092,"Я покупатель с сайта объявлений. Оплату отправил через безопасную сделку, чтобы получить деньги, перейдите по ссылке и укажите карту: http://safe-deal.example.com",scam,fake_ad,ru,synthetic_demo,abayla_demo_v1,demo_g043,verified
+demo_0093,"Сдаю квартиру в центре за 80 000 в месяц. Сейчас я за границей, ключи пришлю курьером только после перевода залога.",scam,fake_ad,ru,synthetic_demo,abayla_demo_v1,demo_g044,verified
+demo_0094,"Орталықтағы пәтерді айына 80 000-ға жалға беремін. Қазір шетелдемін, кепіл ақшасын аударғаннан кейін ғана кілтті курьермен жіберемін.",scam,fake_ad,kk,synthetic_demo,abayla_demo_v1,demo_g044,verified
+demo_0095,"Покупатель: перевёл вам оплату, но банк требует подтверждения. Назовите код из SMS, чтобы деньги поступили.",scam,fake_ad,ru,synthetic_demo,abayla_demo_v1,demo_g045,verified
+demo_0096,"Сатып алушы: сізге төлем аудардым, бірақ банк растауды талап етеді. Ақша түсуі үшін SMS-тегі кодты айтыңыз.",scam,fake_ad,kk,synthetic_demo,abayla_demo_v1,demo_g045,verified
+demo_0127,"Ваш электросчётчик неисправен, завтра отключим свет. Чтобы избежать отключения, оплатите проверку мастеру 15 000 сегодня.",scam,other_scheme,ru,synthetic_demo,abayla_demo_v1,demo_g060,verified
+demo_0128,"Электр есептегішіңіз ақаулы, ертең жарықты өшіреміз. Өшірмеу үшін бүгін шеберге тексеру ақысын 15 000 төлеңіз.",scam,other_scheme,kk,synthetic_demo,abayla_demo_v1,demo_g060,verified
+demo_0133,"Вас беспокоят из благотворительного фонда. Ребёнку срочно нужна операция, переведите любую сумму на личную карту волонтёра.",scam,other_scheme,ru,synthetic_demo,abayla_demo_v1,demo_g063,verified
+demo_0134,"Қайырымдылық қорынан хабарласып тұрмыз. Балаға тез ота керек, еріктінің жеке картасына кез келген соманы аударыңыз.",scam,other_scheme,kk,synthetic_demo,abayla_demo_v1,demo_g063,verified
+demo_0146,"Код подтверждения операции: 739104. Если вы не совершали операцию, не сообщайте код и позвоните в банк по номеру на обратной стороне карты.",not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g069,verified
+demo_0147,"Операцияны растау коды: 739104. Егер операцияны сіз жасамасаңыз, кодты айтпаңыз және картаның артындағы нөмір бойынша банкке хабарласыңыз.",not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g069,verified
+demo_0148,Код для входа на портал госуслуг: 5512. Не передавайте его третьим лицам.,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g070,verified
+demo_0149,Мемлекеттік қызметтер порталына кіру коды: 5512. Оны үшінші тұлғаларға бермеңіз.,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g070,verified
+demo_0154,"Вход в мобильный банк с нового устройства. Если это были не вы, смените пароль в приложении.",not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g073,verified
+demo_0155,"Мобильді банкке жаңа құрылғыдан кіру. Егер бұл сіз болмасаңыз, қосымшада құпиясөзді өзгертіңіз.",not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g073,verified
+demo_0170,Банк: по вкладу начислено вознаграждение 3 120 тенге.,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g081,verified
+demo_0171,Банк: салым бойынша 3 120 теңге сыйақы есептелді.,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g081,verified
+demo_0200,"Дорогая, я задержусь на работе, ужинайте без меня.",not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g095,verified
+demo_0201,"Жаным, жұмыста кешігемін, кешкі асты менсіз ішіңдер.",not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g095,verified
+demo_0214,Результаты анализов готовы. Их можно получить у участкового врача.,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g102,verified
+demo_0215,Талдау нәтижелері дайын. Оларды учаскелік дәрігерден алуға болады.,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g102,verified
+demo_0220,Запись на приём к врачу доступна на сайте https://clinic.example.org/booking,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g105,verified
+demo_0221,Дәрігер қабылдауына жазылу https://clinic.example.org/booking сайтында қолжетімді.,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g105,verified
+demo_0256,"Напоминаю, что в воскресенье у нас поминки по дедушке, начало в 13:00.",not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g123,verified
+demo_0257,"Еске саламын, жексенбіде атамыздың асы болады, басталуы 13:00-де.",not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g123,verified
+demo_0260,"Хор ветеранов приглашает на концерт в Доме культуры в пятницу, вход свободный.",not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g125,verified
+demo_0261,"Ардагерлер хоры жұма күні Мәдениет үйіндегі концертке шақырады, кіру тегін.",not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g125,verified
+demo_0279,Библиотека проводит бесплатные курсы компьютерной грамотности для пенсионеров по вторникам.,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g135,verified
+demo_0280,Кітапхана сейсенбі сайын зейнеткерлерге компьютерлік сауаттылықтың тегін курстарын өткізеді.,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g135,verified

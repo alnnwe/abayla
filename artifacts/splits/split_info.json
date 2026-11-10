@@ -1,5 +1,5 @@
 {
-  "dataset": "/home/claude/saqbol/data/demo/saqbol_demo_v1.csv",
+  "dataset": "/home/claude/abayla/data/demo/abayla_demo_v1.csv",
   "seed": 42,
   "rows_total": 286,
   "rows_trainable": 280,
@@ -22,5 +22,5 @@
     "not_scam": 21
   },
   "augment": false,
-  "data_hash": "ee6de8e8d62699ba"
+  "data_hash": "c3abdde2ae2a42d2"
 }

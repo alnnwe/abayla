@@ -1,9 +1,9 @@
 import pandas as pd
 import pytest
 
-from saqbol.data.prepare import (augment_train, check_no_group_leakage, group_split, import_user_csv,
+from abayla.data.prepare import (augment_train, check_no_group_leakage, group_split, import_user_csv,
                                  load_dataset)
-from saqbol.data.schema import COLUMNS, trainable, validate
+from abayla.data.schema import COLUMNS, trainable, validate
 
 
 def _row(**kw):

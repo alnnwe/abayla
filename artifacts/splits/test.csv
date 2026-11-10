@@ -1,41 +1,41 @@
 id,text,label,scheme,language,source_type,source_id,template_group,annotation_status
-demo_0025,"Вам звонит прокурор. Ваш счёт арестован. Для снятия ареста оплатите штраф 85 000 тенге по реквизитам, которые я вышлю.",scam,bank_police_impersonation,ru,synthetic_demo,saqbol_demo_v1,demo_g011,verified
-demo_0026,Сізге прокурор хабарласып тұр. Шотыңызға тыйым салынды. Тыйымды алу үшін мен жіберетін деректемелер бойынша 85 000 теңге айыппұл төлеңіз.,scam,bank_police_impersonation,kk,synthetic_demo,saqbol_demo_v1,demo_g011,verified
-demo_0029,"Ваш счёт используют мошенники. Чтобы мы могли его защитить, оформите новый кредит, а деньги переведите на безопасный счёт.",scam,bank_police_impersonation,ru,synthetic_demo,saqbol_demo_v1,demo_g013,verified
-demo_0030,"Шотыңызды алаяқтар пайдаланып жатыр. Оны қорғауымыз үшін жаңа несие рәсімдеп, ақшаны қауіпсіз шотқа аударыңыз.",scam,bank_police_impersonation,kk,synthetic_demo,saqbol_demo_v1,demo_g013,verified
-demo_0050,"Поздравляем! Вы выиграли смартфон в акции магазина. Чтобы забрать приз, перейдите на http://prize-win.example.com и оплатите доставку.",scam,phishing,ru,synthetic_demo,saqbol_demo_v1,demo_g023,verified
-demo_0051,"Құттықтаймыз! Дүкен акциясында смартфон ұтып алдыңыз. Сыйлықты алу үшін http://prize-win.example.com сайтына өтіп, жеткізу ақысын төлеңіз.",scam,phishing,kk,synthetic_demo,saqbol_demo_v1,demo_g023,verified
-demo_0052,"Обновите данные на портале госуслуг, иначе пособие будет приостановлено: http://gov-update.example.net/form",scam,phishing,ru,synthetic_demo,saqbol_demo_v1,demo_g024,verified
-demo_0053,"Мемлекеттік қызметтер порталында деректеріңізді жаңартыңыз, әйтпесе жәрдемақы тоқтатылады: http://gov-update.example.net/form",scam,phishing,kk,synthetic_demo,saqbol_demo_v1,demo_g024,verified
-demo_0077,"Мам, срочно переведи деньги, меня ограбили, я в другом городе. Позвонить не могу, только пиши сюда.",scam,relative_in_trouble,ru,synthetic_demo,saqbol_demo_v1,demo_g036,verified
-demo_0078,"Апа, тез ақша аударшы, мені тонап кетті, басқа қаладамын. Қоңырау шала алмаймын, тек осында жаз.",scam,relative_in_trouble,kk,synthetic_demo,saqbol_demo_v1,demo_g036,verified
-demo_0087,"Апа, срочно ақша керек, переведи на эту карту, телефоным сынып қалды, кейін түсіндіремін.",scam,relative_in_trouble,mixed,synthetic_demo,saqbol_demo_v1,demo_g041,verified
-demo_0103,"Отдам холодильник, нужно только оплатить курьеру 5 000 по ссылке http://deliv-pay.example.net",scam,fake_ad,ru,synthetic_demo,saqbol_demo_v1,demo_g049,verified
-demo_0104,"Тоңазытқышты тек жеткізу ақысына беремін, курьерге 5 000 төлеу керек: http://deliv-pay.example.net",scam,fake_ad,kk,synthetic_demo,saqbol_demo_v1,demo_g049,verified
-demo_0114,"Пригласи трёх друзей и получи 150% к вкладу. Выплаты каждый день, проверено тысячами пенсионеров.",scam,investment,ru,synthetic_demo,saqbol_demo_v1,demo_g054,verified
-demo_0115,"Үш досыңды шақырып, салымыңа 150% ал. Төлемдер күн сайын, мыңдаған зейнеткер тексерген.",scam,investment,kk,synthetic_demo,saqbol_demo_v1,demo_g054,verified
-demo_0125,Вакансия: курьер с оплатой 600 000 в месяц. Нужно только принимать переводы на свою карту и снимать наличные для руководителя.,scam,other_scheme,ru,synthetic_demo,saqbol_demo_v1,demo_g059,verified
-demo_0126,"Бос орын: айына 600 000 жалақымен курьер. Тек өз картаңызға аударым қабылдап, басшыға қолма-қол ақша шешіп беру керек.",scam,other_scheme,kk,synthetic_demo,saqbol_demo_v1,demo_g059,verified
-demo_0129,"Вам положена компенсация за некачественные лекарства. Юрист поможет её получить, оплатите госпошлину 20 000 тенге.",scam,other_scheme,ru,synthetic_demo,saqbol_demo_v1,demo_g061,verified
-demo_0130,"Сапасыз дәрі үшін сізге өтемақы тиесілі. Заңгер оны алуға көмектеседі, 20 000 теңге мемлекеттік баж төлеңіз.",scam,other_scheme,kk,synthetic_demo,saqbol_demo_v1,demo_g061,verified
-demo_0150,Ваш одноразовый пароль: 0937. Действует 5 минут. Сотрудники банка никогда не спрашивают пароли.,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g071,verified
-demo_0151,Бір реттік құпиясөзіңіз: 0937. 5 минут жарамды. Банк қызметкерлері ешқашан құпиясөз сұрамайды.,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g071,verified
-demo_0156,"Демобанк: покупка 3 450 тенге, магазин «Продукты». Доступно: 52 300 тенге.",not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g074,verified
-demo_0157,"Демобанк: сатып алу 3 450 теңге, «Азық-түлік» дүкені. Қолжетімді: 52 300 теңге.",not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g074,verified
-demo_0160,Перевод от Сауле К. 15 000 тенге зачислен на карту *1234.,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g076,verified
-demo_0161,Сәуле К. жіберген 15 000 теңге аударым *1234 картасына түсті.,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g076,verified
-demo_0172,Демобанк предупреждает: сотрудники банка никогда не просят коды из SMS и не предлагают перевести деньги на безопасный счёт. Если вам так звонят — положите трубку.,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g082,verified
-demo_0173,Демобанк ескертеді: банк қызметкерлері ешқашан SMS-тегі кодтарды сұрамайды және ақшаны қауіпсіз шотқа аударуды ұсынбайды. Сізге осылай қоңырау шалса — тұтқаны қойыңыз.,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g082,verified
-demo_0174,Помните: банк никогда не просит назвать код из SMS и не переводит деньги на «безопасные счета». Такие звонки — мошенничество.,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g082,verified
-demo_0202,"Мам, я записала тебя к окулисту на среду, талон пришлю в мессенджер.",not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g096,verified
-demo_0203,"Апа, сені сәрсенбіге окулистке жаздырдым, талонды мессенджерге жіберемін.",not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g096,verified
-demo_0208,Курьер будет у вас через 15 минут. Оплата при получении.,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g099,verified
-demo_0209,Курьер 15 минуттан кейін келеді. Төлем алған кезде.,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g099,verified
-demo_0216,Приглашаем на бесплатную вакцинацию от гриппа в поликлинику по месту жительства.,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g103,verified
-demo_0217,Тұрғылықты жеріңіздегі емханада тұмауға қарсы тегін вакцинацияға шақырамыз.,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g103,verified
-demo_0232,"Напоминаем о поверке газового счётчика. Записаться можно по телефону, указанному в вашей квитанции.",not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g111,verified
-demo_0233,Газ есептегішін тексерту қажеттігін еске саламыз. Түбіртегіңізде көрсетілген телефон арқылы жазылуға болады.,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g111,verified
-demo_0240,Магазин «Пример»: вы выиграли в нашей акции купон на скидку 10%. Покажите это сообщение на кассе.,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g115,verified
-demo_0241,«Мысал» дүкені: акциямызда 10% жеңілдік купонын ұтып алдыңыз. Бұл хабарламаны кассада көрсетіңіз.,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g115,verified
-demo_0267,"Продаю детскую коляску, 25 000 тенге. Можно посмотреть в любой день, оплата при встрече.",not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g129,verified
-demo_0268,"Балалар арбасын сатамын, 25 000 теңге. Кез келген күні көруге болады, төлем кездескенде.",not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g129,verified
+demo_0025,"Вам звонит прокурор. Ваш счёт арестован. Для снятия ареста оплатите штраф 85 000 тенге по реквизитам, которые я вышлю.",scam,bank_police_impersonation,ru,synthetic_demo,abayla_demo_v1,demo_g011,verified
+demo_0026,Сізге прокурор хабарласып тұр. Шотыңызға тыйым салынды. Тыйымды алу үшін мен жіберетін деректемелер бойынша 85 000 теңге айыппұл төлеңіз.,scam,bank_police_impersonation,kk,synthetic_demo,abayla_demo_v1,demo_g011,verified
+demo_0029,"Ваш счёт используют мошенники. Чтобы мы могли его защитить, оформите новый кредит, а деньги переведите на безопасный счёт.",scam,bank_police_impersonation,ru,synthetic_demo,abayla_demo_v1,demo_g013,verified
+demo_0030,"Шотыңызды алаяқтар пайдаланып жатыр. Оны қорғауымыз үшін жаңа несие рәсімдеп, ақшаны қауіпсіз шотқа аударыңыз.",scam,bank_police_impersonation,kk,synthetic_demo,abayla_demo_v1,demo_g013,verified
+demo_0050,"Поздравляем! Вы выиграли смартфон в акции магазина. Чтобы забрать приз, перейдите на http://prize-win.example.com и оплатите доставку.",scam,phishing,ru,synthetic_demo,abayla_demo_v1,demo_g023,verified
+demo_0051,"Құттықтаймыз! Дүкен акциясында смартфон ұтып алдыңыз. Сыйлықты алу үшін http://prize-win.example.com сайтына өтіп, жеткізу ақысын төлеңіз.",scam,phishing,kk,synthetic_demo,abayla_demo_v1,demo_g023,verified
+demo_0052,"Обновите данные на портале госуслуг, иначе пособие будет приостановлено: http://gov-update.example.net/form",scam,phishing,ru,synthetic_demo,abayla_demo_v1,demo_g024,verified
+demo_0053,"Мемлекеттік қызметтер порталында деректеріңізді жаңартыңыз, әйтпесе жәрдемақы тоқтатылады: http://gov-update.example.net/form",scam,phishing,kk,synthetic_demo,abayla_demo_v1,demo_g024,verified
+demo_0077,"Мам, срочно переведи деньги, меня ограбили, я в другом городе. Позвонить не могу, только пиши сюда.",scam,relative_in_trouble,ru,synthetic_demo,abayla_demo_v1,demo_g036,verified
+demo_0078,"Апа, тез ақша аударшы, мені тонап кетті, басқа қаладамын. Қоңырау шала алмаймын, тек осында жаз.",scam,relative_in_trouble,kk,synthetic_demo,abayla_demo_v1,demo_g036,verified
+demo_0087,"Апа, срочно ақша керек, переведи на эту карту, телефоным сынып қалды, кейін түсіндіремін.",scam,relative_in_trouble,mixed,synthetic_demo,abayla_demo_v1,demo_g041,verified
+demo_0103,"Отдам холодильник, нужно только оплатить курьеру 5 000 по ссылке http://deliv-pay.example.net",scam,fake_ad,ru,synthetic_demo,abayla_demo_v1,demo_g049,verified
+demo_0104,"Тоңазытқышты тек жеткізу ақысына беремін, курьерге 5 000 төлеу керек: http://deliv-pay.example.net",scam,fake_ad,kk,synthetic_demo,abayla_demo_v1,demo_g049,verified
+demo_0114,"Пригласи трёх друзей и получи 150% к вкладу. Выплаты каждый день, проверено тысячами пенсионеров.",scam,investment,ru,synthetic_demo,abayla_demo_v1,demo_g054,verified
+demo_0115,"Үш досыңды шақырып, салымыңа 150% ал. Төлемдер күн сайын, мыңдаған зейнеткер тексерген.",scam,investment,kk,synthetic_demo,abayla_demo_v1,demo_g054,verified
+demo_0125,Вакансия: курьер с оплатой 600 000 в месяц. Нужно только принимать переводы на свою карту и снимать наличные для руководителя.,scam,other_scheme,ru,synthetic_demo,abayla_demo_v1,demo_g059,verified
+demo_0126,"Бос орын: айына 600 000 жалақымен курьер. Тек өз картаңызға аударым қабылдап, басшыға қолма-қол ақша шешіп беру керек.",scam,other_scheme,kk,synthetic_demo,abayla_demo_v1,demo_g059,verified
+demo_0129,"Вам положена компенсация за некачественные лекарства. Юрист поможет её получить, оплатите госпошлину 20 000 тенге.",scam,other_scheme,ru,synthetic_demo,abayla_demo_v1,demo_g061,verified
+demo_0130,"Сапасыз дәрі үшін сізге өтемақы тиесілі. Заңгер оны алуға көмектеседі, 20 000 теңге мемлекеттік баж төлеңіз.",scam,other_scheme,kk,synthetic_demo,abayla_demo_v1,demo_g061,verified
+demo_0150,Ваш одноразовый пароль: 0937. Действует 5 минут. Сотрудники банка никогда не спрашивают пароли.,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g071,verified
+demo_0151,Бір реттік құпиясөзіңіз: 0937. 5 минут жарамды. Банк қызметкерлері ешқашан құпиясөз сұрамайды.,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g071,verified
+demo_0156,"Демобанк: покупка 3 450 тенге, магазин «Продукты». Доступно: 52 300 тенге.",not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g074,verified
+demo_0157,"Демобанк: сатып алу 3 450 теңге, «Азық-түлік» дүкені. Қолжетімді: 52 300 теңге.",not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g074,verified
+demo_0160,Перевод от Сауле К. 15 000 тенге зачислен на карту *1234.,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g076,verified
+demo_0161,Сәуле К. жіберген 15 000 теңге аударым *1234 картасына түсті.,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g076,verified
+demo_0172,Демобанк предупреждает: сотрудники банка никогда не просят коды из SMS и не предлагают перевести деньги на безопасный счёт. Если вам так звонят — положите трубку.,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g082,verified
+demo_0173,Демобанк ескертеді: банк қызметкерлері ешқашан SMS-тегі кодтарды сұрамайды және ақшаны қауіпсіз шотқа аударуды ұсынбайды. Сізге осылай қоңырау шалса — тұтқаны қойыңыз.,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g082,verified
+demo_0174,Помните: банк никогда не просит назвать код из SMS и не переводит деньги на «безопасные счета». Такие звонки — мошенничество.,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g082,verified
+demo_0202,"Мам, я записала тебя к окулисту на среду, талон пришлю в мессенджер.",not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g096,verified
+demo_0203,"Апа, сені сәрсенбіге окулистке жаздырдым, талонды мессенджерге жіберемін.",not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g096,verified
+demo_0208,Курьер будет у вас через 15 минут. Оплата при получении.,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g099,verified
+demo_0209,Курьер 15 минуттан кейін келеді. Төлем алған кезде.,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g099,verified
+demo_0216,Приглашаем на бесплатную вакцинацию от гриппа в поликлинику по месту жительства.,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g103,verified
+demo_0217,Тұрғылықты жеріңіздегі емханада тұмауға қарсы тегін вакцинацияға шақырамыз.,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g103,verified
+demo_0232,"Напоминаем о поверке газового счётчика. Записаться можно по телефону, указанному в вашей квитанции.",not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g111,verified
+demo_0233,Газ есептегішін тексерту қажеттігін еске саламыз. Түбіртегіңізде көрсетілген телефон арқылы жазылуға болады.,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g111,verified
+demo_0240,Магазин «Пример»: вы выиграли в нашей акции купон на скидку 10%. Покажите это сообщение на кассе.,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g115,verified
+demo_0241,«Мысал» дүкені: акциямызда 10% жеңілдік купонын ұтып алдыңыз. Бұл хабарламаны кассада көрсетіңіз.,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g115,verified
+demo_0267,"Продаю детскую коляску, 25 000 тенге. Можно посмотреть в любой день, оплата при встрече.",not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g129,verified
+demo_0268,"Балалар арбасын сатамын, 25 000 теңге. Кез келген күні көруге болады, төлем кездескенде.",not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g129,verified

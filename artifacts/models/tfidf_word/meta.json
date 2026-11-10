@@ -1,7 +1,7 @@
 {
   "model_type": "tfidf_lr",
   "name": "tfidf_word",
-  "data_version": "saqbol_demo_v1@ee6de8e8d62699ba",
+  "data_version": "abayla_demo_v1@c3abdde2ae2a42d2",
   "demo_data": true,
   "seed": 42,
   "params": {
@@ -27,14 +27,16 @@
     "preliminary": true,
     "selection_note": "val: n=43, scam=23; при binary=0.590 precision=0.917, recall=0.957; критерии: recall>=0.9, low: recall>=0.98, high: precision>=0.95"
   },
-  "train_time_s": 0.038,
+  "train_time_s": 0.036,
   "hardware": "Linux 6.18.44-fc-v338, x86_64, 1 CPU, RAM 3.9 GB, нет GPU, Python 3.12.3",
-  "created_at": "2026-11-10T18:42:40+00:00",
+  "created_at": "2026-11-10T19:17:00+00:00",
   "extra": {
     "packages": {
       "numpy": "2.5.4",
       "pandas": "3.0.6",
       "sklearn": "1.9.1",
+      "torch": "2.15.0+cpu",
+      "transformers": "5.22.2",
       "aiogram": "3.31.0"
     },
     "n_train": 197,

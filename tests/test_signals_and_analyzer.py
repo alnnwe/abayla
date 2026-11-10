@@ -1,10 +1,10 @@
 import numpy as np
 import pytest
 
-from saqbol.features.signals import detect_signals
-from saqbol.features.url_analysis import analyze_url, extract_urls
-from saqbol.models.base import load_model
-from saqbol.service.analyzer import EmptyTextError
+from abayla.features.signals import detect_signals
+from abayla.features.url_analysis import analyze_url, extract_urls
+from abayla.models.base import load_model
+from abayla.service.analyzer import EmptyTextError
 
 NOTIFICATION_VS_REQUEST = [
     ("Ваш код входа: 4821. Никому его не сообщайте.", "Продиктуйте код из SMS."),

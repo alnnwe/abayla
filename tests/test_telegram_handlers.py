@@ -9,10 +9,10 @@ from aiogram.client.session.base import BaseSession
 from aiogram.methods import AnswerCallbackQuery, GetChat, GetMe, SendMessage
 from aiogram.types import CallbackQuery, Chat, Message, Update, User
 
-from saqbol.bot.logic import SaqBolCore
-from saqbol.bot.main import build_dispatcher
-from saqbol.config import Settings
-from saqbol.storage.db import Storage
+from abayla.bot.logic import AbaylaCore
+from abayla.bot.main import build_dispatcher
+from abayla.config import Settings
+from abayla.storage.db import Storage
 
 _ids = itertools.count(1)
 
@@ -28,7 +28,7 @@ class RecordingSession(BaseSession):
             return Message(message_id=next(_ids), date=dt.datetime.now(),
                            chat=Chat(id=method.chat_id, type="private"), text=method.text)
         if isinstance(method, GetMe):
-            return User(id=999, is_bot=True, first_name="SaqBol", username="saqbol_demo_bot")
+            return User(id=999, is_bot=True, first_name="Abayla", username="abayla_demo_bot")
         if isinstance(method, AnswerCallbackQuery):
             return True
         if isinstance(method, GetChat):
@@ -66,7 +66,7 @@ _DP = {}
 def env(analyzer):
     session = RecordingSession()
     bot = Bot(token="123456:TEST_TOKEN_FOR_UNIT_TESTS_ONLY_xx", session=session)
-    core = SaqBolCore(Storage(":memory:"), analyzer, Settings(hash_secret="t", llm_enabled=False))
+    core = AbaylaCore(Storage(":memory:"), analyzer, Settings(hash_secret="t", llm_enabled=False))
     # router модуля подключается к диспетчеру один раз; для каждого теста подменяем только core
     if "dp" not in _DP:
         _DP["dp"] = build_dispatcher(core)
@@ -97,7 +97,7 @@ def test_full_flow_language_check_link_notify_delete(env):
     # пожилой пользователь даёт согласие и получает одноразовую ссылку
     out = feed(cb_update(*elder, "link:allow"))
     link_text = out[0][1]
-    assert "https://t.me/saqbol_demo_bot?start=link_" in link_text
+    assert "https://t.me/abayla_demo_bot?start=link_" in link_text
     token = link_text.split("start=link_")[1].split()[0]
 
     # родственник открывает ссылку и соглашается

@@ -1,8 +1,8 @@
 import pytest
 
-from saqbol.bot.logic import SaqBolCore
-from saqbol.config import Settings
-from saqbol.storage.db import LinkError, Storage
+from abayla.bot.logic import AbaylaCore
+from abayla.config import Settings
+from abayla.storage.db import LinkError, Storage
 
 HIGH = "Здравствуйте, служба безопасности банка. Продиктуйте код из SMS, иначе счёт заблокируют. Срочно."
 ELDER, RELATIVE, STRANGER = 1001, 2002, 3003
@@ -24,7 +24,7 @@ def clock():
 @pytest.fixture
 def core(analyzer, clock):
     s = Settings(hash_secret="test", link_ttl_minutes=30, llm_enabled=False)
-    return SaqBolCore(Storage(":memory:", clock=clock), analyzer, s)
+    return AbaylaCore(Storage(":memory:", clock=clock), analyzer, s)
 
 
 def link(core):

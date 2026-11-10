@@ -2,7 +2,7 @@ import os
 
 import pytest
 
-from saqbol.voice.asr import temporary_audio_path
+from abayla.voice.asr import temporary_audio_path
 
 
 def test_temp_audio_removed_after_use():

@@ -1,7 +1,7 @@
 {
   "model_type": "transformer",
   "name": "xlmr",
-  "data_version": "saqbol_demo_v1@ee6de8e8d62699ba",
+  "data_version": "abayla_demo_v1@ee6de8e8d62699ba",
   "demo_data": true,
   "seed": 42,
   "params": {

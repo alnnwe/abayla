@@ -4,12 +4,12 @@ from pathlib import Path
 import pytest
 
 ROOT = Path(__file__).resolve().parents[1]
-os.environ.setdefault("SAQBOL_HASH_SECRET", "test-secret")
+os.environ.setdefault("ABAYLA_HASH_SECRET", "test-secret")
 
 
 @pytest.fixture(scope="session")
 def demo_csv(tmp_path_factory) -> Path:
-    from saqbol.data.demo_dataset import write_demo_csv
+    from abayla.data.demo_dataset import write_demo_csv
 
     return write_demo_csv(tmp_path_factory.mktemp("data") / "demo.csv")
 
@@ -17,7 +17,7 @@ def demo_csv(tmp_path_factory) -> Path:
 @pytest.fixture(scope="session")
 def trained_dir(tmp_path_factory, demo_csv) -> Path:
     """Обучает tfidf_wordchar на демо-данных во временном каталоге (не трогает artifacts/)."""
-    from saqbol.training.train import main
+    from abayla.training.train import main
 
     out = tmp_path_factory.mktemp("models")
     splits = tmp_path_factory.mktemp("splits")
@@ -27,6 +27,6 @@ def trained_dir(tmp_path_factory, demo_csv) -> Path:
 
 @pytest.fixture(scope="session")
 def analyzer(trained_dir):
-    from saqbol.service.analyzer import Analyzer
+    from abayla.service.analyzer import Analyzer
 
     return Analyzer.from_dir(trained_dir / "tfidf_wordchar")

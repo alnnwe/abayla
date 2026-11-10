@@ -1,4 +1,4 @@
-# Описание датасета SaqBol
+# Описание датасета Abayla
 
 ## Формат (CSV, UTF-8)
 
@@ -14,7 +14,7 @@
 | template_group | строка | группа шаблона: оригинал, перевод и перефразировки должны иметь ОДНУ группу |
 | annotation_status | `verified` / `pending` / `disputed` | в обучение идут только `verified` |
 
-Проверка формата: `saqbol/data/schema.py::validate` (обязательные колонки, допустимые значения, пустые тексты,
+Проверка формата: `abayla/data/schema.py::validate` (обязательные колонки, допустимые значения, пустые тексты,
 дубликаты id, согласованность `label` и `scheme`, группы с обоими классами).
 
 ## Типы источников
@@ -25,7 +25,7 @@
 - **synthetic** — написанный или сгенерированный пример. Результаты на синтетике показываются отдельно.
 - **synthetic_demo** — демонстрационный набор этого репозитория.
 
-## Демонстрационный набор `saqbol_demo_v1`
+## Демонстрационный набор `abayla_demo_v1`
 
 - 286 строк, 141 группа шаблонов (в среднем 2 текста на группу: RU-оригинал, KZ-перевод, иногда перефразировка).
 - Классы: scam 145, not_scam 141. Языки: ru 149, kk 133, mixed 4.
@@ -52,12 +52,12 @@
 - TF-IDF обучается только на train (внутри `Pipeline.fit`).
 - Аугментация (`--augment`) применяется только к train и только после разбиения; validation и test
   побайтово совпадают с вариантом без аугментации.
-- Пороги выбираются только на validation; test используется один раз в `saqbol.evaluation.evaluate`.
+- Пороги выбираются только на validation; test используется один раз в `abayla.evaluation.evaluate`.
 
 ## Импорт своего CSV
 
 ```python
-from saqbol.data.prepare import import_user_csv
+from abayla.data.prepare import import_user_csv
 df = import_user_csv("my.csv", text_col="message", label_col="is_fraud",
                      defaults={"source_type": "real", "language": "ru"})
 df.to_csv("data/raw/my_converted.csv", index=False)

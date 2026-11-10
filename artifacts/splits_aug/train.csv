@@ -1,395 +1,395 @@
 id,text,label,scheme,language,source_type,source_id,template_group,annotation_status,augmented
-demo_0001,"Здравствуйте! Вас беспокоит служба безопасности Демобанка. По вашей карте зафиксирована попытка списания 450 000 тенге. Чтобы отменить операцию, продиктуйте код из SMS.",scam,bank_police_impersonation,ru,synthetic_demo,saqbol_demo_v1,demo_g001,verified,0
-demo_0002,Сәлеметсіз бе! Демобанктің қауіпсіздік қызметінен хабарласып тұрмыз. Картаңыздан 450 000 теңге шешуге әрекет жасалды. Операцияны тоқтату үшін SMS-тегі кодты айтыңыз.,scam,bank_police_impersonation,kk,synthetic_demo,saqbol_demo_v1,demo_g001,verified,0
-demo_0003,"Служба безопасности банка: с вашего счёта пытаются снять деньги. Срочно сообщите код подтверждения, который сейчас придёт.",scam,bank_police_impersonation,ru,synthetic_demo,saqbol_demo_v1,demo_g001,verified,0
-demo_0004,"Это следователь Иванов, департамент полиции. На ваше имя пытаются оформить кредит. Никому не рассказывайте о нашем разговоре и переведите сбережения на безопасный счёт, который я продиктую.",scam,bank_police_impersonation,ru,synthetic_demo,saqbol_demo_v1,demo_g002,verified,0
-demo_0005,"Полиция департаментінің тергеушісімін. Сіздің атыңызға несие рәсімдемек болып жатыр. Бұл әңгіме туралы ешкімге айтпаңыз, жинағыңызды мен айтатын қауіпсіз шотқа аударыңыз.",scam,bank_police_impersonation,kk,synthetic_demo,saqbol_demo_v1,demo_g002,verified,0
-demo_0006,"Говорит сотрудник полиции. Против вас готовят мошенническую операцию. Чтобы сохранить деньги, переведите их на защищённый счёт и не говорите родственникам.",scam,bank_police_impersonation,ru,synthetic_demo,saqbol_demo_v1,demo_g002,verified,0
-demo_0007,"Ваша карта заблокирована из-за подозрительной активности. Для разблокировки назовите номер карты, срок действия и три цифры на обороте.",scam,bank_police_impersonation,ru,synthetic_demo,saqbol_demo_v1,demo_g003,verified,0
-demo_0008,"Күдікті әрекетке байланысты картаңыз бұғатталды. Бұғаттан шығару үшін карта нөмірін, жарамдылық мерзімін және артқы жағындағы үш санды айтыңыз.",scam,bank_police_impersonation,kk,synthetic_demo,saqbol_demo_v1,demo_g003,verified,0
-demo_0009,"Сотрудник Национального банка. Ваши деньги в опасности, мошенники получили доступ к счёту. Срочно снимите наличные и внесите их через терминал на резервный счёт.",scam,bank_police_impersonation,ru,synthetic_demo,saqbol_demo_v1,demo_g004,verified,0
-demo_0010,"Ұлттық банк қызметкерімін. Ақшаңыз қауіпте, алаяқтар шотыңызға қол жеткізді. Тез арада қолма-қол ақша алып, терминал арқылы резервтік шотқа салыңыз.",scam,bank_police_impersonation,kk,synthetic_demo,saqbol_demo_v1,demo_g004,verified,0
-demo_0014,"Ваш ИИН используется в мошеннических операциях. С вами свяжется сотрудник КНБ. Выполняйте его указания и никому не сообщайте об этом, иначе будет возбуждено уголовное дело.",scam,bank_police_impersonation,ru,synthetic_demo,saqbol_demo_v1,demo_g006,verified,0
-demo_0015,"Сіздің ЖСН-іңіз алаяқтық операцияларда қолданылуда. Сізбен ҰҚК қызметкері байланысады. Оның нұсқауларын орындаңыз және бұл туралы ешкімге айтпаңыз, әйтпесе қылмыстық іс қозғалады.",scam,bank_police_impersonation,kk,synthetic_demo,saqbol_demo_v1,demo_g006,verified,0
-demo_0016,"Оператор сотовой связи: срок действия вашей SIM-карты истекает. Чтобы продлить номер, назовите код, который придёт в SMS.",scam,bank_police_impersonation,ru,synthetic_demo,saqbol_demo_v1,demo_g007,verified,0
-demo_0017,Ұялы байланыс операторы: SIM-картаңыздың мерзімі бітіп жатыр. Нөмірді ұзарту үшін SMS арқылы келетін кодты айтыңыз.,scam,bank_police_impersonation,kk,synthetic_demo,saqbol_demo_v1,demo_g007,verified,0
-demo_0018,"Демобанк: на вас оформлена заявка на кредит 2 000 000 тенге. Если это не вы, срочно перезвоните по номеру +7 000 000 00 00 и подтвердите отмену кодом из SMS.",scam,bank_police_impersonation,ru,synthetic_demo,saqbol_demo_v1,demo_g008,verified,0
-demo_0019,"Демобанк: сіздің атыңызға 2 000 000 теңгеге несие өтінімі берілді. Егер бұл сіз болмасаңыз, +7 000 000 00 00 нөміріне тез хабарласып, SMS-тегі кодпен бас тартуды растаңыз.",scam,bank_police_impersonation,kk,synthetic_demo,saqbol_demo_v1,demo_g008,verified,0
-demo_0020,Пенсионный фонд: вам положена доплата к пенсии. Для зачисления продиктуйте данные карты и код подтверждения.,scam,bank_police_impersonation,ru,synthetic_demo,saqbol_demo_v1,demo_g009,verified,0
-demo_0021,Зейнетақы қоры: сізге зейнетақыға қосымша төлем тиесілі. Ақшаны аудару үшін карта деректерін және растау кодын айтыңыз.,scam,bank_police_impersonation,kk,synthetic_demo,saqbol_demo_v1,demo_g009,verified,0
-demo_0022,"Вам одобрена надбавка к пенсии. Чтобы её получить, сообщите номер карты и код, который придёт по SMS.",scam,bank_police_impersonation,ru,synthetic_demo,saqbol_demo_v1,demo_g009,verified,0
-demo_0023,"Это служба безопасности. Ваш родственник пытался взять кредит под ваше имя. Чтобы аннулировать заявку, нужно оформить встречный кредит и перевести деньги на защищённый счёт.",scam,bank_police_impersonation,ru,synthetic_demo,saqbol_demo_v1,demo_g010,verified,0
-demo_0024,"Қауіпсіздік қызметі хабарласып тұр. Туысыңыз сіздің атыңызға несие алмақ болды. Өтінімді жою үшін қарсы несие рәсімдеп, ақшаны қорғалған шотқа аудару керек.",scam,bank_police_impersonation,kk,synthetic_demo,saqbol_demo_v1,demo_g010,verified,0
-demo_0027,"Ваш электронный кошелёк будет закрыт сегодня. Чтобы сохранить средства, назовите кодовое слово и пароль от мобильного банка.",scam,bank_police_impersonation,ru,synthetic_demo,saqbol_demo_v1,demo_g012,verified,0
-demo_0028,Электронды әмияныңыз бүгін жабылады. Қаражатты сақтап қалу үшін кодтық сөзді және мобильді банк құпиясөзін айтыңыз.,scam,bank_police_impersonation,kk,synthetic_demo,saqbol_demo_v1,demo_g012,verified,0
-demo_0033,"Здравствуйте, специалист банка. Вам нужно продиктовать PIN-код, чтобы мы перевыпустили карту.",scam,bank_police_impersonation,ru,synthetic_demo,saqbol_demo_v1,demo_g015,verified,0
-demo_0034,"Сәлеметсіз бе, банк маманымын. Картаны қайта шығару үшін PIN-кодты айтуыңыз керек.",scam,bank_police_impersonation,kk,synthetic_demo,saqbol_demo_v1,demo_g015,verified,0
-demo_0035,"Вы стали жертвой утечки данных. Чтобы защитить пенсионные накопления, переведите их через приложение на счёт, который назовёт оператор.",scam,bank_police_impersonation,ru,synthetic_demo,saqbol_demo_v1,demo_g016,verified,0
-demo_0036,Деректеріңіз ағып кетті. Зейнетақы жинағыңызды қорғау үшін оларды қосымша арқылы оператор айтатын шотқа аударыңыз.,scam,bank_police_impersonation,kk,synthetic_demo,saqbol_demo_v1,demo_g016,verified,0
-demo_0037,"Демобанк қауіпсіздік қызметі: подтвердите операцию, SMS-тегі кодты айтыңыз, иначе карта будет заблокирована.",scam,bank_police_impersonation,mixed,synthetic_demo,saqbol_demo_v1,demo_g017,verified,0
-demo_0041,Вам начислена социальная выплата 42 500 тенге. Получите по ссылке http://203.0.113.45/payout и введите данные карты.,scam,phishing,ru,synthetic_demo,saqbol_demo_v1,demo_g019,verified,0
-demo_0042,"Сізге 42 500 теңге әлеуметтік төлем есептелді. http://203.0.113.45/payout сілтемесі арқылы алып, карта деректерін енгізіңіз.",scam,phishing,kk,synthetic_demo,saqbol_demo_v1,demo_g019,verified,0
-demo_0043,Посылка не может быть доставлена из-за неверного адреса. Оплатите 350 тенге за переадресацию: http://post-delivery.example.net/pay,scam,phishing,ru,synthetic_demo,saqbol_demo_v1,demo_g020,verified,0
-demo_0044,Мекенжай қате болғандықтан сәлемдеме жеткізілмейді. Қайта жіберу үшін 350 теңге төлеңіз: http://post-delivery.example.net/pay,scam,phishing,kk,synthetic_demo,saqbol_demo_v1,demo_g020,verified,0
-demo_0045,"Ваша посылка задержана на складе. Чтобы получить её, оплатите хранение по ссылке http://parcel-hold.example.net/fee",scam,phishing,ru,synthetic_demo,saqbol_demo_v1,demo_g020,verified,0
-demo_0046,Налоговая: у вас задолженность. Во избежание ареста имущества оплатите сегодня по ссылке http://tax-pay.secure-login.example.org/kz,scam,phishing,ru,synthetic_demo,saqbol_demo_v1,demo_g021,verified,0
-demo_0047,Салық қызметі: сізде берешек бар. Мүлікке тыйым салынбас үшін бүгін http://tax-pay.secure-login.example.org/kz сілтемесі арқылы төлеңіз.,scam,phishing,kk,synthetic_demo,saqbol_demo_v1,demo_g021,verified,0
-demo_0048,Ваш аккаунт в мессенджере будет удалён. Подтвердите номер: http://msg-verify.example.com/?id=88412,scam,phishing,ru,synthetic_demo,saqbol_demo_v1,demo_g022,verified,0
-demo_0049,Мессенджердегі аккаунтыңыз жойылады. Нөміріңізді растаңыз: http://msg-verify.example.com/?id=88412,scam,phishing,kk,synthetic_demo,saqbol_demo_v1,demo_g022,verified,0
-demo_0054,Ваша карта будет заблокирована. Войдите в личный кабинет по ссылке и введите код из SMS: http://xn--80ak6aa92e.example.com,scam,phishing,ru,synthetic_demo,saqbol_demo_v1,demo_g025,verified,0
-demo_0055,"Картаңыз бұғатталады. Сілтеме бойынша жеке кабинетке кіріп, SMS-тегі кодты енгізіңіз: http://xn--80ak6aa92e.example.com",scam,phishing,kk,synthetic_demo,saqbol_demo_v1,demo_g025,verified,0
-demo_0056,"Проголосуйте, пожалуйста, за мою внучку в конкурсе! Нужно войти через номер телефона и ввести код: http://vote-konkurs.example.com",scam,phishing,ru,synthetic_demo,saqbol_demo_v1,demo_g026,verified,0
-demo_0057,"Немерем байқауға қатысып жатыр, дауыс беріңізші! Телефон нөмірімен кіріп, кодты енгізу керек: http://vote-konkurs.example.com",scam,phishing,kk,synthetic_demo,saqbol_demo_v1,demo_g026,verified,0
-demo_0058,"Компенсация за коммунальные услуги: верните переплату 18 000 тенге, заполнив форму http://komunal-refund.example.org",scam,phishing,ru,synthetic_demo,saqbol_demo_v1,demo_g027,verified,0
-demo_0059,"Коммуналдық қызметтер бойынша өтемақы: http://komunal-refund.example.org формасын толтырып, артық төлеген 18 000 теңгені қайтарып алыңыз.",scam,phishing,kk,synthetic_demo,saqbol_demo_v1,demo_g027,verified,0
-demo_0060,"Ваш полис медстрахования истёк. Продлите в течение 24 часов: http://med-polis.example.com/renew , введите номер карты и CVV.",scam,phishing,ru,synthetic_demo,saqbol_demo_v1,demo_g028,verified,0
-demo_0061,"Медициналық сақтандыру полисіңіздің мерзімі бітті. 24 сағат ішінде ұзартыңыз: http://med-polis.example.com/renew , карта нөмірі мен CVV енгізіңіз.",scam,phishing,kk,synthetic_demo,saqbol_demo_v1,demo_g028,verified,0
-demo_0062,"Ваш банк обновил приложение. Скачайте новую версию по ссылке http://demobank-app.example.com/download.apk , старая перестанет работать сегодня.",scam,phishing,ru,synthetic_demo,saqbol_demo_v1,demo_g029,verified,0
-demo_0063,"Банкіңіз қосымшаны жаңартты. Жаңа нұсқасын http://demobank-app.example.com/download.apk сілтемесі арқылы жүктеңіз, ескісі бүгін жұмысын тоқтатады.",scam,phishing,kk,synthetic_demo,saqbol_demo_v1,demo_g029,verified,0
-demo_0064,Бонус 50 000 тенге для пенсионеров! Зарегистрируйтесь: https://pension-bonus.example.org@203.0.113.7/reg,scam,phishing,ru,synthetic_demo,saqbol_demo_v1,demo_g030,verified,0
-demo_0065,Зейнеткерлерге 50 000 теңге бонус! Тіркеліңіз: https://pension-bonus.example.org@203.0.113.7/reg,scam,phishing,kk,synthetic_demo,saqbol_demo_v1,demo_g030,verified,0
-demo_0066,"Мама, это я, у меня новый номер. Попал в аварию, нужны деньги срочно, переведи 300 000 на эту карту, папе не говори.",scam,relative_in_trouble,ru,synthetic_demo,saqbol_demo_v1,demo_g031,verified,0
-demo_0067,"Апа, бұл менмін, жаңа нөмір. Апатқа түстім, ақша тез керек, мына картаға 300 000 аударшы, әкеме айтпа.",scam,relative_in_trouble,kk,synthetic_demo,saqbol_demo_v1,demo_g031,verified,0
-demo_0068,"Мам, привет, это мой новый номер. Я влип в неприятность, срочно скинь деньги на карту, потом всё объясню.",scam,relative_in_trouble,ru,synthetic_demo,saqbol_demo_v1,demo_g031,verified,0
-demo_0069,"Здравствуйте, ваш сын задержан после ДТП. Чтобы не возбуждать дело, нужно передать 500 000 тенге. Курьер приедет к вам через час.",scam,relative_in_trouble,ru,synthetic_demo,saqbol_demo_v1,demo_g032,verified,0
-demo_0070,"Сәлеметсіз бе, ұлыңыз жол-көлік оқиғасынан кейін ұсталды. Іс қозғалмауы үшін 500 000 теңге беру керек. Бір сағаттан кейін курьер келеді.",scam,relative_in_trouble,kk,synthetic_demo,saqbol_demo_v1,demo_g032,verified,0
-demo_0071,"Бабушка, я в больнице, телефон разбился, пишу с чужого. Срочно нужны деньги на операцию, скинь на карту *4821, только никому не говори.",scam,relative_in_trouble,ru,synthetic_demo,saqbol_demo_v1,demo_g033,verified,0
-demo_0072,"Әже, ауруханадамын, телефоным сынып қалды, бөтен телефоннан жазып отырмын. Отаға тез ақша керек, *4821 картасына салып жіберші, ешкімге айтпа.",scam,relative_in_trouble,kk,synthetic_demo,saqbol_demo_v1,demo_g033,verified,0
-demo_0073,"Привет, это Ерлан. Пишу с нового номера, старый потерял. Можешь до вечера занять 150 000? Очень срочно, вечером верну.",scam,relative_in_trouble,ru,synthetic_demo,saqbol_demo_v1,demo_g034,verified,0
-demo_0074,"Сәлем, бұл Ерлан. Ескі нөмірімді жоғалтып алдым, жаңасынан жазып отырмын. Кешке дейін 150 000 қарызға бере аласың ба? Өте шұғыл, кешке қайтарамын.",scam,relative_in_trouble,kk,synthetic_demo,saqbol_demo_v1,demo_g034,verified,0
-demo_0075,"Ваша дочь сбила человека, она сейчас в отделении. Пострадавший согласен не писать заявление за компенсацию. Деньги нужны в течение часа.",scam,relative_in_trouble,ru,synthetic_demo,saqbol_demo_v1,demo_g035,verified,0
-demo_0076,"Қызыңыз адамды қағып кетті, қазір бөлімшеде отыр. Зардап шегуші өтемақы алса, арыз жазбауға келісті. Ақша бір сағат ішінде керек.",scam,relative_in_trouble,kk,synthetic_demo,saqbol_demo_v1,demo_g035,verified,0
-demo_0079,"Дедушка, это внук. Я попал в неприятности, нужен перевод 200 000. Не звони маме, она будет волноваться.",scam,relative_in_trouble,ru,synthetic_demo,saqbol_demo_v1,demo_g037,verified,0
-demo_0080,"Ата, бұл немереңмін. Қиын жағдайға тап болдым, 200 000 аудару керек. Анама қоңырау шалма, уайымдайды.",scam,relative_in_trouble,kk,synthetic_demo,saqbol_demo_v1,demo_g037,verified,0
-demo_0081,"Здравствуйте, я врач. Ваш внук в реанимации, нужны дорогие лекарства. Переведите деньги на карту медсестры, она купит.",scam,relative_in_trouble,ru,synthetic_demo,saqbol_demo_v1,demo_g038,verified,0
-demo_0082,"Сәлеметсіз бе, мен дәрігермін. Немереңіз реанимацияда, қымбат дәрі керек. Ақшаны медбикенің картасына аударыңыз, ол сатып алады.",scam,relative_in_trouble,kk,synthetic_demo,saqbol_demo_v1,demo_g038,verified,0
-demo_0085,"Здравствуй, это я, твой племянник. Мне неудобно просить, но нужна помощь — переведи 70 000 на карту друга, мою заблокировали.",scam,relative_in_trouble,ru,synthetic_demo,saqbol_demo_v1,demo_g040,verified,0
-demo_0086,"Сәлем, бұл мен, жиеніңмін. Сұрауға ыңғайсызмын, бірақ көмек керек — досымның картасына 70 000 аударшы, менікі бұғатталды.",scam,relative_in_trouble,kk,synthetic_demo,saqbol_demo_v1,demo_g040,verified,0
-demo_0097,"Продаём щенков породы шпиц, отправка по Казахстану. Бронь после оплаты 50% и страховки перевозки.",scam,fake_ad,ru,synthetic_demo,saqbol_demo_v1,demo_g046,verified,0
-demo_0098,"Шпиц тұқымды күшіктерін сатамыз, Қазақстан бойынша жіберу. 50% төлеп, тасымал сақтандыруын төлегеннен кейін брондаймыз.",scam,fake_ad,kk,synthetic_demo,saqbol_demo_v1,demo_g046,verified,0
-demo_0099,"Продаю авто срочно, цена ниже рынка в два раза. Машина на таможне, нужно оплатить растаможку, после этого пригоню.",scam,fake_ad,ru,synthetic_demo,saqbol_demo_v1,demo_g047,verified,0
-demo_0100,"Көлікті шұғыл сатамын, бағасы нарықтан екі есе арзан. Көлік кеденде тұр, кедендік ресімдеуді төлегеннен кейін алып келемін.",scam,fake_ad,kk,synthetic_demo,saqbol_demo_v1,demo_g047,verified,0
-demo_0101,"Билеты на концерт по сниженной цене! Пишите в личку, оплата переводом, билеты пришлю после оплаты.",scam,fake_ad,ru,synthetic_demo,saqbol_demo_v1,demo_g048,verified,0
-demo_0102,"Концертке арзан билеттер! Жеке хатқа жазыңыз, төлем аударым арқылы, билеттерді төлегеннен кейін жіберемін.",scam,fake_ad,kk,synthetic_demo,saqbol_demo_v1,demo_g048,verified,0
-demo_0105,"Продаю новый смартфон за 150 000. Только предоплата, встретиться не могу, отправлю почтой.",scam,fake_ad,ru,synthetic_demo,saqbol_demo_v1,demo_g050,verified,0
-demo_0106,"Жаңа смартфон сатамын, 150 000. Тек алдын ала төлем, кездесе алмаймын, поштамен жіберемін.",scam,fake_ad,kk,synthetic_demo,saqbol_demo_v1,demo_g050,verified,0
-demo_0107,"Инвестируйте 100 000 тенге и получайте 30% в неделю гарантированно! Проект одобрен государством, мест мало.",scam,investment,ru,synthetic_demo,saqbol_demo_v1,demo_g051,verified,0
-demo_0108,"100 000 теңге салып, аптасына 30% кепілді табыс алыңыз! Жобаны мемлекет мақұлдаған, орын аз.",scam,investment,kk,synthetic_demo,saqbol_demo_v1,demo_g051,verified,0
-demo_0109,"Гарантированная доходность 30% каждую неделю! Вложите от 100 000 тенге, количество участников ограничено.",scam,investment,ru,synthetic_demo,saqbol_demo_v1,demo_g051,verified,0
-demo_0110,Пассивный доход на криптовалюте без риска. Наш брокер удвоит ваши сбережения за месяц. Пишите менеджеру.,scam,investment,ru,synthetic_demo,saqbol_demo_v1,demo_g052,verified,0
-demo_0111,Криптовалютада тәуекелсіз пассивті табыс. Біздің брокер жинағыңызды бір айда екі есе көбейтеді. Менеджерге жазыңыз.,scam,investment,kk,synthetic_demo,saqbol_demo_v1,demo_g052,verified,0
-demo_0112,Акции крупной нефтяной компании теперь доступны каждому! Вложите от 50 000 и получайте доход от 200 000 в месяц.,scam,investment,ru,synthetic_demo,saqbol_demo_v1,demo_g053,verified,0
-demo_0113,"Ірі мұнай компаниясының акциялары енді бәріне қолжетімді! 50 000-нан бастап салып, айына 200 000-нан табыс табыңыз.",scam,investment,kk,synthetic_demo,saqbol_demo_v1,demo_g053,verified,0
-demo_0116,Вам одобрено участие в государственной инвестиционной программе. Для активации счёта внесите первый взнос 30 000 тенге.,scam,investment,ru,synthetic_demo,saqbol_demo_v1,demo_g055,verified,0
-demo_0117,Сізге мемлекеттік инвестициялық бағдарламаға қатысуға рұқсат берілді. Шотты белсендіру үшін алғашқы 30 000 теңге жарна салыңыз.,scam,investment,kk,synthetic_demo,saqbol_demo_v1,demo_g055,verified,0
-demo_0118,"Торговый робот зарабатывает за вас. Минимальный депозит 40 000, прибыль от 5% в день. Вывод в любое время.",scam,investment,ru,synthetic_demo,saqbol_demo_v1,demo_g056,verified,0
-demo_0119,"Сауда роботы сіз үшін табыс табады. Ең аз депозит 40 000, күніне 5%-дан бастап пайда. Кез келген уақытта шығаруға болады.",scam,investment,kk,synthetic_demo,saqbol_demo_v1,demo_g056,verified,0
-demo_0120,"Хотите доход как у банкира? Закрытый клуб инвесторов, вступительный взнос 25 000, гарантия прибыли 100%.",scam,investment,ru,synthetic_demo,saqbol_demo_v1,demo_g057,verified,0
-demo_0121,"Банкирдей табыс тапқыңыз келе ме? Инвесторлардың жабық клубы, кіру жарнасы 25 000, пайдаға 100% кепілдік.",scam,investment,kk,synthetic_demo,saqbol_demo_v1,demo_g057,verified,0
-demo_0122,Поздравляем! Ваш номер выиграл в лотерее 500 000 тенге. Для получения оплатите комиссию 9 900 тенге.,scam,other_scheme,ru,synthetic_demo,saqbol_demo_v1,demo_g058,verified,0
-demo_0123,Құттықтаймыз! Нөміріңіз лотереяда 500 000 теңге ұтты. Ұтысты алу үшін 9 900 теңге комиссия төлеңіз.,scam,other_scheme,kk,synthetic_demo,saqbol_demo_v1,demo_g058,verified,0
-demo_0124,"Вы стали победителем розыгрыша! Приз 500 000 тенге. Чтобы его получить, нужно сначала оплатить сбор.",scam,other_scheme,ru,synthetic_demo,saqbol_demo_v1,demo_g058,verified,0
-demo_0131,"Газовая служба: обязательная замена счётчика. Мастер придёт сегодня, оплата наличными 45 000, иначе штраф.",scam,other_scheme,ru,synthetic_demo,saqbol_demo_v1,demo_g062,verified,0
-demo_0132,"Газ қызметі: есептегішті міндетті түрде ауыстыру. Шебер бүгін келеді, қолма-қол 45 000 төлейсіз, әйтпесе айыппұл.",scam,other_scheme,kk,synthetic_demo,saqbol_demo_v1,demo_g062,verified,0
-demo_0135,"Мы из клиники. Ваши анализы показали опасное заболевание, срочно оплатите дорогое лечение сегодня со скидкой.",scam,other_scheme,ru,synthetic_demo,saqbol_demo_v1,demo_g064,verified,0
-demo_0136,"Емханадан хабарласып тұрмыз. Талдауларыңыз қауіпті ауруды көрсетті, емді бүгін жеңілдікпен тез төлеңіз.",scam,other_scheme,kk,synthetic_demo,saqbol_demo_v1,demo_g064,verified,0
-demo_0137,"Работа на дому, 25 000 в день! Нужно только оплатить обучающие материалы 7 000 тенге.",scam,other_scheme,ru,synthetic_demo,saqbol_demo_v1,demo_g065,verified,0
-demo_0138,"Үйден жұмыс, күніне 25 000! Тек оқу материалдарына 7 000 теңге төлеу керек.",scam,other_scheme,kk,synthetic_demo,saqbol_demo_v1,demo_g065,verified,0
-demo_0139,Ваш выигрыш в инвестиционной игре 1 200 000 тенге. Для вывода оплатите налог 12 000 тенге.,scam,other_scheme,ru,synthetic_demo,saqbol_demo_v1,demo_g066,verified,0
-demo_0140,Инвестициялық ойындағы ұтысыңыз 1 200 000 теңге. Шығару үшін 12 000 теңге салық төлеңіз.,scam,other_scheme,kk,synthetic_demo,saqbol_demo_v1,demo_g066,verified,0
-demo_0141,"Вы победитель розыгрыша магазина! Для получения подарка сообщите номер карты, мы переведём 30 000 тенге.",scam,other_scheme,ru,synthetic_demo,saqbol_demo_v1,demo_g067,verified,0
-demo_0142,"Сіз дүкен ұтыс ойынының жеңімпазысыз! Сыйлықты алу үшін карта нөміріңізді айтыңыз, біз 30 000 теңге аударамыз.",scam,other_scheme,kk,synthetic_demo,saqbol_demo_v1,demo_g067,verified,0
-demo_0143,"Ваш код входа в Демобанк: 4821. Никому его не сообщайте, даже сотрудникам банка.",not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g068,verified,0
-demo_0144,"Демобанкке кіру кодыңыз: 4821. Оны ешкімге, тіпті банк қызметкерлеріне де айтпаңыз.",not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g068,verified,0
-demo_0145,Код для входа в приложение Демобанка: 6610. Не сообщайте его никому.,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g068,verified,0
-demo_0152,Код для регистрации в приложении доставки: 2281. Никому не сообщайте этот код.,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g072,verified,0
-demo_0153,Жеткізу қосымшасына тіркелу коды: 2281. Бұл кодты ешкімге айтпаңыз.,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g072,verified,0
-demo_0158,Пенсия зачислена на ваш счёт: 98 000 тенге. Хорошего дня!,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g075,verified,0
-demo_0159,Зейнетақы шотыңызға түсті: 98 000 теңге. Күніңіз сәтті өтсін!,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g075,verified,0
-demo_0162,Напоминаем: платёж по кредиту 24 000 тенге нужно внести до 15 числа. Оплатить можно в приложении банка.,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g077,verified,0
-demo_0163,Еске саламыз: несие бойынша 24 000 теңге төлемді айдың 15-не дейін енгізу керек. Банк қосымшасында төлеуге болады.,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g077,verified,0
-demo_0164,Ваша новая карта готова. Получите её в отделении банка с удостоверением личности.,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g078,verified,0
-demo_0165,Жаңа картаңыз дайын. Оны жеке куәлігіңізбен банк бөлімшесінен алыңыз.,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g078,verified,0
-demo_0166,"Демобанк: срок действия карты *5678 истекает в следующем месяце. Перевыпуск бесплатный, оформите в приложении или отделении.",not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g079,verified,0
-demo_0167,"Демобанк: *5678 картасының мерзімі келесі айда бітеді. Қайта шығару тегін, қосымшада немесе бөлімшеде рәсімдеңіз.",not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g079,verified,0
-demo_0168,Ваш вклад пополнен на 50 000 тенге. Ставка и условия — в приложении банка.,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g080,verified,0
-demo_0169,Салымыңыз 50 000 теңгеге толықтырылды. Мөлшерлеме мен шарттар — банк қосымшасында.,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g080,verified,0
-demo_0175,"Полиция напоминает: если вам звонят от имени родственника, попавшего в беду, перезвоните ему сами по известному номеру.",not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g083,verified,0
-demo_0176,"Полиция еске салады: егер сізге қиын жағдайға тап болған туысыңыздың атынан қоңырау шалса, оған өзіңіз білетін нөмір арқылы хабарласыңыз.",not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g083,verified,0
-demo_0177,Внимание! Участились случаи мошенничества с объявлениями. Не вносите предоплату незнакомым продавцам.,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g084,verified,0
-demo_0178,Назар аударыңыз! Хабарландырулар арқылы алаяқтық жиілеп кетті. Бейтаныс сатушыларға алдын ала төлем жасамаңыз.,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g084,verified,0
-demo_0179,"Сынок, мне сегодня звонили, говорили, что из банка, просили код. Я ничего не сказала и положила трубку.",not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g085,verified,0
-demo_0180,"Балам, бүгін маған банктен деп қоңырау шалды, код сұрады. Мен ештеңе айтпай, тұтқаны қойдым.",not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g085,verified,0
-demo_0181,"Напоминание от банка: подключите кодовое слово в приложении, чтобы защитить счёт. Никогда не сообщайте его по телефону.",not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g086,verified,0
-demo_0182,Банктен еске салу: шотты қорғау үшін қосымшада кодтық сөзді қосыңыз. Оны ешқашан телефон арқылы айтпаңыз.,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g086,verified,0
-demo_0183,"Мам, я доехал, всё хорошо. Вечером позвоню.",not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g087,verified,0
-demo_0184,"Апа, жеттім, бәрі жақсы. Кешке қоңырау шаламын.",not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g087,verified,0
-demo_0185,"Апа, мен доехал, бәрі нормально, вечером позвоню.",not_scam,none,mixed,synthetic_demo,saqbol_demo_v1,demo_g087,verified,0
-demo_0186,"Папа, не забудь завтра к врачу в 10 утра. Я заеду за тобой в 9:30.",not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g088,verified,0
-demo_0187,"Әке, ертең таңғы 10-да дәрігерге баруды ұмытпа. Мен 9:30-да келіп аламын.",not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g088,verified,0
-demo_0188,"Бабушка, поздравляю с днём рождения! Приедем в субботу всей семьёй.",not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g089,verified,0
-demo_0189,"Әже, туған күніңмен құттықтаймын! Сенбіде бүкіл отбасымызбен келеміз.",not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g089,verified,0
-demo_0190,"Мама, купи, пожалуйста, хлеб и молоко, если будешь в магазине.",not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g090,verified,0
-demo_0191,"Апа, дүкенге барсаң, нан мен сүт алып келші.",not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g090,verified,0
-demo_0192,"Ата, я перевёл тебе 10 000 на лекарства, проверь, пришли ли.",not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g091,verified,0
-demo_0193,"Ата, дәрі алуға 10 000 аудардым, түсті ме, тексеріп көрші.",not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g091,verified,0
-demo_0194,"Сестрёнка, скинь фото рецепта, который давал врач, хочу заказать лекарства.",not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g092,verified,0
-demo_0195,"Қарындасым, дәрігер берген рецепттің суретін жіберші, дәрі тапсырыс бергім келеді.",not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g092,verified,0
-demo_0196,"Апа, внуки соскучились, можно привезём их к тебе на выходные?",not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g093,verified,0
-demo_0197,"Апа, немерелерің сағынды, демалыста саған әкелейік пе?",not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g093,verified,0
-demo_0198,"Сын, свет дали? У нас в подъезде с утра не было.",not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g094,verified,0
-demo_0199,"Балам, жарық берді ме? Біздің подъезде таңнан бері болған жоқ.",not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g094,verified,0
-demo_0204,Ваш заказ №48213 передан курьеру. Доставка сегодня с 14:00 до 18:00.,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g097,verified,0
-demo_0205,№48213 тапсырысыңыз курьерге берілді. Жеткізу бүгін 14:00-ден 18:00-ге дейін.,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g097,verified,0
-demo_0206,"Посылка прибыла в пункт выдачи. Получите её до 20 числа, при себе иметь удостоверение.",not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g098,verified,0
-demo_0207,"Сәлемдеме беру пунктіне келді. Оны 20-сына дейін алыңыз, жаныңызда куәлік болсын.",not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g098,verified,0
-demo_0210,Заказ можно отследить в личном кабинете на сайте магазина: https://www.example.com/orders,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g100,verified,0
-demo_0211,Тапсырысты дүкен сайтындағы жеке кабинетте бақылауға болады: https://www.example.com/orders,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g100,verified,0
-demo_0212,"Поликлиника напоминает: ваш приём у терапевта завтра в 11:20, кабинет 205.",not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g101,verified,0
-demo_0213,"Емхана еске салады: терапевтке қабылдауыңыз ертең 11:20-да, 205-кабинет.",not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g101,verified,0
-demo_0218,"Аптека: ваш заказ лекарств готов к выдаче. Адрес: ул. Примерная, 5.",not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g104,verified,0
-demo_0219,"Дәріхана: дәрі тапсырысыңыз беруге дайын. Мекенжайы: Мысал көшесі, 5.",not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g104,verified,0
-demo_0222,Квитанция за коммунальные услуги за октябрь сформирована. Оплатить можно в приложении банка или в отделении.,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g106,verified,0
-demo_0223,Қазан айындағы коммуналдық қызметтер түбіртегі дайын. Банк қосымшасында немесе бөлімшеде төлеуге болады.,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g106,verified,0
-demo_0224,Плановое отключение воды по вашему адресу 12 ноября с 9:00 до 17:00.,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g107,verified,0
-demo_0225,Сіздің мекенжайыңыз бойынша 12 қарашада 9:00-ден 17:00-ге дейін су жоспарлы түрде өшіріледі.,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g107,verified,0
-demo_0226,Ваша заявка на получение справки рассмотрена. Документ доступен в личном кабинете портала.,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g108,verified,0
-demo_0227,Анықтама алуға берген өтініміңіз қаралды. Құжат порталдағы жеке кабинетте қолжетімді.,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g108,verified,0
-demo_0228,Собрание жильцов дома состоится в субботу в 12:00 во дворе. Обсудим ремонт крыши.,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g109,verified,0
-demo_0229,Үй тұрғындарының жиналысы сенбі күні сағат 12:00-де аулада өтеді. Шатырды жөндеуді талқылаймыз.,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g109,verified,0
-demo_0230,Уведомление: пенсия за ноябрь будет зачислена в обычные сроки.,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g110,verified,0
-demo_0231,Хабарлама: қараша айының зейнетақысы әдеттегі мерзімде түседі.,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g110,verified,0
-demo_0234,Скидка 20% на все товары для дома до конца недели. Ждём вас в магазине!,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g112,verified,0
-demo_0235,Апта соңына дейін үйге арналған барлық тауарларға 20% жеңілдік. Дүкенде күтеміз!,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g112,verified,0
-demo_0236,Ваши бонусы: 1 250. Используйте их при следующей покупке в нашей сети.,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g113,verified,0
-demo_0237,Бонустарыңыз: 1 250. Оларды біздің желідегі келесі сатып алуда пайдаланыңыз.,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g113,verified,0
-demo_0238,"Новое меню в нашем кафе! Приходите попробовать, при заказе от 5 000 — десерт в подарок.",not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g114,verified,0
-demo_0239,"Біздің кафеде жаңа мәзір! Келіп дәмін татыңыз, 5 000-нан асатын тапсырысқа десерт сыйлыққа.",not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g114,verified,0
-demo_0242,Оператор связи: подключите тариф «Семейный» в приложении — звонки близким бесплатно.,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g116,verified,0
-demo_0243,Байланыс операторы: қосымшада «Отбасылық» тарифін қосыңыз — жақындарға қоңырау шалу тегін.,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g116,verified,0
-demo_0244,"Ваш номер телефона успешно перенесён к новому оператору. Спасибо, что выбрали нас.",not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g117,verified,0
-demo_0245,Телефон нөміріңіз жаңа операторға сәтті ауыстырылды. Бізді таңдағаныңызға рахмет.,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g117,verified,0
-demo_0246,"Добрый вечер, Галина Петровна! Завтра в 10 занятие в клубе скандинавской ходьбы, не забудьте палки.",not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g118,verified,0
-demo_0247,"Қайырлы кеш, Гүлнар апай! Ертең сағат 10-да скандинавиялық жүру клубында сабақ бар, таяқтарды ұмытпаңыз.",not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g118,verified,0
-demo_0248,"Соседка, у вас не найдётся немного соли? Зайду через пять минут.",not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g119,verified,0
-demo_0249,"Көрші, сізде аздап тұз табыла ма? Бес минуттан кейін кіремін.",not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g119,verified,0
-demo_0250,"Привет! Как здоровье? Давно не виделись, может, встретимся в парке на этой неделе?",not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g120,verified,0
-demo_0251,"Сәлем! Денсаулығың қалай? Көптен көріспедік, осы аптада саябақта кездесейік пе?",not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g120,verified,0
-demo_0252,"Внимание, жители! В четверг в подъезде будут мыть окна.",not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g121,verified,0
-demo_0253,Тұрғындар назарына! Бейсенбі күні подъезде терезе жуылады.,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g121,verified,0
-demo_0254,"Спасибо за пирог, очень вкусный! Поделитесь рецептом?",not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g122,verified,0
-demo_0255,"Бәліш үшін рахмет, өте дәмді! Рецептімен бөлісесіз бе?",not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g122,verified,0
-demo_0258,"Нурлан, перезвони, когда освободишься. Надо обсудить поездку в аул.",not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g124,verified,0
-demo_0259,"Нұрлан, босаған кезде қоңырау шал. Ауылға баруды талқылау керек.",not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g124,verified,0
-demo_0262,"Друзья, фотографии с юбилея выложила в общий альбом: https://example.org/album/123",not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g126,verified,0
-demo_0263,"Достар, мерейтойдағы суреттерді ортақ альбомға салдым: https://example.org/album/123",not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g126,verified,0
-demo_0264,"Мам, вот рецепт того салата: https://www.example.com/recipes/salad",not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g127,verified,0
-demo_0265,"Апа, міне сол салаттың рецепті: https://www.example.com/recipes/salad",not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g127,verified,0
-demo_0266,"Сәлем, завтра в 10 той болады, не опаздывайте, адрес жібердім.",not_scam,none,mixed,synthetic_demo,saqbol_demo_v1,demo_g128,verified,0
-demo_0269,"Здравствуйте, по вашему объявлению о велосипеде: можно приехать посмотреть завтра вечером?",not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g130,verified,0
-demo_0270,"Сәлеметсіз бе, велосипед туралы хабарландыруыңыз бойынша: ертең кешке көруге келуге бола ма?",not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g130,verified,0
-demo_0271,"Сосед, я перевёл тебе за общий счёт за интернет 2 500, проверь.",not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g131,verified,0
-demo_0272,"Көрші, интернеттің ортақ шоты үшін саған 2 500 аудардым, тексеріп көр.",not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g131,verified,0
-demo_0273,"Сбор на подарок учительнице — по 2 000 с семьи, деньги собираю лично на собрании.",not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g132,verified,0
-demo_0274,"Мұғалімге сыйлыққа ақша жинау — әр отбасынан 2 000, ақшаны жиналыста өзім жинаймын.",not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g132,verified,0
-demo_0275,Синоптики обещают похолодание до минус 25 на выходных. Одевайтесь теплее.,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g133,verified,0
-demo_0276,Синоптиктер демалыста минус 25-ке дейін суық болатынын болжайды. Жылы киініңіз.,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g133,verified,0
-demo_0277,Автобус №12 временно меняет маршрут из-за ремонта дороги.,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g134,verified,0
-demo_0278,№12 автобус жол жөндеуіне байланысты бағытын уақытша өзгертеді.,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g134,verified,0
-demo_0001_aug0,зравствуте ас беспкоит служба безопасности демобанка по вашей карте зафиксирована попытка списания 450 000 тенге чтоб отменить операцию продиктйе код из sms,scam,bank_police_impersonation,ru,synthetic_demo,saqbol_demo_v1,demo_g001,verified,1
-demo_0002_aug0,сәлеметсіз бе демобанктің қауіпсіздік қызметінен хабарласып тұрмыз картаңыздан 450 000 теңге шешуге әрекет жасалды операцияны тоқтату үшін sms-тегі кодты айтыңз,scam,bank_police_impersonation,kk,synthetic_demo,saqbol_demo_v1,demo_g001,verified,1
-demo_0003_aug0,служба безопасности бнка с ваего счёта пытаются снять деньг срочно сообщите код одтверждения который сейчас ридёт,scam,bank_police_impersonation,ru,synthetic_demo,saqbol_demo_v1,demo_g001,verified,1
-demo_0004_aug0,это следователь иванов епартамент полиции на вше имя пытаютя оформить кредит никому не рассказывайте о нашем разговоре и преведите сбеежения н беопасный счёт коорый я продктую,scam,bank_police_impersonation,ru,synthetic_demo,saqbol_demo_v1,demo_g002,verified,1
-demo_0005_aug0,полиция депртаментінің тергеушісімін сіздің атыңызға несие рәімдемек блып жатыр бұл әңгіме туралы ешкімге айтпаңыз инағыңызды мен айтатын қауіпсіз шотқа аударыңыз,scam,bank_police_impersonation,kk,synthetic_demo,saqbol_demo_v1,demo_g002,verified,1
-demo_0006_aug0,говоит сотрудник полиции против вас готовят мошенническую операцию чтобы сохранить деньги переведите их на защищённый счёт и не говорите родственникам,scam,bank_police_impersonation,ru,synthetic_demo,saqbol_demo_v1,demo_g002,verified,1
-demo_0007_aug0,ваша карта заблокирована из-за подозрительной активности для разблокировки назоите номер карты срок действия и три цифры на обороте,scam,bank_police_impersonation,ru,synthetic_demo,saqbol_demo_v1,demo_g003,verified,1
-demo_0008_aug0,күдікті әрекетке байланысты картаыз бұғаттады бұғаттан шығару үшін карта нөмірін жарамдылық мерзмін және артқы ағында үш санды айтыңыз,scam,bank_police_impersonation,kk,synthetic_demo,saqbol_demo_v1,demo_g003,verified,1
-demo_0009_aug0,сотрудник национального банка ваши деньги в опасности мошенники получили доступ к счёту рочно снмите наличные и внесите их через термина на резрвный счёт,scam,bank_police_impersonation,ru,synthetic_demo,saqbol_demo_v1,demo_g004,verified,1
-demo_0010_aug0,ұттық бан қызметкерімін ақшаңыз қауіпте алаяқтар шотыңызға қол жеткізді тез арада қолма-қол ақша алып терминал арқылы резервтік шотқа салыңыз,scam,bank_police_impersonation,kk,synthetic_demo,saqbol_demo_v1,demo_g004,verified,1
-demo_0014_aug0,ваш иин используется в мошеннических операциях с вами свяжется сотрудник кн выполяйте его указния и никому не сообайте об этом иначе будет озбуждено уголовное дело,scam,bank_police_impersonation,ru,synthetic_demo,saqbol_demo_v1,demo_g006,verified,1
-demo_0015_aug0,сіздің жсн-іңіз алаяқтық операцияларда қолданылуда сізбен ұқк қызметкері байланысады оның нұсқауларын орындаңыз және бл туралы ешкімге айтпаңыз әйтпесе қылмыстық іс қозғалады,scam,bank_police_impersonation,kk,synthetic_demo,saqbol_demo_v1,demo_g006,verified,1
-demo_0016_aug0,опратор сотовой связи срок действия вашей sim-карты истекат чтобы продлить номер назовите код который придёт в sms,scam,bank_police_impersonation,ru,synthetic_demo,saqbol_demo_v1,demo_g007,verified,1
-demo_0017_aug0,ұялы байланыс оперторы sim-картаңыздң мерзімі бітіп жатыр нөмірді ұзарту үшін sms арқылы келетін кодты айтыңыз,scam,bank_police_impersonation,kk,synthetic_demo,saqbol_demo_v1,demo_g007,verified,1
-demo_0018_aug0,демобнк на вас оформлена заявка на кредт 2 000 000 тенге если это не вы срочно перезвоните по нмеру +7 000 000 00 00 и подтвердите отмену кодом из sms,scam,bank_police_impersonation,ru,synthetic_demo,saqbol_demo_v1,demo_g008,verified,1
-demo_0019_aug0,демобанк сіздің атыңызға 2 000 000 теңгеге несие өтінімі берілді егер бұ із болмасаңыз +7 000 000 00 00 нөмріне тез хабарласып sms-тегі кодпен бас тартуды растаңыз,scam,bank_police_impersonation,kk,synthetic_demo,saqbol_demo_v1,demo_g008,verified,1
-demo_0020_aug0,пенсионный фонд вам положеа доплата к пенсии для зачисления продиктуйте данные карты и код подтвердения,scam,bank_police_impersonation,ru,synthetic_demo,saqbol_demo_v1,demo_g009,verified,1
-demo_0021_aug0,зентақ қоры сізге зейнетақыға қосымш төлем тиесілі ақшаны аудару үшін карта деректерін және астау кодын айтыңыз,scam,bank_police_impersonation,kk,synthetic_demo,saqbol_demo_v1,demo_g009,verified,1
-demo_0022_aug0,ва одобрена адбавка к пенсии чтобы её получить сообщите номер карты и код который придёт по sms,scam,bank_police_impersonation,ru,synthetic_demo,saqbol_demo_v1,demo_g009,verified,1
-demo_0023_aug0,это служба безопасности ваш родствнник пытался зять кредит под ваше имя чтобы аннулирвать заявку нужно оформить встречный кредит и перевести деьги на защищённый счёт,scam,bank_police_impersonation,ru,synthetic_demo,saqbol_demo_v1,demo_g010,verified,1
-demo_0024_aug0,қауіпсіздік қызметі хабарласып тұр туысыңыз сіздің атыңызға несие алмақ болды өтнімді жою үшін қарсы несие рәсідеп ақшаны қорғалған штқа адару керек,scam,bank_police_impersonation,kk,synthetic_demo,saqbol_demo_v1,demo_g010,verified,1
-demo_0027_aug0,ваш электрнный кошелёк будет закрыт сегодня чтобы сохранить средста назовите кодовое слово и пароль от мобильного банка,scam,bank_police_impersonation,ru,synthetic_demo,saqbol_demo_v1,demo_g012,verified,1
-demo_0028_aug0,элекронды әмияныңыз бүгін жабылады қаражатты сақтап қалу үін кодтық сөзд және моильді банк құпиясөзін айтыңыз,scam,bank_police_impersonation,kk,synthetic_demo,saqbol_demo_v1,demo_g012,verified,1
-demo_0033_aug0,здравствуйте специалист банка вам нужно продиктоать pin-код чобы мы перевыпутили карту,scam,bank_police_impersonation,ru,synthetic_demo,saqbol_demo_v1,demo_g015,verified,1
-demo_0034_aug0,сәлеметсіз бе банк маманымын картаны қайта шығару үшін pi-кодты айтуыңыз крек,scam,bank_police_impersonation,kk,synthetic_demo,saqbol_demo_v1,demo_g015,verified,1
-demo_0035_aug0,вы стли жертвой утечки данных чтобы защитить пенсионные накопления перведите их через приложение на счёт который назовёт оператор,scam,bank_police_impersonation,ru,synthetic_demo,saqbol_demo_v1,demo_g016,verified,1
-demo_0036_aug0,дректеріңіз ағып кетті зейнетақы жинағыңызды қорғау үшін оларды қосымша арқылы оператор айтатын шотқа аударыңыз,scam,bank_police_impersonation,kk,synthetic_demo,saqbol_demo_v1,demo_g016,verified,1
-demo_0037_aug0,емобанк қауіпсіздік қызметі подвердите операцию sms-тегі кодты айтыңы инче крта будет заблокирована,scam,bank_police_impersonation,mixed,synthetic_demo,saqbol_demo_v1,demo_g017,verified,1
-demo_0041_aug0,вам начислена социальная выплата 42 500 тенге получите по ссылке http//203011345/payout и введите данные карты,scam,phishing,ru,synthetic_demo,saqbol_demo_v1,demo_g019,verified,1
-demo_0042_aug0,сзге 42 500 теңге әлеуметік төлем есептелді http//203011345/payout сілтемесі арқылы алп карта деректерін енгізіңіз,scam,phishing,kk,synthetic_demo,saqbol_demo_v1,demo_g019,verified,1
-demo_0043_aug0,посылка е может быть доставлена из-за неверного адреса оплатите 350 тенге за ереадресацию http//post-deliveryexamplenet/pay,scam,phishing,ru,synthetic_demo,saqbol_demo_v1,demo_g020,verified,1
-demo_0044_aug0,мекенжай қате боғандықтан сәлемдеме жеткізілмейді қайта жіберу үшін 350 теңге төлеңіз http//post-deliveryexamplenet/pay,scam,phishing,kk,synthetic_demo,saqbol_demo_v1,demo_g020,verified,1
-demo_0045_aug0,ваша посылка задержан на складе чтобы получить её оплатит хранение по ссылке http//parcel-holdexamplenet/fee,scam,phishing,ru,synthetic_demo,saqbol_demo_v1,demo_g020,verified,1
-demo_0046_aug0,налоговая у вас адолженность во избежание арета имущества оплатите сегодня о ссылке http//tax-paysecure-loginexamplorg/kz,scam,phishing,ru,synthetic_demo,saqbol_demo_v1,demo_g021,verified,1
-demo_0047_aug0,салық қызметі сізде берешек бар мүлікке тыйм салынбас үшін бүгін http//ax-paysecure-loginexampleorg/kz сілтемесі арқылы төлеңіз,scam,phishing,kk,synthetic_demo,saqbol_demo_v1,demo_g021,verified,1
-demo_0048_aug0,ваш аккаунт в мессенджере будет удалён потвердите номе http//msg-verifyexamplecom/id=88412,scam,phishing,ru,synthetic_demo,saqbol_demo_v1,demo_g022,verified,1
-demo_0049_aug0,мессенджердегі аккаунтыңыз жойылады нөміріңіді растаңыз http//msg-verifyexamplecom/id=88412,scam,phishing,kk,synthetic_demo,saqbol_demo_v1,demo_g022,verified,1
-demo_0054_aug0,ваа карта будет заблокирована войдие в личный кабинет по ссылке и введите код из sms htp//xn--80ak6aa92examplecom,scam,phishing,ru,synthetic_demo,saqbol_demo_v1,demo_g025,verified,1
-demo_0055_aug0,картаңыз бұғатталады сілтеме бойынша жеке кабинетке іріп sms-тегі кодты енгізіңіз http//xn--80ak6aa92eexamplecom,scam,phishing,kk,synthetic_demo,saqbol_demo_v1,demo_g025,verified,1
-demo_0056_aug0,прогоосуйте пожалуйста за мою внучку в конкурсе нуно войти черз номер телефон и ввести код http//vote-konkursxampeco,scam,phishing,ru,synthetic_demo,saqbol_demo_v1,demo_g026,verified,1
-demo_0057_aug0,немрем байқауға қатысып жатыр дауы беріңізші телефон нөмірімен кіріп кодты енгізу керек http//vote-konkusexamplecom,scam,phishing,kk,synthetic_demo,saqbol_demo_v1,demo_g026,verified,1
-demo_0058_aug0,компенсация за коммунальные услуги верите ереплату 18 000 тенге заполнив форму http//komunal-refundexampleorg,scam,phishing,ru,synthetic_demo,saqbol_demo_v1,demo_g027,verified,1
-demo_0059_aug0,коммуналдық қызметтер бойынша өтемақы http//komunal-rfundexampleorg формасын толтырып артық төлегн 18 000 теңгені қайтарып алыңыз,scam,phishing,kk,synthetic_demo,saqbol_demo_v1,demo_g027,verified,1
-demo_0060_aug0,ваш полис медстрахования стёк продлите в течене 24 чаов http//med-olisexampecom/rnew  введите номр карты и cvv,scam,phishing,ru,synthetic_demo,saqbol_demo_v1,demo_g028,verified,1
-demo_0061_aug0,медициалық сақтандыру полисіңіздің мерзімі бітті 24 сағат ішінде ұзартыңыз http//med-polisxamplecom/renew  карта нөмірі мен cvv енгізіңіз,scam,phishing,kk,synthetic_demo,saqbol_demo_v1,demo_g028,verified,1
-demo_0062_aug0,ваш банк обновил приложение скачайте новую версию по ссылке http//dembank-appexamplecom/downloadapk  старая перестанет работать сегодня,scam,phishing,ru,synthetic_demo,saqbol_demo_v1,demo_g029,verified,1
-demo_0063_aug0,банкіңіз қосыаны жаңарты жаңа нсқасн http//demobank-appexamplecom/downloadapk сілтемесі арқыл жүктеңіз ескісі бүгн жұмысын тоқтатады,scam,phishing,kk,synthetic_demo,saqbol_demo_v1,demo_g029,verified,1
-demo_0064_aug0,бонс 50 000 тенге для пенсионеров зарегистрируйтесь https//pension-bonusexampleorg@20301137/reg,scam,phishing,ru,synthetic_demo,saqbol_demo_v1,demo_g030,verified,1
-demo_0065_aug0,зейнеткерлерге 50 000 теңге бонус тіркеліңіз htts//pension-bonusexapleorg@20301137/reg,scam,phishing,kk,synthetic_demo,saqbol_demo_v1,demo_g030,verified,1
-demo_0066_aug0,мама это я у меня новый номр попал в аварию нужны деньги срочно переведи 300 000 на эту карту папе не говори,scam,relative_in_trouble,ru,synthetic_demo,saqbol_demo_v1,demo_g031,verified,1
-demo_0067_aug0,апа бұл менмін жаңа нөір апатқа түстім ақша тез керек мына картаға 300 000 ауаршы әкеме айтпа,scam,relative_in_trouble,kk,synthetic_demo,saqbol_demo_v1,demo_g031,verified,1
-demo_0068_aug0,мам привет это мо новый нмер я влип в неприятность срочно скинь деньги на карту потом всё объясню,scam,relative_in_trouble,ru,synthetic_demo,saqbol_demo_v1,demo_g031,verified,1
-demo_0069_aug0,здравствйте ваш сын задержан после дтп чтобы не возбуждать дело нужно передать 500 000 тенге курьер приедет к вам через час,scam,relative_in_trouble,ru,synthetic_demo,saqbol_demo_v1,demo_g032,verified,1
-demo_0070_aug0,сәлеметсіз е лыңыз жол-көлік оқиғасынн кейін ұсталды іс қозғалмауы үшін 500 000 теңге беру керек бір сағаттан кейін курьер келеді,scam,relative_in_trouble,kk,synthetic_demo,saqbol_demo_v1,demo_g032,verified,1
-demo_0071_aug0,бабушка я в больнице теефон разбился ишу с чужого сочно нужны деньги на операцию скинь на карту *4821 только никому не говори,scam,relative_in_trouble,ru,synthetic_demo,saqbol_demo_v1,demo_g033,verified,1
-demo_0072_aug0,әже ауруханадамын телефоным сынып қалды бөтен телефоннан жазып отырмын отаға тез ақша керек *4821 катасына салып жіберші ешкімге айтп,scam,relative_in_trouble,kk,synthetic_demo,saqbol_demo_v1,demo_g033,verified,1
-demo_0073_aug0,привет это ерлан пишу с нового номера старый потерял можешь до вече занять 150 000 очень срочно вечером верну,scam,relative_in_trouble,ru,synthetic_demo,saqbol_demo_v1,demo_g034,verified,1
-demo_0074_aug0,сәлем бұл ерлан ескі нөмірімі жоғалтып алдым жаңасынан жазып отрмын кешке дейін 150 000 қарызға бере аласың ба өте шұғыл ешке қайтарамын,scam,relative_in_trouble,kk,synthetic_demo,saqbol_demo_v1,demo_g034,verified,1
-demo_0075_aug0,ваша дочь сбила человека она сейчас в отделении пострадавший согласен не писать заявление за компенсацию деньги нужны в течение часа,scam,relative_in_trouble,ru,synthetic_demo,saqbol_demo_v1,demo_g035,verified,1
-demo_0076_aug0,қызыңыз аамды ағып кетті қазір өлімшеде отыр зардап шегуші өтемақы алса арыз жазбауға келіст ақша бір сағат ішінде керек,scam,relative_in_trouble,kk,synthetic_demo,saqbol_demo_v1,demo_g035,verified,1
-demo_0079_aug0,дедушка это внук я попал в непритности нужен перевод 200 000 не звони маме она будет волноваться,scam,relative_in_trouble,ru,synthetic_demo,saqbol_demo_v1,demo_g037,verified,1
-demo_0080_aug0,та бұл немереңмін қиын жағдайға тап болдым 200 000 аудару керек анма қоңырау шалма уайымдайды,scam,relative_in_trouble,kk,synthetic_demo,saqbol_demo_v1,demo_g037,verified,1
-demo_0081_aug0,здравствуйте я врач ваш внук в реанимации нужны дорогие лекаства переведите деньги на карту медсестры она купит,scam,relative_in_trouble,ru,synthetic_demo,saqbol_demo_v1,demo_g038,verified,1
-demo_0082_aug0,сәлеметсіз бе мен дәрігермін немереңіз реанимацияда ымбат дәрі кере ақшаны медбикенің картасына аударыңыз ол сатып алады,scam,relative_in_trouble,kk,synthetic_demo,saqbol_demo_v1,demo_g038,verified,1
-demo_0085_aug0,здравствуй это я твой племянник мне неудобно просить но нужна поощь — переведи 70 000 на кару руга мою заблоировали,scam,relative_in_trouble,ru,synthetic_demo,saqbol_demo_v1,demo_g040,verified,1
-demo_0086_aug0,сәле бұл мен жиеніңмін сұрауға ыңғайызмын бірақ көмек керек — досымның картаына 70 000 аударшы менікі бұғатталды,scam,relative_in_trouble,kk,synthetic_demo,saqbol_demo_v1,demo_g040,verified,1
-demo_0097_aug0,продаём щенков породы шпиц отправка по казахстану боь после оплаты 50% и страховки превозки,scam,fake_ad,ru,synthetic_demo,saqbol_demo_v1,demo_g046,verified,1
-demo_0098_aug0,шпиц тұқымды күшіктері сатамыз қазақстан бойынша жіберу 50% төлеп тасымал сақтандыруын төлегеннен кейін брондаймыз,scam,fake_ad,kk,synthetic_demo,saqbol_demo_v1,demo_g046,verified,1
-demo_0099_aug0,продаю авто срочно цена ниже рынка в два раза машина на таможне нужно опатить растаожку после этого пргоню,scam,fake_ad,ru,synthetic_demo,saqbol_demo_v1,demo_g047,verified,1
-demo_0100_aug0,көлікті шұғыл сатамын бағасы нарықтан екі ее арзн көлік кеденде тұр кедендік ресімдеуі тлегеннен кейін алып келемн,scam,fake_ad,kk,synthetic_demo,saqbol_demo_v1,demo_g047,verified,1
-demo_0101_aug0,билты на концерт по сниженной цене пишите в личку оплата переводом билет прилю после оплаты,scam,fake_ad,ru,synthetic_demo,saqbol_demo_v1,demo_g048,verified,1
-demo_0102_aug0,концертке арзан билеттер жеке хатқа жазыыз төлем аударым арқылы билеттерді төлегннен кейін жіберемін,scam,fake_ad,kk,synthetic_demo,saqbol_demo_v1,demo_g048,verified,1
-demo_0105_aug0,продаю ноый смартфон за 150 000 только прдоплата стетиться не могу отправлю почтой,scam,fake_ad,ru,synthetic_demo,saqbol_demo_v1,demo_g050,verified,1
-demo_0106_aug0,жаңа смартфон сатамын 150 000 тек алдын ала төлем кездесе алмаймын поштамен жіберемін,scam,fake_ad,kk,synthetic_demo,saqbol_demo_v1,demo_g050,verified,1
-demo_0107_aug0,инвестируйте 100 000 енге и получайте 30% в неделю гарантировано проект ообрен государством мест мало,scam,investment,ru,synthetic_demo,saqbol_demo_v1,demo_g051,verified,1
-demo_0108_aug0,100 000 теңге салып аптасына 30% кепілді табы алыңыз жобаны мемлекет мақұлдаған орын аз,scam,investment,kk,synthetic_demo,saqbol_demo_v1,demo_g051,verified,1
-demo_0109_aug0,гарантированная доходость 30% каждую недлю вложите от 100 000 тенге количетво участников ограничено,scam,investment,ru,synthetic_demo,saqbol_demo_v1,demo_g051,verified,1
-demo_0110_aug0,пассивный доход на криптовалюте без риска наш брокер удвоит ваши сбережения за месц пишите менеджру,scam,investment,ru,synthetic_demo,saqbol_demo_v1,demo_g052,verified,1
-demo_0111_aug0,криптовалютада тәуекелсіз пассивт табыс біздің брокер инағыңызды бір айда екі есе көбейтеді менеджерг жазыңыз,scam,investment,kk,synthetic_demo,saqbol_demo_v1,demo_g052,verified,1
-demo_0112_aug0,акции крупной нефтяной комании теперь доступны каждому вложите от 50 000  полуайте доход от 200 000 в месяц,scam,investment,ru,synthetic_demo,saqbol_demo_v1,demo_g053,verified,1
-demo_0113_aug0,ірі мұнай компаниясыны акциялары енді бәріне қолжетімді 50 000-нан бастап салып айына 200 000-нан табыс табыңыз,scam,investment,kk,synthetic_demo,saqbol_demo_v1,demo_g053,verified,1
-demo_0116_aug0,вам одобрено участе в государственной инвестиционной программе для активации счёта внесите первый взнос 30 000 тене,scam,investment,ru,synthetic_demo,saqbol_demo_v1,demo_g055,verified,1
-demo_0117_aug0,сізге мемлекеттік инвестициялық бағдарламаа қатысуға рұқсат брілді шотты белсендіру үшін алғашқ 30 000 теңге жарна салыңыз,scam,investment,kk,synthetic_demo,saqbol_demo_v1,demo_g055,verified,1
-demo_0118_aug0,торговый робот зарабатывает за вас мнимальный депзит 40 000 прибыль от 5% в день вывод в любо время,scam,investment,ru,synthetic_demo,saqbol_demo_v1,demo_g056,verified,1
-demo_0119_aug0,сауда роботы сіз үшін табыс табады ең аз депозит 40 000 күніне 5%-дан бастап пайда кез келген уақытта шығаруға болады,scam,investment,kk,synthetic_demo,saqbol_demo_v1,demo_g056,verified,1
-demo_0120_aug0,хтите доход как у банкира закрытый клуб инвесторов вступитеьный взнос 25 000 гарантия прибыли 100%,scam,investment,ru,synthetic_demo,saqbol_demo_v1,demo_g057,verified,1
-demo_0121_aug0,банкирдей табыс тапқыңыз келе ме инвесторлардың абық клубы кіру жарнасы 25 000 пайдаға 100% кепілдік,scam,investment,kk,synthetic_demo,saqbol_demo_v1,demo_g057,verified,1
-demo_0122_aug0,поздравлям ваш номер выиграл в лотерее 500 000 тенге для получения оплтите комиссию 9 900 тенге,scam,other_scheme,ru,synthetic_demo,saqbol_demo_v1,demo_g058,verified,1
-demo_0123_aug0,құттықтаймыз нөміріңіз лотереяда 500 000 еңге ұтты ұтысты ау үшін 9 900 теңе комиссия төлеңіз,scam,other_scheme,kk,synthetic_demo,saqbol_demo_v1,demo_g058,verified,1
-demo_0124_aug0,вы стали пбедителем розыгрыша приз 500 000 тенге чтобы его плучить нужно сначала оплатить сбор,scam,other_scheme,ru,synthetic_demo,saqbol_demo_v1,demo_g058,verified,1
-demo_0131_aug0,газовая суба обязательная замена чётчика мастер придёт сегодня оплта наличными 45 000 иначе штраф,scam,other_scheme,ru,synthetic_demo,saqbol_demo_v1,demo_g062,verified,1
-demo_0132_aug0,газ қызметі есетегішті міндетті түде ауыстыру шебер бүгін келеді қолма-қол 45 000 төлейсіз әйтпесе айыппұл,scam,other_scheme,kk,synthetic_demo,saqbol_demo_v1,demo_g062,verified,1
-demo_0135_aug0,мы из клиники ваши анализы показали опасное аболевание срочно оплатите дорогое лечение сегодня со скидкой,scam,other_scheme,ru,synthetic_demo,saqbol_demo_v1,demo_g064,verified,1
-demo_0136_aug0,емханадан хабаласып тұрмыз талдаулаыңыз қауіпті ауруд крсетті емді бүгін жеңілдікпен тез төлеңіз,scam,other_scheme,kk,synthetic_demo,saqbol_demo_v1,demo_g064,verified,1
-demo_0137_aug0,работа на дому 25 000 в ден нужно только платить обучающие материалы 7 000 тенге,scam,other_scheme,ru,synthetic_demo,saqbol_demo_v1,demo_g065,verified,1
-demo_0138_aug0,үйден жұыс күніне 25 000 тек оқу материалдарына 7 000 теңге төеу керек,scam,other_scheme,kk,synthetic_demo,saqbol_demo_v1,demo_g065,verified,1
-demo_0139_aug0,ва выигрыш в инвесционной игре 1 200 000 тенге для вывода оплатите налог 12 000 тенге,scam,other_scheme,ru,synthetic_demo,saqbol_demo_v1,demo_g066,verified,1
-demo_0140_aug0,инвестицялық ойындаы ұтысыңыз 1 200 000 теңге шығару үшін 12 000 теңге салық төлеңіз,scam,other_scheme,kk,synthetic_demo,saqbol_demo_v1,demo_g066,verified,1
-demo_0141_aug0,вы победитель розыгрш магазина для получения подарка сообщите номер карты мы перведём 30 000 тенге,scam,other_scheme,ru,synthetic_demo,saqbol_demo_v1,demo_g067,verified,1
-demo_0142_aug0,сіз дүкен ұтыс ойынының жеімпазысыз сыйлықты алу үшін карта нөміріңізді айтыңыз біз 30 000 теңге адарамыз,scam,other_scheme,kk,synthetic_demo,saqbol_demo_v1,demo_g067,verified,1
-demo_0143_aug0,ваш код входа в демобанк 4821 ниому его не собщайте даже сотрудникам банка,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g068,verified,1
-demo_0144_aug0,демобанкке кіру кодыңыз 4821 ны ешкіме тіпті банк қызметкерлеріне де айтпаңыз,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g068,verified,1
-demo_0145_aug0,код для входа в прложение демобанк 6610 не сообщайте его никому,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g068,verified,1
-demo_0152_aug0,код для ргисрации в приложении доставки 2281 никому не сообщйт этот код,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g072,verified,1
-demo_0153_aug0,жеткізу қосымшасына тіркелу коды 2281 бұл кодты ешкімге айтпаңыз,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g072,verified,1
-demo_0158_aug0,пенсия зачислена на ваш счёт 98 000 тенге хорошего дня,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g075,verified,1
-demo_0159_aug0,зейнетақы шотыңызға түсті 98 000 теңге күніңіз сәті өтсін,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g075,verified,1
-demo_0162_aug0,напоминаем платёж по кредиту 24 000 тнге нужно внести до 15 числа оплатить ожно в приложении банка,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g077,verified,1
-demo_0163_aug0,еске саламыз несие бойынша 24 000 теңге төлемді айдың 15-не дейін егізу керек банк қосымшасында төлеге болады,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g077,verified,1
-demo_0164_aug0,ваша новая карта готова получите её в отделении банка с удостоверением личности,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g078,verified,1
-demo_0165_aug0,жаңа артаңыз дайын оны жеке куәлігіңізбен банк бөлімшесінен алыңыз,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g078,verified,1
-demo_0166_aug0,демобанк срок дествия карты *5678 истекает в следующем месяце перевыпуск бесплатный оформите в приложении или отделени,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g079,verified,1
-demo_0167_aug0,дембнк *5678 картасының мерзімі келесі айда бітеді қайт шығару тегін қосмшада немесе бөлімшеде рәсімдеңіз,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g079,verified,1
-demo_0168_aug0,ваш вклад пополнен на 50 000 тенге ставка и услови — в приложении банка,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g080,verified,1
-demo_0169_aug0,салымыыз 50 000 теңгеге толықтырылды өлшерлеме мн шарттар — банк қсымшасында,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g080,verified,1
-demo_0175_aug0,полиция напоминает если вам вонят от имени родственника попавшего в беду перезвоните ему сми по известному номеру,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g083,verified,1
-demo_0176_aug0,полиция еске салады егер сізге қиын жағдайға тап болған туысыңыздың атынн қоңырау шала оан өзіңіз білетін нөмір арқыл хабарласыңыз,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g083,verified,1
-demo_0177_aug0,вниание участились случаи мошеничества с объявлениями не вносите предоплату незнакомым продавцам,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g084,verified,1
-demo_0178_aug0,назар аударыңыз хабрландыруар арқылы алаяқтық жиілп кетті бейтаныс сатшыларға алдын ала төлем жасамаңыз,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g084,verified,1
-demo_0179_aug0,сынок мне сегодня звонили говорили что из бана просили код я ничего не сказала и положила трубку,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g085,verified,1
-demo_0180_aug0,бала бүгін маған банктен деп қоңырау шалды кд сұрады мен ештеңе айтпай тұтқаы қойдым,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g085,verified,1
-demo_0181_aug0,апоминание т банка подключите кодове слов в приложении чтобы защитить счёт никогда не сообщайте его по телефону,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g086,verified,1
-demo_0182_aug0,банктен еске салу шотты қорғау үшін қоымшада кодтық сзді қосыңыз оны ешқашан телефон арқылы айтпаңыз,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g086,verified,1
-demo_0183_aug0,мам я доехал всё хрошо вечером позвоню,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g087,verified,1
-demo_0184_aug0,апа еттім бәрі жақсы кешке қоңырау шаламын,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g087,verified,1
-demo_0185_aug0,апа мен доехал бәрі нормально вечером позвоню,not_scam,none,mixed,synthetic_demo,saqbol_demo_v1,demo_g087,verified,1
-demo_0186_aug0,ппа не забудь завтра к врачу в 10 утра я заеду за тобой в 930,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g088,verified,1
-demo_0187_aug0,әке ертең таңғы 10-да дәрігерге баруды мытпа мен 930-да келіп аламын,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g088,verified,1
-demo_0188_aug0,бабушка поздравляю с днём рождени приедем в субботу всй семьёй,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g089,verified,1
-demo_0189_aug0,әе туған күніңмен құттықтаймын сенбіде бкл тбасымызбен келемі,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g089,verified,1
-demo_0190_aug0,мама купи пожалуйста хлеб и молоко если будешь в магазин,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g090,verified,1
-demo_0191_aug0,апа дүкенге барсаң нан мен сүт алып келші,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g090,verified,1
-demo_0192_aug0,ата я перевёл тебе 10 000 на лекарста проверь пришли ли,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g091,verified,1
-demo_0193_aug0,ата дәрі алуға 10 000 аудардым түсті ме тексеріп көрші,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g091,verified,1
-demo_0194_aug0,сестрёнка скинь фото рецепта который давал врач хочу закаать лекарства,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g092,verified,1
-demo_0195_aug0,қарындасым дәрігер берен рецепттің суретін жіберші дәрі тпсырыс бергім келеді,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g092,verified,1
-demo_0196_aug0,апа внуки соскучились можно привезём их к тебе на выходные,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g093,verified,1
-demo_0197_aug0,апа немерелерің сағыд демалыста саған әкелейік пе,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g093,verified,1
-demo_0198_aug0,сын свет дали у нас в подъезде с утра не было,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g094,verified,1
-demo_0199_aug0,балам жарық берді ме біздің подъзе таңнан бері болған жоқ,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g094,verified,1
-demo_0204_aug0,ваш заказ №48213 передан курьеру доставка сегодня с 1400 до 1800,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g097,verified,1
-demo_0205_aug0,№48213 тапсырысыңыз курьеге берілді жеткізу бүгін 1400-ден 1800-ге дейін,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g097,verified,1
-demo_0206_aug0,посылка пибыла в пнт выдачи получите её до 20 числа при себе иметь удостоверение,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g098,verified,1
-demo_0207_aug0,сәлемдеме беру пунктіне кеді оны 20-сына дейін алыңыз жаныңызда куәлік болсн,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g098,verified,1
-demo_0210_aug0,закз можно отследить в личном кабинете на сайте магазина https//wwwexamplecom/orders,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g100,verified,1
-demo_0211_aug0,тапсырысты дүкен сайтындағы жеке кабинетте бақылауға болады https//wwwexamplecom/ordrs,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g100,verified,1
-demo_0212_aug0,поликлиника напоминает ваш приём у терапевта завтра в 1120 кабинет 205,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g101,verified,1
-demo_0213_aug0,емхана еске салад терапевтке қабылдауыңыз ертең 1120-да 205-кабинет,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g101,verified,1
-demo_0218_aug0,апека ваш заказ лекарств готов к выаче адрес ул примерная 5,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g104,verified,1
-demo_0219_aug0,дәріхаа дәрі тапсырысыңыз беруге дайын мекенйы мысал көшесі 5,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g104,verified,1
-demo_0222_aug0,квитнция за коммунальне услуги за октябрь сформирована оплатиь можно в приложении банка или в отделеии,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g106,verified,1
-demo_0223_aug0,қазн айындағы оммуналдық қызметтер түіртегі дайын банк қосымшасында немесе бөлімеде төлеуге болады,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g106,verified,1
-demo_0224_aug0,плановое отключение воды по вшеу адресу 12 ноября с 900 до 1700,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g107,verified,1
-demo_0225_aug0,сіздің мекенжайыңыз бойынша 12 қарашада 900-ден 1700-ге дейін су жоспарлы түрде өшріледі,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g107,verified,1
-demo_0226_aug0,ваш заявка на получение спрвки рассмотрена документ доступен в личном кабиет пртала,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g108,verified,1
-demo_0227_aug0,анықтама алуға берген өтініміңз қаралды құат порталдағы жеке кабинетте қолжетімді,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g108,verified,1
-demo_0228_aug0,собрание жильцов дома состоится в субботу в 1200 во дворе обсудим ремонт крыи,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g109,verified,1
-demo_0229_aug0,үй тұрғындарның жиналысы сенбі күні сағат 1200-де аулада теді шатырды жөндеуді алқылаймыз,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g109,verified,1
-demo_0230_aug0,уведомление пенся за ноябрь будет зачислеа в обычные сроки,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g110,verified,1
-demo_0231_aug0,хабарлама қараша айынң зейнтақысы әдеттегі мерзімде түседі,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g110,verified,1
-demo_0234_aug0,скика 20% на все товары для дома до конца недели ждём вас в магазине,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g112,verified,1
-demo_0235_aug0,апта соңына дейін үйге арналған барлық тауарларға 20% жеңілік дүкенде күтеміз,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g112,verified,1
-demo_0236_aug0,ваши бонусы 1 250 испоьзуйте их при следующей покупке в нашей сети,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g113,verified,1
-demo_0237_aug0,бонустарыңыз 1 250 оларды біздің желідегі кеесі сатып алуда пайдаланыңыз,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g113,verified,1
-demo_0238_aug0,новое меню в нашем кафе приходите попробовать при акае от 5 000 — десерт в подарок,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g114,verified,1
-demo_0239_aug0,бздің кафеде жаңа мәзір келіп дәмін атыңыз 5 000-нан сатын тапсырысқа десерт сыйлыққа,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g114,verified,1
-demo_0242_aug0,оперто связи подключите тариф семейный в приложении — вонки близким бесплатно,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g116,verified,1
-demo_0243_aug0,байланыс операторы қосымшада отбасылық тарифін қосыңыз — жақындарға қоңыау шалу тгін,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g116,verified,1
-demo_0244_aug0,ваш номер телефона успешно перенесён к новому оператору спасибо что выбрали нас,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g117,verified,1
-demo_0245_aug0,телефон нөміріңіз жаңа опраторға сәтті ауыстыылды бізді таңдағаныңызға рахмет,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g117,verified,1
-demo_0246_aug0,добрый вечер галина петровна завтра в 10 занятие в клубе скндинавской ходьбы не абудьте палки,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g118,verified,1
-demo_0247_aug0,қайырлы кеш гүлнар апай ертең сағат 10-да скандинавиялы жүру клубында сабақ бар таяқтарды ұмытпаңыз,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g118,verified,1
-demo_0248_aug0,соедка у вас не найдётся немного соли зайду через пять минут,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g119,verified,1
-demo_0249_aug0,көрші сзде азда тұз табыла ма бес минуттан кейін кіремін,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g119,verified,1
-demo_0250_aug0,привет как зоровье давно не виделись может встретимся в парке на этой неделе,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g120,verified,1
-demo_0251_aug0,сәлем денсаулығың қалай көтен көіспедік осы аптада саябақта кездесейік пе,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g120,verified,1
-demo_0252_aug0,внимание жители в четверг в подъезде буут мыть окна,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g121,verified,1
-demo_0253_aug0,тұрғындар назарына бейсенбі күні подъезде терезе жуылады,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g121,verified,1
-demo_0254_aug0,спасибо за пирог очень вкусный поделитесь рецептом,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g122,verified,1
-demo_0255_aug0,бәліш үшін рахме т дәмді рецептімен бөлісесіз бе,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g122,verified,1
-demo_0258_aug0,нурлан перезвон кгда освободишься надо обсудить поздку в аул,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g124,verified,1
-demo_0259_aug0,нұрлан осаған кезде қоңырау шал ауылға баруды талқылау керек,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g124,verified,1
-demo_0262_aug0,друзья отографии с юбилея выложила в общий альбом https//exampleorg/album/123,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g126,verified,1
-demo_0263_aug0,достар мерейтойағы уреттерді ортақ албомға салдым https//exampleorg/album/123,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g126,verified,1
-demo_0264_aug0,мам вот рецепт того салта https//wwexamplecom/recipes/salad,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g127,verified,1
-demo_0265_aug0,апа міне сол салаттың рецпті https//wwwexamplecom/recipes/salad,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g127,verified,1
-demo_0266_aug0,сәлем завтра в 10 той болады не паздывайте адрес жібердм,not_scam,none,mixed,synthetic_demo,saqbol_demo_v1,demo_g128,verified,1
-demo_0269_aug0,зравствуте по вашему объявлению о велосипеде можно прехать посмотреть автра вечером,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g130,verified,1
-demo_0270_aug0,сәлеметсз бе велосипед туралы хабарлндыруыңыз бойынша ертең кешке көруге келуге бола ма,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g130,verified,1
-demo_0271_aug0,сосед я перевёл тебе за общий счёт за интернет 2 500 провер,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g131,verified,1
-demo_0272_aug0,көрі интернеттің орта шоты үшін саан 2 500 аудардым тексеріп көр,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g131,verified,1
-demo_0273_aug0,сбр на подарок учительнице — по 2 000 с семьи деньги соираю лично на собрании,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g132,verified,1
-demo_0274_aug0,мұғалмге сыйлыққа ақша жинау — әр отбасынан 2 000 ақшаны жиналыста өзім жинаймын,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g132,verified,1
-demo_0275_aug0,синоптики бещаю похолодание до минус 25 на выходных одевайтесь теплее,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g133,verified,1
-demo_0276_aug0,синоптиктер демалыста минус 25-ке дейін суық болатынын болжайды жылы киініңіз,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g133,verified,1
-demo_0277_aug0,автобус №12 вреенно меняет маршрут из-за ремнта дороги,not_scam,none,ru,synthetic_demo,saqbol_demo_v1,demo_g134,verified,1
-demo_0278_aug0,№12 автобус жо жөнеуіне бйланысты бағытын уақытша өзгертеді,not_scam,none,kk,synthetic_demo,saqbol_demo_v1,demo_g134,verified,1
+demo_0001,"Здравствуйте! Вас беспокоит служба безопасности Демобанка. По вашей карте зафиксирована попытка списания 450 000 тенге. Чтобы отменить операцию, продиктуйте код из SMS.",scam,bank_police_impersonation,ru,synthetic_demo,abayla_demo_v1,demo_g001,verified,0
+demo_0002,Сәлеметсіз бе! Демобанктің қауіпсіздік қызметінен хабарласып тұрмыз. Картаңыздан 450 000 теңге шешуге әрекет жасалды. Операцияны тоқтату үшін SMS-тегі кодты айтыңыз.,scam,bank_police_impersonation,kk,synthetic_demo,abayla_demo_v1,demo_g001,verified,0
+demo_0003,"Служба безопасности банка: с вашего счёта пытаются снять деньги. Срочно сообщите код подтверждения, который сейчас придёт.",scam,bank_police_impersonation,ru,synthetic_demo,abayla_demo_v1,demo_g001,verified,0
+demo_0004,"Это следователь Иванов, департамент полиции. На ваше имя пытаются оформить кредит. Никому не рассказывайте о нашем разговоре и переведите сбережения на безопасный счёт, который я продиктую.",scam,bank_police_impersonation,ru,synthetic_demo,abayla_demo_v1,demo_g002,verified,0
+demo_0005,"Полиция департаментінің тергеушісімін. Сіздің атыңызға несие рәсімдемек болып жатыр. Бұл әңгіме туралы ешкімге айтпаңыз, жинағыңызды мен айтатын қауіпсіз шотқа аударыңыз.",scam,bank_police_impersonation,kk,synthetic_demo,abayla_demo_v1,demo_g002,verified,0
+demo_0006,"Говорит сотрудник полиции. Против вас готовят мошенническую операцию. Чтобы сохранить деньги, переведите их на защищённый счёт и не говорите родственникам.",scam,bank_police_impersonation,ru,synthetic_demo,abayla_demo_v1,demo_g002,verified,0
+demo_0007,"Ваша карта заблокирована из-за подозрительной активности. Для разблокировки назовите номер карты, срок действия и три цифры на обороте.",scam,bank_police_impersonation,ru,synthetic_demo,abayla_demo_v1,demo_g003,verified,0
+demo_0008,"Күдікті әрекетке байланысты картаңыз бұғатталды. Бұғаттан шығару үшін карта нөмірін, жарамдылық мерзімін және артқы жағындағы үш санды айтыңыз.",scam,bank_police_impersonation,kk,synthetic_demo,abayla_demo_v1,demo_g003,verified,0
+demo_0009,"Сотрудник Национального банка. Ваши деньги в опасности, мошенники получили доступ к счёту. Срочно снимите наличные и внесите их через терминал на резервный счёт.",scam,bank_police_impersonation,ru,synthetic_demo,abayla_demo_v1,demo_g004,verified,0
+demo_0010,"Ұлттық банк қызметкерімін. Ақшаңыз қауіпте, алаяқтар шотыңызға қол жеткізді. Тез арада қолма-қол ақша алып, терминал арқылы резервтік шотқа салыңыз.",scam,bank_police_impersonation,kk,synthetic_demo,abayla_demo_v1,demo_g004,verified,0
+demo_0014,"Ваш ИИН используется в мошеннических операциях. С вами свяжется сотрудник КНБ. Выполняйте его указания и никому не сообщайте об этом, иначе будет возбуждено уголовное дело.",scam,bank_police_impersonation,ru,synthetic_demo,abayla_demo_v1,demo_g006,verified,0
+demo_0015,"Сіздің ЖСН-іңіз алаяқтық операцияларда қолданылуда. Сізбен ҰҚК қызметкері байланысады. Оның нұсқауларын орындаңыз және бұл туралы ешкімге айтпаңыз, әйтпесе қылмыстық іс қозғалады.",scam,bank_police_impersonation,kk,synthetic_demo,abayla_demo_v1,demo_g006,verified,0
+demo_0016,"Оператор сотовой связи: срок действия вашей SIM-карты истекает. Чтобы продлить номер, назовите код, который придёт в SMS.",scam,bank_police_impersonation,ru,synthetic_demo,abayla_demo_v1,demo_g007,verified,0
+demo_0017,Ұялы байланыс операторы: SIM-картаңыздың мерзімі бітіп жатыр. Нөмірді ұзарту үшін SMS арқылы келетін кодты айтыңыз.,scam,bank_police_impersonation,kk,synthetic_demo,abayla_demo_v1,demo_g007,verified,0
+demo_0018,"Демобанк: на вас оформлена заявка на кредит 2 000 000 тенге. Если это не вы, срочно перезвоните по номеру +7 000 000 00 00 и подтвердите отмену кодом из SMS.",scam,bank_police_impersonation,ru,synthetic_demo,abayla_demo_v1,demo_g008,verified,0
+demo_0019,"Демобанк: сіздің атыңызға 2 000 000 теңгеге несие өтінімі берілді. Егер бұл сіз болмасаңыз, +7 000 000 00 00 нөміріне тез хабарласып, SMS-тегі кодпен бас тартуды растаңыз.",scam,bank_police_impersonation,kk,synthetic_demo,abayla_demo_v1,demo_g008,verified,0
+demo_0020,Пенсионный фонд: вам положена доплата к пенсии. Для зачисления продиктуйте данные карты и код подтверждения.,scam,bank_police_impersonation,ru,synthetic_demo,abayla_demo_v1,demo_g009,verified,0
+demo_0021,Зейнетақы қоры: сізге зейнетақыға қосымша төлем тиесілі. Ақшаны аудару үшін карта деректерін және растау кодын айтыңыз.,scam,bank_police_impersonation,kk,synthetic_demo,abayla_demo_v1,demo_g009,verified,0
+demo_0022,"Вам одобрена надбавка к пенсии. Чтобы её получить, сообщите номер карты и код, который придёт по SMS.",scam,bank_police_impersonation,ru,synthetic_demo,abayla_demo_v1,demo_g009,verified,0
+demo_0023,"Это служба безопасности. Ваш родственник пытался взять кредит под ваше имя. Чтобы аннулировать заявку, нужно оформить встречный кредит и перевести деньги на защищённый счёт.",scam,bank_police_impersonation,ru,synthetic_demo,abayla_demo_v1,demo_g010,verified,0
+demo_0024,"Қауіпсіздік қызметі хабарласып тұр. Туысыңыз сіздің атыңызға несие алмақ болды. Өтінімді жою үшін қарсы несие рәсімдеп, ақшаны қорғалған шотқа аудару керек.",scam,bank_police_impersonation,kk,synthetic_demo,abayla_demo_v1,demo_g010,verified,0
+demo_0027,"Ваш электронный кошелёк будет закрыт сегодня. Чтобы сохранить средства, назовите кодовое слово и пароль от мобильного банка.",scam,bank_police_impersonation,ru,synthetic_demo,abayla_demo_v1,demo_g012,verified,0
+demo_0028,Электронды әмияныңыз бүгін жабылады. Қаражатты сақтап қалу үшін кодтық сөзді және мобильді банк құпиясөзін айтыңыз.,scam,bank_police_impersonation,kk,synthetic_demo,abayla_demo_v1,demo_g012,verified,0
+demo_0033,"Здравствуйте, специалист банка. Вам нужно продиктовать PIN-код, чтобы мы перевыпустили карту.",scam,bank_police_impersonation,ru,synthetic_demo,abayla_demo_v1,demo_g015,verified,0
+demo_0034,"Сәлеметсіз бе, банк маманымын. Картаны қайта шығару үшін PIN-кодты айтуыңыз керек.",scam,bank_police_impersonation,kk,synthetic_demo,abayla_demo_v1,demo_g015,verified,0
+demo_0035,"Вы стали жертвой утечки данных. Чтобы защитить пенсионные накопления, переведите их через приложение на счёт, который назовёт оператор.",scam,bank_police_impersonation,ru,synthetic_demo,abayla_demo_v1,demo_g016,verified,0
+demo_0036,Деректеріңіз ағып кетті. Зейнетақы жинағыңызды қорғау үшін оларды қосымша арқылы оператор айтатын шотқа аударыңыз.,scam,bank_police_impersonation,kk,synthetic_demo,abayla_demo_v1,demo_g016,verified,0
+demo_0037,"Демобанк қауіпсіздік қызметі: подтвердите операцию, SMS-тегі кодты айтыңыз, иначе карта будет заблокирована.",scam,bank_police_impersonation,mixed,synthetic_demo,abayla_demo_v1,demo_g017,verified,0
+demo_0041,Вам начислена социальная выплата 42 500 тенге. Получите по ссылке http://203.0.113.45/payout и введите данные карты.,scam,phishing,ru,synthetic_demo,abayla_demo_v1,demo_g019,verified,0
+demo_0042,"Сізге 42 500 теңге әлеуметтік төлем есептелді. http://203.0.113.45/payout сілтемесі арқылы алып, карта деректерін енгізіңіз.",scam,phishing,kk,synthetic_demo,abayla_demo_v1,demo_g019,verified,0
+demo_0043,Посылка не может быть доставлена из-за неверного адреса. Оплатите 350 тенге за переадресацию: http://post-delivery.example.net/pay,scam,phishing,ru,synthetic_demo,abayla_demo_v1,demo_g020,verified,0
+demo_0044,Мекенжай қате болғандықтан сәлемдеме жеткізілмейді. Қайта жіберу үшін 350 теңге төлеңіз: http://post-delivery.example.net/pay,scam,phishing,kk,synthetic_demo,abayla_demo_v1,demo_g020,verified,0
+demo_0045,"Ваша посылка задержана на складе. Чтобы получить её, оплатите хранение по ссылке http://parcel-hold.example.net/fee",scam,phishing,ru,synthetic_demo,abayla_demo_v1,demo_g020,verified,0
+demo_0046,Налоговая: у вас задолженность. Во избежание ареста имущества оплатите сегодня по ссылке http://tax-pay.secure-login.example.org/kz,scam,phishing,ru,synthetic_demo,abayla_demo_v1,demo_g021,verified,0
+demo_0047,Салық қызметі: сізде берешек бар. Мүлікке тыйым салынбас үшін бүгін http://tax-pay.secure-login.example.org/kz сілтемесі арқылы төлеңіз.,scam,phishing,kk,synthetic_demo,abayla_demo_v1,demo_g021,verified,0
+demo_0048,Ваш аккаунт в мессенджере будет удалён. Подтвердите номер: http://msg-verify.example.com/?id=88412,scam,phishing,ru,synthetic_demo,abayla_demo_v1,demo_g022,verified,0
+demo_0049,Мессенджердегі аккаунтыңыз жойылады. Нөміріңізді растаңыз: http://msg-verify.example.com/?id=88412,scam,phishing,kk,synthetic_demo,abayla_demo_v1,demo_g022,verified,0
+demo_0054,Ваша карта будет заблокирована. Войдите в личный кабинет по ссылке и введите код из SMS: http://xn--80ak6aa92e.example.com,scam,phishing,ru,synthetic_demo,abayla_demo_v1,demo_g025,verified,0
+demo_0055,"Картаңыз бұғатталады. Сілтеме бойынша жеке кабинетке кіріп, SMS-тегі кодты енгізіңіз: http://xn--80ak6aa92e.example.com",scam,phishing,kk,synthetic_demo,abayla_demo_v1,demo_g025,verified,0
+demo_0056,"Проголосуйте, пожалуйста, за мою внучку в конкурсе! Нужно войти через номер телефона и ввести код: http://vote-konkurs.example.com",scam,phishing,ru,synthetic_demo,abayla_demo_v1,demo_g026,verified,0
+demo_0057,"Немерем байқауға қатысып жатыр, дауыс беріңізші! Телефон нөмірімен кіріп, кодты енгізу керек: http://vote-konkurs.example.com",scam,phishing,kk,synthetic_demo,abayla_demo_v1,demo_g026,verified,0
+demo_0058,"Компенсация за коммунальные услуги: верните переплату 18 000 тенге, заполнив форму http://komunal-refund.example.org",scam,phishing,ru,synthetic_demo,abayla_demo_v1,demo_g027,verified,0
+demo_0059,"Коммуналдық қызметтер бойынша өтемақы: http://komunal-refund.example.org формасын толтырып, артық төлеген 18 000 теңгені қайтарып алыңыз.",scam,phishing,kk,synthetic_demo,abayla_demo_v1,demo_g027,verified,0
+demo_0060,"Ваш полис медстрахования истёк. Продлите в течение 24 часов: http://med-polis.example.com/renew , введите номер карты и CVV.",scam,phishing,ru,synthetic_demo,abayla_demo_v1,demo_g028,verified,0
+demo_0061,"Медициналық сақтандыру полисіңіздің мерзімі бітті. 24 сағат ішінде ұзартыңыз: http://med-polis.example.com/renew , карта нөмірі мен CVV енгізіңіз.",scam,phishing,kk,synthetic_demo,abayla_demo_v1,demo_g028,verified,0
+demo_0062,"Ваш банк обновил приложение. Скачайте новую версию по ссылке http://demobank-app.example.com/download.apk , старая перестанет работать сегодня.",scam,phishing,ru,synthetic_demo,abayla_demo_v1,demo_g029,verified,0
+demo_0063,"Банкіңіз қосымшаны жаңартты. Жаңа нұсқасын http://demobank-app.example.com/download.apk сілтемесі арқылы жүктеңіз, ескісі бүгін жұмысын тоқтатады.",scam,phishing,kk,synthetic_demo,abayla_demo_v1,demo_g029,verified,0
+demo_0064,Бонус 50 000 тенге для пенсионеров! Зарегистрируйтесь: https://pension-bonus.example.org@203.0.113.7/reg,scam,phishing,ru,synthetic_demo,abayla_demo_v1,demo_g030,verified,0
+demo_0065,Зейнеткерлерге 50 000 теңге бонус! Тіркеліңіз: https://pension-bonus.example.org@203.0.113.7/reg,scam,phishing,kk,synthetic_demo,abayla_demo_v1,demo_g030,verified,0
+demo_0066,"Мама, это я, у меня новый номер. Попал в аварию, нужны деньги срочно, переведи 300 000 на эту карту, папе не говори.",scam,relative_in_trouble,ru,synthetic_demo,abayla_demo_v1,demo_g031,verified,0
+demo_0067,"Апа, бұл менмін, жаңа нөмір. Апатқа түстім, ақша тез керек, мына картаға 300 000 аударшы, әкеме айтпа.",scam,relative_in_trouble,kk,synthetic_demo,abayla_demo_v1,demo_g031,verified,0
+demo_0068,"Мам, привет, это мой новый номер. Я влип в неприятность, срочно скинь деньги на карту, потом всё объясню.",scam,relative_in_trouble,ru,synthetic_demo,abayla_demo_v1,demo_g031,verified,0
+demo_0069,"Здравствуйте, ваш сын задержан после ДТП. Чтобы не возбуждать дело, нужно передать 500 000 тенге. Курьер приедет к вам через час.",scam,relative_in_trouble,ru,synthetic_demo,abayla_demo_v1,demo_g032,verified,0
+demo_0070,"Сәлеметсіз бе, ұлыңыз жол-көлік оқиғасынан кейін ұсталды. Іс қозғалмауы үшін 500 000 теңге беру керек. Бір сағаттан кейін курьер келеді.",scam,relative_in_trouble,kk,synthetic_demo,abayla_demo_v1,demo_g032,verified,0
+demo_0071,"Бабушка, я в больнице, телефон разбился, пишу с чужого. Срочно нужны деньги на операцию, скинь на карту *4821, только никому не говори.",scam,relative_in_trouble,ru,synthetic_demo,abayla_demo_v1,demo_g033,verified,0
+demo_0072,"Әже, ауруханадамын, телефоным сынып қалды, бөтен телефоннан жазып отырмын. Отаға тез ақша керек, *4821 картасына салып жіберші, ешкімге айтпа.",scam,relative_in_trouble,kk,synthetic_demo,abayla_demo_v1,demo_g033,verified,0
+demo_0073,"Привет, это Ерлан. Пишу с нового номера, старый потерял. Можешь до вечера занять 150 000? Очень срочно, вечером верну.",scam,relative_in_trouble,ru,synthetic_demo,abayla_demo_v1,demo_g034,verified,0
+demo_0074,"Сәлем, бұл Ерлан. Ескі нөмірімді жоғалтып алдым, жаңасынан жазып отырмын. Кешке дейін 150 000 қарызға бере аласың ба? Өте шұғыл, кешке қайтарамын.",scam,relative_in_trouble,kk,synthetic_demo,abayla_demo_v1,demo_g034,verified,0
+demo_0075,"Ваша дочь сбила человека, она сейчас в отделении. Пострадавший согласен не писать заявление за компенсацию. Деньги нужны в течение часа.",scam,relative_in_trouble,ru,synthetic_demo,abayla_demo_v1,demo_g035,verified,0
+demo_0076,"Қызыңыз адамды қағып кетті, қазір бөлімшеде отыр. Зардап шегуші өтемақы алса, арыз жазбауға келісті. Ақша бір сағат ішінде керек.",scam,relative_in_trouble,kk,synthetic_demo,abayla_demo_v1,demo_g035,verified,0
+demo_0079,"Дедушка, это внук. Я попал в неприятности, нужен перевод 200 000. Не звони маме, она будет волноваться.",scam,relative_in_trouble,ru,synthetic_demo,abayla_demo_v1,demo_g037,verified,0
+demo_0080,"Ата, бұл немереңмін. Қиын жағдайға тап болдым, 200 000 аудару керек. Анама қоңырау шалма, уайымдайды.",scam,relative_in_trouble,kk,synthetic_demo,abayla_demo_v1,demo_g037,verified,0
+demo_0081,"Здравствуйте, я врач. Ваш внук в реанимации, нужны дорогие лекарства. Переведите деньги на карту медсестры, она купит.",scam,relative_in_trouble,ru,synthetic_demo,abayla_demo_v1,demo_g038,verified,0
+demo_0082,"Сәлеметсіз бе, мен дәрігермін. Немереңіз реанимацияда, қымбат дәрі керек. Ақшаны медбикенің картасына аударыңыз, ол сатып алады.",scam,relative_in_trouble,kk,synthetic_demo,abayla_demo_v1,demo_g038,verified,0
+demo_0085,"Здравствуй, это я, твой племянник. Мне неудобно просить, но нужна помощь — переведи 70 000 на карту друга, мою заблокировали.",scam,relative_in_trouble,ru,synthetic_demo,abayla_demo_v1,demo_g040,verified,0
+demo_0086,"Сәлем, бұл мен, жиеніңмін. Сұрауға ыңғайсызмын, бірақ көмек керек — досымның картасына 70 000 аударшы, менікі бұғатталды.",scam,relative_in_trouble,kk,synthetic_demo,abayla_demo_v1,demo_g040,verified,0
+demo_0097,"Продаём щенков породы шпиц, отправка по Казахстану. Бронь после оплаты 50% и страховки перевозки.",scam,fake_ad,ru,synthetic_demo,abayla_demo_v1,demo_g046,verified,0
+demo_0098,"Шпиц тұқымды күшіктерін сатамыз, Қазақстан бойынша жіберу. 50% төлеп, тасымал сақтандыруын төлегеннен кейін брондаймыз.",scam,fake_ad,kk,synthetic_demo,abayla_demo_v1,demo_g046,verified,0
+demo_0099,"Продаю авто срочно, цена ниже рынка в два раза. Машина на таможне, нужно оплатить растаможку, после этого пригоню.",scam,fake_ad,ru,synthetic_demo,abayla_demo_v1,demo_g047,verified,0
+demo_0100,"Көлікті шұғыл сатамын, бағасы нарықтан екі есе арзан. Көлік кеденде тұр, кедендік ресімдеуді төлегеннен кейін алып келемін.",scam,fake_ad,kk,synthetic_demo,abayla_demo_v1,demo_g047,verified,0
+demo_0101,"Билеты на концерт по сниженной цене! Пишите в личку, оплата переводом, билеты пришлю после оплаты.",scam,fake_ad,ru,synthetic_demo,abayla_demo_v1,demo_g048,verified,0
+demo_0102,"Концертке арзан билеттер! Жеке хатқа жазыңыз, төлем аударым арқылы, билеттерді төлегеннен кейін жіберемін.",scam,fake_ad,kk,synthetic_demo,abayla_demo_v1,demo_g048,verified,0
+demo_0105,"Продаю новый смартфон за 150 000. Только предоплата, встретиться не могу, отправлю почтой.",scam,fake_ad,ru,synthetic_demo,abayla_demo_v1,demo_g050,verified,0
+demo_0106,"Жаңа смартфон сатамын, 150 000. Тек алдын ала төлем, кездесе алмаймын, поштамен жіберемін.",scam,fake_ad,kk,synthetic_demo,abayla_demo_v1,demo_g050,verified,0
+demo_0107,"Инвестируйте 100 000 тенге и получайте 30% в неделю гарантированно! Проект одобрен государством, мест мало.",scam,investment,ru,synthetic_demo,abayla_demo_v1,demo_g051,verified,0
+demo_0108,"100 000 теңге салып, аптасына 30% кепілді табыс алыңыз! Жобаны мемлекет мақұлдаған, орын аз.",scam,investment,kk,synthetic_demo,abayla_demo_v1,demo_g051,verified,0
+demo_0109,"Гарантированная доходность 30% каждую неделю! Вложите от 100 000 тенге, количество участников ограничено.",scam,investment,ru,synthetic_demo,abayla_demo_v1,demo_g051,verified,0
+demo_0110,Пассивный доход на криптовалюте без риска. Наш брокер удвоит ваши сбережения за месяц. Пишите менеджеру.,scam,investment,ru,synthetic_demo,abayla_demo_v1,demo_g052,verified,0
+demo_0111,Криптовалютада тәуекелсіз пассивті табыс. Біздің брокер жинағыңызды бір айда екі есе көбейтеді. Менеджерге жазыңыз.,scam,investment,kk,synthetic_demo,abayla_demo_v1,demo_g052,verified,0
+demo_0112,Акции крупной нефтяной компании теперь доступны каждому! Вложите от 50 000 и получайте доход от 200 000 в месяц.,scam,investment,ru,synthetic_demo,abayla_demo_v1,demo_g053,verified,0
+demo_0113,"Ірі мұнай компаниясының акциялары енді бәріне қолжетімді! 50 000-нан бастап салып, айына 200 000-нан табыс табыңыз.",scam,investment,kk,synthetic_demo,abayla_demo_v1,demo_g053,verified,0
+demo_0116,Вам одобрено участие в государственной инвестиционной программе. Для активации счёта внесите первый взнос 30 000 тенге.,scam,investment,ru,synthetic_demo,abayla_demo_v1,demo_g055,verified,0
+demo_0117,Сізге мемлекеттік инвестициялық бағдарламаға қатысуға рұқсат берілді. Шотты белсендіру үшін алғашқы 30 000 теңге жарна салыңыз.,scam,investment,kk,synthetic_demo,abayla_demo_v1,demo_g055,verified,0
+demo_0118,"Торговый робот зарабатывает за вас. Минимальный депозит 40 000, прибыль от 5% в день. Вывод в любое время.",scam,investment,ru,synthetic_demo,abayla_demo_v1,demo_g056,verified,0
+demo_0119,"Сауда роботы сіз үшін табыс табады. Ең аз депозит 40 000, күніне 5%-дан бастап пайда. Кез келген уақытта шығаруға болады.",scam,investment,kk,synthetic_demo,abayla_demo_v1,demo_g056,verified,0
+demo_0120,"Хотите доход как у банкира? Закрытый клуб инвесторов, вступительный взнос 25 000, гарантия прибыли 100%.",scam,investment,ru,synthetic_demo,abayla_demo_v1,demo_g057,verified,0
+demo_0121,"Банкирдей табыс тапқыңыз келе ме? Инвесторлардың жабық клубы, кіру жарнасы 25 000, пайдаға 100% кепілдік.",scam,investment,kk,synthetic_demo,abayla_demo_v1,demo_g057,verified,0
+demo_0122,Поздравляем! Ваш номер выиграл в лотерее 500 000 тенге. Для получения оплатите комиссию 9 900 тенге.,scam,other_scheme,ru,synthetic_demo,abayla_demo_v1,demo_g058,verified,0
+demo_0123,Құттықтаймыз! Нөміріңіз лотереяда 500 000 теңге ұтты. Ұтысты алу үшін 9 900 теңге комиссия төлеңіз.,scam,other_scheme,kk,synthetic_demo,abayla_demo_v1,demo_g058,verified,0
+demo_0124,"Вы стали победителем розыгрыша! Приз 500 000 тенге. Чтобы его получить, нужно сначала оплатить сбор.",scam,other_scheme,ru,synthetic_demo,abayla_demo_v1,demo_g058,verified,0
+demo_0131,"Газовая служба: обязательная замена счётчика. Мастер придёт сегодня, оплата наличными 45 000, иначе штраф.",scam,other_scheme,ru,synthetic_demo,abayla_demo_v1,demo_g062,verified,0
+demo_0132,"Газ қызметі: есептегішті міндетті түрде ауыстыру. Шебер бүгін келеді, қолма-қол 45 000 төлейсіз, әйтпесе айыппұл.",scam,other_scheme,kk,synthetic_demo,abayla_demo_v1,demo_g062,verified,0
+demo_0135,"Мы из клиники. Ваши анализы показали опасное заболевание, срочно оплатите дорогое лечение сегодня со скидкой.",scam,other_scheme,ru,synthetic_demo,abayla_demo_v1,demo_g064,verified,0
+demo_0136,"Емханадан хабарласып тұрмыз. Талдауларыңыз қауіпті ауруды көрсетті, емді бүгін жеңілдікпен тез төлеңіз.",scam,other_scheme,kk,synthetic_demo,abayla_demo_v1,demo_g064,verified,0
+demo_0137,"Работа на дому, 25 000 в день! Нужно только оплатить обучающие материалы 7 000 тенге.",scam,other_scheme,ru,synthetic_demo,abayla_demo_v1,demo_g065,verified,0
+demo_0138,"Үйден жұмыс, күніне 25 000! Тек оқу материалдарына 7 000 теңге төлеу керек.",scam,other_scheme,kk,synthetic_demo,abayla_demo_v1,demo_g065,verified,0
+demo_0139,Ваш выигрыш в инвестиционной игре 1 200 000 тенге. Для вывода оплатите налог 12 000 тенге.,scam,other_scheme,ru,synthetic_demo,abayla_demo_v1,demo_g066,verified,0
+demo_0140,Инвестициялық ойындағы ұтысыңыз 1 200 000 теңге. Шығару үшін 12 000 теңге салық төлеңіз.,scam,other_scheme,kk,synthetic_demo,abayla_demo_v1,demo_g066,verified,0
+demo_0141,"Вы победитель розыгрыша магазина! Для получения подарка сообщите номер карты, мы переведём 30 000 тенге.",scam,other_scheme,ru,synthetic_demo,abayla_demo_v1,demo_g067,verified,0
+demo_0142,"Сіз дүкен ұтыс ойынының жеңімпазысыз! Сыйлықты алу үшін карта нөміріңізді айтыңыз, біз 30 000 теңге аударамыз.",scam,other_scheme,kk,synthetic_demo,abayla_demo_v1,demo_g067,verified,0
+demo_0143,"Ваш код входа в Демобанк: 4821. Никому его не сообщайте, даже сотрудникам банка.",not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g068,verified,0
+demo_0144,"Демобанкке кіру кодыңыз: 4821. Оны ешкімге, тіпті банк қызметкерлеріне де айтпаңыз.",not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g068,verified,0
+demo_0145,Код для входа в приложение Демобанка: 6610. Не сообщайте его никому.,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g068,verified,0
+demo_0152,Код для регистрации в приложении доставки: 2281. Никому не сообщайте этот код.,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g072,verified,0
+demo_0153,Жеткізу қосымшасына тіркелу коды: 2281. Бұл кодты ешкімге айтпаңыз.,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g072,verified,0
+demo_0158,Пенсия зачислена на ваш счёт: 98 000 тенге. Хорошего дня!,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g075,verified,0
+demo_0159,Зейнетақы шотыңызға түсті: 98 000 теңге. Күніңіз сәтті өтсін!,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g075,verified,0
+demo_0162,Напоминаем: платёж по кредиту 24 000 тенге нужно внести до 15 числа. Оплатить можно в приложении банка.,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g077,verified,0
+demo_0163,Еске саламыз: несие бойынша 24 000 теңге төлемді айдың 15-не дейін енгізу керек. Банк қосымшасында төлеуге болады.,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g077,verified,0
+demo_0164,Ваша новая карта готова. Получите её в отделении банка с удостоверением личности.,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g078,verified,0
+demo_0165,Жаңа картаңыз дайын. Оны жеке куәлігіңізбен банк бөлімшесінен алыңыз.,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g078,verified,0
+demo_0166,"Демобанк: срок действия карты *5678 истекает в следующем месяце. Перевыпуск бесплатный, оформите в приложении или отделении.",not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g079,verified,0
+demo_0167,"Демобанк: *5678 картасының мерзімі келесі айда бітеді. Қайта шығару тегін, қосымшада немесе бөлімшеде рәсімдеңіз.",not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g079,verified,0
+demo_0168,Ваш вклад пополнен на 50 000 тенге. Ставка и условия — в приложении банка.,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g080,verified,0
+demo_0169,Салымыңыз 50 000 теңгеге толықтырылды. Мөлшерлеме мен шарттар — банк қосымшасында.,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g080,verified,0
+demo_0175,"Полиция напоминает: если вам звонят от имени родственника, попавшего в беду, перезвоните ему сами по известному номеру.",not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g083,verified,0
+demo_0176,"Полиция еске салады: егер сізге қиын жағдайға тап болған туысыңыздың атынан қоңырау шалса, оған өзіңіз білетін нөмір арқылы хабарласыңыз.",not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g083,verified,0
+demo_0177,Внимание! Участились случаи мошенничества с объявлениями. Не вносите предоплату незнакомым продавцам.,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g084,verified,0
+demo_0178,Назар аударыңыз! Хабарландырулар арқылы алаяқтық жиілеп кетті. Бейтаныс сатушыларға алдын ала төлем жасамаңыз.,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g084,verified,0
+demo_0179,"Сынок, мне сегодня звонили, говорили, что из банка, просили код. Я ничего не сказала и положила трубку.",not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g085,verified,0
+demo_0180,"Балам, бүгін маған банктен деп қоңырау шалды, код сұрады. Мен ештеңе айтпай, тұтқаны қойдым.",not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g085,verified,0
+demo_0181,"Напоминание от банка: подключите кодовое слово в приложении, чтобы защитить счёт. Никогда не сообщайте его по телефону.",not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g086,verified,0
+demo_0182,Банктен еске салу: шотты қорғау үшін қосымшада кодтық сөзді қосыңыз. Оны ешқашан телефон арқылы айтпаңыз.,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g086,verified,0
+demo_0183,"Мам, я доехал, всё хорошо. Вечером позвоню.",not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g087,verified,0
+demo_0184,"Апа, жеттім, бәрі жақсы. Кешке қоңырау шаламын.",not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g087,verified,0
+demo_0185,"Апа, мен доехал, бәрі нормально, вечером позвоню.",not_scam,none,mixed,synthetic_demo,abayla_demo_v1,demo_g087,verified,0
+demo_0186,"Папа, не забудь завтра к врачу в 10 утра. Я заеду за тобой в 9:30.",not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g088,verified,0
+demo_0187,"Әке, ертең таңғы 10-да дәрігерге баруды ұмытпа. Мен 9:30-да келіп аламын.",not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g088,verified,0
+demo_0188,"Бабушка, поздравляю с днём рождения! Приедем в субботу всей семьёй.",not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g089,verified,0
+demo_0189,"Әже, туған күніңмен құттықтаймын! Сенбіде бүкіл отбасымызбен келеміз.",not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g089,verified,0
+demo_0190,"Мама, купи, пожалуйста, хлеб и молоко, если будешь в магазине.",not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g090,verified,0
+demo_0191,"Апа, дүкенге барсаң, нан мен сүт алып келші.",not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g090,verified,0
+demo_0192,"Ата, я перевёл тебе 10 000 на лекарства, проверь, пришли ли.",not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g091,verified,0
+demo_0193,"Ата, дәрі алуға 10 000 аудардым, түсті ме, тексеріп көрші.",not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g091,verified,0
+demo_0194,"Сестрёнка, скинь фото рецепта, который давал врач, хочу заказать лекарства.",not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g092,verified,0
+demo_0195,"Қарындасым, дәрігер берген рецепттің суретін жіберші, дәрі тапсырыс бергім келеді.",not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g092,verified,0
+demo_0196,"Апа, внуки соскучились, можно привезём их к тебе на выходные?",not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g093,verified,0
+demo_0197,"Апа, немерелерің сағынды, демалыста саған әкелейік пе?",not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g093,verified,0
+demo_0198,"Сын, свет дали? У нас в подъезде с утра не было.",not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g094,verified,0
+demo_0199,"Балам, жарық берді ме? Біздің подъезде таңнан бері болған жоқ.",not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g094,verified,0
+demo_0204,Ваш заказ №48213 передан курьеру. Доставка сегодня с 14:00 до 18:00.,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g097,verified,0
+demo_0205,№48213 тапсырысыңыз курьерге берілді. Жеткізу бүгін 14:00-ден 18:00-ге дейін.,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g097,verified,0
+demo_0206,"Посылка прибыла в пункт выдачи. Получите её до 20 числа, при себе иметь удостоверение.",not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g098,verified,0
+demo_0207,"Сәлемдеме беру пунктіне келді. Оны 20-сына дейін алыңыз, жаныңызда куәлік болсын.",not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g098,verified,0
+demo_0210,Заказ можно отследить в личном кабинете на сайте магазина: https://www.example.com/orders,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g100,verified,0
+demo_0211,Тапсырысты дүкен сайтындағы жеке кабинетте бақылауға болады: https://www.example.com/orders,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g100,verified,0
+demo_0212,"Поликлиника напоминает: ваш приём у терапевта завтра в 11:20, кабинет 205.",not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g101,verified,0
+demo_0213,"Емхана еске салады: терапевтке қабылдауыңыз ертең 11:20-да, 205-кабинет.",not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g101,verified,0
+demo_0218,"Аптека: ваш заказ лекарств готов к выдаче. Адрес: ул. Примерная, 5.",not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g104,verified,0
+demo_0219,"Дәріхана: дәрі тапсырысыңыз беруге дайын. Мекенжайы: Мысал көшесі, 5.",not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g104,verified,0
+demo_0222,Квитанция за коммунальные услуги за октябрь сформирована. Оплатить можно в приложении банка или в отделении.,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g106,verified,0
+demo_0223,Қазан айындағы коммуналдық қызметтер түбіртегі дайын. Банк қосымшасында немесе бөлімшеде төлеуге болады.,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g106,verified,0
+demo_0224,Плановое отключение воды по вашему адресу 12 ноября с 9:00 до 17:00.,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g107,verified,0
+demo_0225,Сіздің мекенжайыңыз бойынша 12 қарашада 9:00-ден 17:00-ге дейін су жоспарлы түрде өшіріледі.,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g107,verified,0
+demo_0226,Ваша заявка на получение справки рассмотрена. Документ доступен в личном кабинете портала.,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g108,verified,0
+demo_0227,Анықтама алуға берген өтініміңіз қаралды. Құжат порталдағы жеке кабинетте қолжетімді.,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g108,verified,0
+demo_0228,Собрание жильцов дома состоится в субботу в 12:00 во дворе. Обсудим ремонт крыши.,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g109,verified,0
+demo_0229,Үй тұрғындарының жиналысы сенбі күні сағат 12:00-де аулада өтеді. Шатырды жөндеуді талқылаймыз.,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g109,verified,0
+demo_0230,Уведомление: пенсия за ноябрь будет зачислена в обычные сроки.,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g110,verified,0
+demo_0231,Хабарлама: қараша айының зейнетақысы әдеттегі мерзімде түседі.,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g110,verified,0
+demo_0234,Скидка 20% на все товары для дома до конца недели. Ждём вас в магазине!,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g112,verified,0
+demo_0235,Апта соңына дейін үйге арналған барлық тауарларға 20% жеңілдік. Дүкенде күтеміз!,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g112,verified,0
+demo_0236,Ваши бонусы: 1 250. Используйте их при следующей покупке в нашей сети.,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g113,verified,0
+demo_0237,Бонустарыңыз: 1 250. Оларды біздің желідегі келесі сатып алуда пайдаланыңыз.,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g113,verified,0
+demo_0238,"Новое меню в нашем кафе! Приходите попробовать, при заказе от 5 000 — десерт в подарок.",not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g114,verified,0
+demo_0239,"Біздің кафеде жаңа мәзір! Келіп дәмін татыңыз, 5 000-нан асатын тапсырысқа десерт сыйлыққа.",not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g114,verified,0
+demo_0242,Оператор связи: подключите тариф «Семейный» в приложении — звонки близким бесплатно.,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g116,verified,0
+demo_0243,Байланыс операторы: қосымшада «Отбасылық» тарифін қосыңыз — жақындарға қоңырау шалу тегін.,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g116,verified,0
+demo_0244,"Ваш номер телефона успешно перенесён к новому оператору. Спасибо, что выбрали нас.",not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g117,verified,0
+demo_0245,Телефон нөміріңіз жаңа операторға сәтті ауыстырылды. Бізді таңдағаныңызға рахмет.,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g117,verified,0
+demo_0246,"Добрый вечер, Галина Петровна! Завтра в 10 занятие в клубе скандинавской ходьбы, не забудьте палки.",not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g118,verified,0
+demo_0247,"Қайырлы кеш, Гүлнар апай! Ертең сағат 10-да скандинавиялық жүру клубында сабақ бар, таяқтарды ұмытпаңыз.",not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g118,verified,0
+demo_0248,"Соседка, у вас не найдётся немного соли? Зайду через пять минут.",not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g119,verified,0
+demo_0249,"Көрші, сізде аздап тұз табыла ма? Бес минуттан кейін кіремін.",not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g119,verified,0
+demo_0250,"Привет! Как здоровье? Давно не виделись, может, встретимся в парке на этой неделе?",not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g120,verified,0
+demo_0251,"Сәлем! Денсаулығың қалай? Көптен көріспедік, осы аптада саябақта кездесейік пе?",not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g120,verified,0
+demo_0252,"Внимание, жители! В четверг в подъезде будут мыть окна.",not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g121,verified,0
+demo_0253,Тұрғындар назарына! Бейсенбі күні подъезде терезе жуылады.,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g121,verified,0
+demo_0254,"Спасибо за пирог, очень вкусный! Поделитесь рецептом?",not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g122,verified,0
+demo_0255,"Бәліш үшін рахмет, өте дәмді! Рецептімен бөлісесіз бе?",not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g122,verified,0
+demo_0258,"Нурлан, перезвони, когда освободишься. Надо обсудить поездку в аул.",not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g124,verified,0
+demo_0259,"Нұрлан, босаған кезде қоңырау шал. Ауылға баруды талқылау керек.",not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g124,verified,0
+demo_0262,"Друзья, фотографии с юбилея выложила в общий альбом: https://example.org/album/123",not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g126,verified,0
+demo_0263,"Достар, мерейтойдағы суреттерді ортақ альбомға салдым: https://example.org/album/123",not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g126,verified,0
+demo_0264,"Мам, вот рецепт того салата: https://www.example.com/recipes/salad",not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g127,verified,0
+demo_0265,"Апа, міне сол салаттың рецепті: https://www.example.com/recipes/salad",not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g127,verified,0
+demo_0266,"Сәлем, завтра в 10 той болады, не опаздывайте, адрес жібердім.",not_scam,none,mixed,synthetic_demo,abayla_demo_v1,demo_g128,verified,0
+demo_0269,"Здравствуйте, по вашему объявлению о велосипеде: можно приехать посмотреть завтра вечером?",not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g130,verified,0
+demo_0270,"Сәлеметсіз бе, велосипед туралы хабарландыруыңыз бойынша: ертең кешке көруге келуге бола ма?",not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g130,verified,0
+demo_0271,"Сосед, я перевёл тебе за общий счёт за интернет 2 500, проверь.",not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g131,verified,0
+demo_0272,"Көрші, интернеттің ортақ шоты үшін саған 2 500 аудардым, тексеріп көр.",not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g131,verified,0
+demo_0273,"Сбор на подарок учительнице — по 2 000 с семьи, деньги собираю лично на собрании.",not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g132,verified,0
+demo_0274,"Мұғалімге сыйлыққа ақша жинау — әр отбасынан 2 000, ақшаны жиналыста өзім жинаймын.",not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g132,verified,0
+demo_0275,Синоптики обещают похолодание до минус 25 на выходных. Одевайтесь теплее.,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g133,verified,0
+demo_0276,Синоптиктер демалыста минус 25-ке дейін суық болатынын болжайды. Жылы киініңіз.,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g133,verified,0
+demo_0277,Автобус №12 временно меняет маршрут из-за ремонта дороги.,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g134,verified,0
+demo_0278,№12 автобус жол жөндеуіне байланысты бағытын уақытша өзгертеді.,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g134,verified,0
+demo_0001_aug0,зравствуте ас беспкоит служба безопасности демобанка по вашей карте зафиксирована попытка списания 450 000 тенге чтоб отменить операцию продиктйе код из sms,scam,bank_police_impersonation,ru,synthetic_demo,abayla_demo_v1,demo_g001,verified,1
+demo_0002_aug0,сәлеметсіз бе демобанктің қауіпсіздік қызметінен хабарласып тұрмыз картаңыздан 450 000 теңге шешуге әрекет жасалды операцияны тоқтату үшін sms-тегі кодты айтыңз,scam,bank_police_impersonation,kk,synthetic_demo,abayla_demo_v1,demo_g001,verified,1
+demo_0003_aug0,служба безопасности бнка с ваего счёта пытаются снять деньг срочно сообщите код одтверждения который сейчас ридёт,scam,bank_police_impersonation,ru,synthetic_demo,abayla_demo_v1,demo_g001,verified,1
+demo_0004_aug0,это следователь иванов епартамент полиции на вше имя пытаютя оформить кредит никому не рассказывайте о нашем разговоре и преведите сбеежения н беопасный счёт коорый я продктую,scam,bank_police_impersonation,ru,synthetic_demo,abayla_demo_v1,demo_g002,verified,1
+demo_0005_aug0,полиция депртаментінің тергеушісімін сіздің атыңызға несие рәімдемек блып жатыр бұл әңгіме туралы ешкімге айтпаңыз инағыңызды мен айтатын қауіпсіз шотқа аударыңыз,scam,bank_police_impersonation,kk,synthetic_demo,abayla_demo_v1,demo_g002,verified,1
+demo_0006_aug0,говоит сотрудник полиции против вас готовят мошенническую операцию чтобы сохранить деньги переведите их на защищённый счёт и не говорите родственникам,scam,bank_police_impersonation,ru,synthetic_demo,abayla_demo_v1,demo_g002,verified,1
+demo_0007_aug0,ваша карта заблокирована из-за подозрительной активности для разблокировки назоите номер карты срок действия и три цифры на обороте,scam,bank_police_impersonation,ru,synthetic_demo,abayla_demo_v1,demo_g003,verified,1
+demo_0008_aug0,күдікті әрекетке байланысты картаыз бұғаттады бұғаттан шығару үшін карта нөмірін жарамдылық мерзмін және артқы ағында үш санды айтыңыз,scam,bank_police_impersonation,kk,synthetic_demo,abayla_demo_v1,demo_g003,verified,1
+demo_0009_aug0,сотрудник национального банка ваши деньги в опасности мошенники получили доступ к счёту рочно снмите наличные и внесите их через термина на резрвный счёт,scam,bank_police_impersonation,ru,synthetic_demo,abayla_demo_v1,demo_g004,verified,1
+demo_0010_aug0,ұттық бан қызметкерімін ақшаңыз қауіпте алаяқтар шотыңызға қол жеткізді тез арада қолма-қол ақша алып терминал арқылы резервтік шотқа салыңыз,scam,bank_police_impersonation,kk,synthetic_demo,abayla_demo_v1,demo_g004,verified,1
+demo_0014_aug0,ваш иин используется в мошеннических операциях с вами свяжется сотрудник кн выполяйте его указния и никому не сообайте об этом иначе будет озбуждено уголовное дело,scam,bank_police_impersonation,ru,synthetic_demo,abayla_demo_v1,demo_g006,verified,1
+demo_0015_aug0,сіздің жсн-іңіз алаяқтық операцияларда қолданылуда сізбен ұқк қызметкері байланысады оның нұсқауларын орындаңыз және бл туралы ешкімге айтпаңыз әйтпесе қылмыстық іс қозғалады,scam,bank_police_impersonation,kk,synthetic_demo,abayla_demo_v1,demo_g006,verified,1
+demo_0016_aug0,опратор сотовой связи срок действия вашей sim-карты истекат чтобы продлить номер назовите код который придёт в sms,scam,bank_police_impersonation,ru,synthetic_demo,abayla_demo_v1,demo_g007,verified,1
+demo_0017_aug0,ұялы байланыс оперторы sim-картаңыздң мерзімі бітіп жатыр нөмірді ұзарту үшін sms арқылы келетін кодты айтыңыз,scam,bank_police_impersonation,kk,synthetic_demo,abayla_demo_v1,demo_g007,verified,1
+demo_0018_aug0,демобнк на вас оформлена заявка на кредт 2 000 000 тенге если это не вы срочно перезвоните по нмеру +7 000 000 00 00 и подтвердите отмену кодом из sms,scam,bank_police_impersonation,ru,synthetic_demo,abayla_demo_v1,demo_g008,verified,1
+demo_0019_aug0,демобанк сіздің атыңызға 2 000 000 теңгеге несие өтінімі берілді егер бұ із болмасаңыз +7 000 000 00 00 нөмріне тез хабарласып sms-тегі кодпен бас тартуды растаңыз,scam,bank_police_impersonation,kk,synthetic_demo,abayla_demo_v1,demo_g008,verified,1
+demo_0020_aug0,пенсионный фонд вам положеа доплата к пенсии для зачисления продиктуйте данные карты и код подтвердения,scam,bank_police_impersonation,ru,synthetic_demo,abayla_demo_v1,demo_g009,verified,1
+demo_0021_aug0,зентақ қоры сізге зейнетақыға қосымш төлем тиесілі ақшаны аудару үшін карта деректерін және астау кодын айтыңыз,scam,bank_police_impersonation,kk,synthetic_demo,abayla_demo_v1,demo_g009,verified,1
+demo_0022_aug0,ва одобрена адбавка к пенсии чтобы её получить сообщите номер карты и код который придёт по sms,scam,bank_police_impersonation,ru,synthetic_demo,abayla_demo_v1,demo_g009,verified,1
+demo_0023_aug0,это служба безопасности ваш родствнник пытался зять кредит под ваше имя чтобы аннулирвать заявку нужно оформить встречный кредит и перевести деьги на защищённый счёт,scam,bank_police_impersonation,ru,synthetic_demo,abayla_demo_v1,demo_g010,verified,1
+demo_0024_aug0,қауіпсіздік қызметі хабарласып тұр туысыңыз сіздің атыңызға несие алмақ болды өтнімді жою үшін қарсы несие рәсідеп ақшаны қорғалған штқа адару керек,scam,bank_police_impersonation,kk,synthetic_demo,abayla_demo_v1,demo_g010,verified,1
+demo_0027_aug0,ваш электрнный кошелёк будет закрыт сегодня чтобы сохранить средста назовите кодовое слово и пароль от мобильного банка,scam,bank_police_impersonation,ru,synthetic_demo,abayla_demo_v1,demo_g012,verified,1
+demo_0028_aug0,элекронды әмияныңыз бүгін жабылады қаражатты сақтап қалу үін кодтық сөзд және моильді банк құпиясөзін айтыңыз,scam,bank_police_impersonation,kk,synthetic_demo,abayla_demo_v1,demo_g012,verified,1
+demo_0033_aug0,здравствуйте специалист банка вам нужно продиктоать pin-код чобы мы перевыпутили карту,scam,bank_police_impersonation,ru,synthetic_demo,abayla_demo_v1,demo_g015,verified,1
+demo_0034_aug0,сәлеметсіз бе банк маманымын картаны қайта шығару үшін pi-кодты айтуыңыз крек,scam,bank_police_impersonation,kk,synthetic_demo,abayla_demo_v1,demo_g015,verified,1
+demo_0035_aug0,вы стли жертвой утечки данных чтобы защитить пенсионные накопления перведите их через приложение на счёт который назовёт оператор,scam,bank_police_impersonation,ru,synthetic_demo,abayla_demo_v1,demo_g016,verified,1
+demo_0036_aug0,дректеріңіз ағып кетті зейнетақы жинағыңызды қорғау үшін оларды қосымша арқылы оператор айтатын шотқа аударыңыз,scam,bank_police_impersonation,kk,synthetic_demo,abayla_demo_v1,demo_g016,verified,1
+demo_0037_aug0,емобанк қауіпсіздік қызметі подвердите операцию sms-тегі кодты айтыңы инче крта будет заблокирована,scam,bank_police_impersonation,mixed,synthetic_demo,abayla_demo_v1,demo_g017,verified,1
+demo_0041_aug0,вам начислена социальная выплата 42 500 тенге получите по ссылке http//203011345/payout и введите данные карты,scam,phishing,ru,synthetic_demo,abayla_demo_v1,demo_g019,verified,1
+demo_0042_aug0,сзге 42 500 теңге әлеуметік төлем есептелді http//203011345/payout сілтемесі арқылы алп карта деректерін енгізіңіз,scam,phishing,kk,synthetic_demo,abayla_demo_v1,demo_g019,verified,1
+demo_0043_aug0,посылка е может быть доставлена из-за неверного адреса оплатите 350 тенге за ереадресацию http//post-deliveryexamplenet/pay,scam,phishing,ru,synthetic_demo,abayla_demo_v1,demo_g020,verified,1
+demo_0044_aug0,мекенжай қате боғандықтан сәлемдеме жеткізілмейді қайта жіберу үшін 350 теңге төлеңіз http//post-deliveryexamplenet/pay,scam,phishing,kk,synthetic_demo,abayla_demo_v1,demo_g020,verified,1
+demo_0045_aug0,ваша посылка задержан на складе чтобы получить её оплатит хранение по ссылке http//parcel-holdexamplenet/fee,scam,phishing,ru,synthetic_demo,abayla_demo_v1,demo_g020,verified,1
+demo_0046_aug0,налоговая у вас адолженность во избежание арета имущества оплатите сегодня о ссылке http//tax-paysecure-loginexamplorg/kz,scam,phishing,ru,synthetic_demo,abayla_demo_v1,demo_g021,verified,1
+demo_0047_aug0,салық қызметі сізде берешек бар мүлікке тыйм салынбас үшін бүгін http//ax-paysecure-loginexampleorg/kz сілтемесі арқылы төлеңіз,scam,phishing,kk,synthetic_demo,abayla_demo_v1,demo_g021,verified,1
+demo_0048_aug0,ваш аккаунт в мессенджере будет удалён потвердите номе http//msg-verifyexamplecom/id=88412,scam,phishing,ru,synthetic_demo,abayla_demo_v1,demo_g022,verified,1
+demo_0049_aug0,мессенджердегі аккаунтыңыз жойылады нөміріңіді растаңыз http//msg-verifyexamplecom/id=88412,scam,phishing,kk,synthetic_demo,abayla_demo_v1,demo_g022,verified,1
+demo_0054_aug0,ваа карта будет заблокирована войдие в личный кабинет по ссылке и введите код из sms htp//xn--80ak6aa92examplecom,scam,phishing,ru,synthetic_demo,abayla_demo_v1,demo_g025,verified,1
+demo_0055_aug0,картаңыз бұғатталады сілтеме бойынша жеке кабинетке іріп sms-тегі кодты енгізіңіз http//xn--80ak6aa92eexamplecom,scam,phishing,kk,synthetic_demo,abayla_demo_v1,demo_g025,verified,1
+demo_0056_aug0,прогоосуйте пожалуйста за мою внучку в конкурсе нуно войти черз номер телефон и ввести код http//vote-konkursxampeco,scam,phishing,ru,synthetic_demo,abayla_demo_v1,demo_g026,verified,1
+demo_0057_aug0,немрем байқауға қатысып жатыр дауы беріңізші телефон нөмірімен кіріп кодты енгізу керек http//vote-konkusexamplecom,scam,phishing,kk,synthetic_demo,abayla_demo_v1,demo_g026,verified,1
+demo_0058_aug0,компенсация за коммунальные услуги верите ереплату 18 000 тенге заполнив форму http//komunal-refundexampleorg,scam,phishing,ru,synthetic_demo,abayla_demo_v1,demo_g027,verified,1
+demo_0059_aug0,коммуналдық қызметтер бойынша өтемақы http//komunal-rfundexampleorg формасын толтырып артық төлегн 18 000 теңгені қайтарып алыңыз,scam,phishing,kk,synthetic_demo,abayla_demo_v1,demo_g027,verified,1
+demo_0060_aug0,ваш полис медстрахования стёк продлите в течене 24 чаов http//med-olisexampecom/rnew  введите номр карты и cvv,scam,phishing,ru,synthetic_demo,abayla_demo_v1,demo_g028,verified,1
+demo_0061_aug0,медициалық сақтандыру полисіңіздің мерзімі бітті 24 сағат ішінде ұзартыңыз http//med-polisxamplecom/renew  карта нөмірі мен cvv енгізіңіз,scam,phishing,kk,synthetic_demo,abayla_demo_v1,demo_g028,verified,1
+demo_0062_aug0,ваш банк обновил приложение скачайте новую версию по ссылке http//dembank-appexamplecom/downloadapk  старая перестанет работать сегодня,scam,phishing,ru,synthetic_demo,abayla_demo_v1,demo_g029,verified,1
+demo_0063_aug0,банкіңіз қосыаны жаңарты жаңа нсқасн http//demobank-appexamplecom/downloadapk сілтемесі арқыл жүктеңіз ескісі бүгн жұмысын тоқтатады,scam,phishing,kk,synthetic_demo,abayla_demo_v1,demo_g029,verified,1
+demo_0064_aug0,бонс 50 000 тенге для пенсионеров зарегистрируйтесь https//pension-bonusexampleorg@20301137/reg,scam,phishing,ru,synthetic_demo,abayla_demo_v1,demo_g030,verified,1
+demo_0065_aug0,зейнеткерлерге 50 000 теңге бонус тіркеліңіз htts//pension-bonusexapleorg@20301137/reg,scam,phishing,kk,synthetic_demo,abayla_demo_v1,demo_g030,verified,1
+demo_0066_aug0,мама это я у меня новый номр попал в аварию нужны деньги срочно переведи 300 000 на эту карту папе не говори,scam,relative_in_trouble,ru,synthetic_demo,abayla_demo_v1,demo_g031,verified,1
+demo_0067_aug0,апа бұл менмін жаңа нөір апатқа түстім ақша тез керек мына картаға 300 000 ауаршы әкеме айтпа,scam,relative_in_trouble,kk,synthetic_demo,abayla_demo_v1,demo_g031,verified,1
+demo_0068_aug0,мам привет это мо новый нмер я влип в неприятность срочно скинь деньги на карту потом всё объясню,scam,relative_in_trouble,ru,synthetic_demo,abayla_demo_v1,demo_g031,verified,1
+demo_0069_aug0,здравствйте ваш сын задержан после дтп чтобы не возбуждать дело нужно передать 500 000 тенге курьер приедет к вам через час,scam,relative_in_trouble,ru,synthetic_demo,abayla_demo_v1,demo_g032,verified,1
+demo_0070_aug0,сәлеметсіз е лыңыз жол-көлік оқиғасынн кейін ұсталды іс қозғалмауы үшін 500 000 теңге беру керек бір сағаттан кейін курьер келеді,scam,relative_in_trouble,kk,synthetic_demo,abayla_demo_v1,demo_g032,verified,1
+demo_0071_aug0,бабушка я в больнице теефон разбился ишу с чужого сочно нужны деньги на операцию скинь на карту *4821 только никому не говори,scam,relative_in_trouble,ru,synthetic_demo,abayla_demo_v1,demo_g033,verified,1
+demo_0072_aug0,әже ауруханадамын телефоным сынып қалды бөтен телефоннан жазып отырмын отаға тез ақша керек *4821 катасына салып жіберші ешкімге айтп,scam,relative_in_trouble,kk,synthetic_demo,abayla_demo_v1,demo_g033,verified,1
+demo_0073_aug0,привет это ерлан пишу с нового номера старый потерял можешь до вече занять 150 000 очень срочно вечером верну,scam,relative_in_trouble,ru,synthetic_demo,abayla_demo_v1,demo_g034,verified,1
+demo_0074_aug0,сәлем бұл ерлан ескі нөмірімі жоғалтып алдым жаңасынан жазып отрмын кешке дейін 150 000 қарызға бере аласың ба өте шұғыл ешке қайтарамын,scam,relative_in_trouble,kk,synthetic_demo,abayla_demo_v1,demo_g034,verified,1
+demo_0075_aug0,ваша дочь сбила человека она сейчас в отделении пострадавший согласен не писать заявление за компенсацию деньги нужны в течение часа,scam,relative_in_trouble,ru,synthetic_demo,abayla_demo_v1,demo_g035,verified,1
+demo_0076_aug0,қызыңыз аамды ағып кетті қазір өлімшеде отыр зардап шегуші өтемақы алса арыз жазбауға келіст ақша бір сағат ішінде керек,scam,relative_in_trouble,kk,synthetic_demo,abayla_demo_v1,demo_g035,verified,1
+demo_0079_aug0,дедушка это внук я попал в непритности нужен перевод 200 000 не звони маме она будет волноваться,scam,relative_in_trouble,ru,synthetic_demo,abayla_demo_v1,demo_g037,verified,1
+demo_0080_aug0,та бұл немереңмін қиын жағдайға тап болдым 200 000 аудару керек анма қоңырау шалма уайымдайды,scam,relative_in_trouble,kk,synthetic_demo,abayla_demo_v1,demo_g037,verified,1
+demo_0081_aug0,здравствуйте я врач ваш внук в реанимации нужны дорогие лекаства переведите деньги на карту медсестры она купит,scam,relative_in_trouble,ru,synthetic_demo,abayla_demo_v1,demo_g038,verified,1
+demo_0082_aug0,сәлеметсіз бе мен дәрігермін немереңіз реанимацияда ымбат дәрі кере ақшаны медбикенің картасына аударыңыз ол сатып алады,scam,relative_in_trouble,kk,synthetic_demo,abayla_demo_v1,demo_g038,verified,1
+demo_0085_aug0,здравствуй это я твой племянник мне неудобно просить но нужна поощь — переведи 70 000 на кару руга мою заблоировали,scam,relative_in_trouble,ru,synthetic_demo,abayla_demo_v1,demo_g040,verified,1
+demo_0086_aug0,сәле бұл мен жиеніңмін сұрауға ыңғайызмын бірақ көмек керек — досымның картаына 70 000 аударшы менікі бұғатталды,scam,relative_in_trouble,kk,synthetic_demo,abayla_demo_v1,demo_g040,verified,1
+demo_0097_aug0,продаём щенков породы шпиц отправка по казахстану боь после оплаты 50% и страховки превозки,scam,fake_ad,ru,synthetic_demo,abayla_demo_v1,demo_g046,verified,1
+demo_0098_aug0,шпиц тұқымды күшіктері сатамыз қазақстан бойынша жіберу 50% төлеп тасымал сақтандыруын төлегеннен кейін брондаймыз,scam,fake_ad,kk,synthetic_demo,abayla_demo_v1,demo_g046,verified,1
+demo_0099_aug0,продаю авто срочно цена ниже рынка в два раза машина на таможне нужно опатить растаожку после этого пргоню,scam,fake_ad,ru,synthetic_demo,abayla_demo_v1,demo_g047,verified,1
+demo_0100_aug0,көлікті шұғыл сатамын бағасы нарықтан екі ее арзн көлік кеденде тұр кедендік ресімдеуі тлегеннен кейін алып келемн,scam,fake_ad,kk,synthetic_demo,abayla_demo_v1,demo_g047,verified,1
+demo_0101_aug0,билты на концерт по сниженной цене пишите в личку оплата переводом билет прилю после оплаты,scam,fake_ad,ru,synthetic_demo,abayla_demo_v1,demo_g048,verified,1
+demo_0102_aug0,концертке арзан билеттер жеке хатқа жазыыз төлем аударым арқылы билеттерді төлегннен кейін жіберемін,scam,fake_ad,kk,synthetic_demo,abayla_demo_v1,demo_g048,verified,1
+demo_0105_aug0,продаю ноый смартфон за 150 000 только прдоплата стетиться не могу отправлю почтой,scam,fake_ad,ru,synthetic_demo,abayla_demo_v1,demo_g050,verified,1
+demo_0106_aug0,жаңа смартфон сатамын 150 000 тек алдын ала төлем кездесе алмаймын поштамен жіберемін,scam,fake_ad,kk,synthetic_demo,abayla_demo_v1,demo_g050,verified,1
+demo_0107_aug0,инвестируйте 100 000 енге и получайте 30% в неделю гарантировано проект ообрен государством мест мало,scam,investment,ru,synthetic_demo,abayla_demo_v1,demo_g051,verified,1
+demo_0108_aug0,100 000 теңге салып аптасына 30% кепілді табы алыңыз жобаны мемлекет мақұлдаған орын аз,scam,investment,kk,synthetic_demo,abayla_demo_v1,demo_g051,verified,1
+demo_0109_aug0,гарантированная доходость 30% каждую недлю вложите от 100 000 тенге количетво участников ограничено,scam,investment,ru,synthetic_demo,abayla_demo_v1,demo_g051,verified,1
+demo_0110_aug0,пассивный доход на криптовалюте без риска наш брокер удвоит ваши сбережения за месц пишите менеджру,scam,investment,ru,synthetic_demo,abayla_demo_v1,demo_g052,verified,1
+demo_0111_aug0,криптовалютада тәуекелсіз пассивт табыс біздің брокер инағыңызды бір айда екі есе көбейтеді менеджерг жазыңыз,scam,investment,kk,synthetic_demo,abayla_demo_v1,demo_g052,verified,1
+demo_0112_aug0,акции крупной нефтяной комании теперь доступны каждому вложите от 50 000  полуайте доход от 200 000 в месяц,scam,investment,ru,synthetic_demo,abayla_demo_v1,demo_g053,verified,1
+demo_0113_aug0,ірі мұнай компаниясыны акциялары енді бәріне қолжетімді 50 000-нан бастап салып айына 200 000-нан табыс табыңыз,scam,investment,kk,synthetic_demo,abayla_demo_v1,demo_g053,verified,1
+demo_0116_aug0,вам одобрено участе в государственной инвестиционной программе для активации счёта внесите первый взнос 30 000 тене,scam,investment,ru,synthetic_demo,abayla_demo_v1,demo_g055,verified,1
+demo_0117_aug0,сізге мемлекеттік инвестициялық бағдарламаа қатысуға рұқсат брілді шотты белсендіру үшін алғашқ 30 000 теңге жарна салыңыз,scam,investment,kk,synthetic_demo,abayla_demo_v1,demo_g055,verified,1
+demo_0118_aug0,торговый робот зарабатывает за вас мнимальный депзит 40 000 прибыль от 5% в день вывод в любо время,scam,investment,ru,synthetic_demo,abayla_demo_v1,demo_g056,verified,1
+demo_0119_aug0,сауда роботы сіз үшін табыс табады ең аз депозит 40 000 күніне 5%-дан бастап пайда кез келген уақытта шығаруға болады,scam,investment,kk,synthetic_demo,abayla_demo_v1,demo_g056,verified,1
+demo_0120_aug0,хтите доход как у банкира закрытый клуб инвесторов вступитеьный взнос 25 000 гарантия прибыли 100%,scam,investment,ru,synthetic_demo,abayla_demo_v1,demo_g057,verified,1
+demo_0121_aug0,банкирдей табыс тапқыңыз келе ме инвесторлардың абық клубы кіру жарнасы 25 000 пайдаға 100% кепілдік,scam,investment,kk,synthetic_demo,abayla_demo_v1,demo_g057,verified,1
+demo_0122_aug0,поздравлям ваш номер выиграл в лотерее 500 000 тенге для получения оплтите комиссию 9 900 тенге,scam,other_scheme,ru,synthetic_demo,abayla_demo_v1,demo_g058,verified,1
+demo_0123_aug0,құттықтаймыз нөміріңіз лотереяда 500 000 еңге ұтты ұтысты ау үшін 9 900 теңе комиссия төлеңіз,scam,other_scheme,kk,synthetic_demo,abayla_demo_v1,demo_g058,verified,1
+demo_0124_aug0,вы стали пбедителем розыгрыша приз 500 000 тенге чтобы его плучить нужно сначала оплатить сбор,scam,other_scheme,ru,synthetic_demo,abayla_demo_v1,demo_g058,verified,1
+demo_0131_aug0,газовая суба обязательная замена чётчика мастер придёт сегодня оплта наличными 45 000 иначе штраф,scam,other_scheme,ru,synthetic_demo,abayla_demo_v1,demo_g062,verified,1
+demo_0132_aug0,газ қызметі есетегішті міндетті түде ауыстыру шебер бүгін келеді қолма-қол 45 000 төлейсіз әйтпесе айыппұл,scam,other_scheme,kk,synthetic_demo,abayla_demo_v1,demo_g062,verified,1
+demo_0135_aug0,мы из клиники ваши анализы показали опасное аболевание срочно оплатите дорогое лечение сегодня со скидкой,scam,other_scheme,ru,synthetic_demo,abayla_demo_v1,demo_g064,verified,1
+demo_0136_aug0,емханадан хабаласып тұрмыз талдаулаыңыз қауіпті ауруд крсетті емді бүгін жеңілдікпен тез төлеңіз,scam,other_scheme,kk,synthetic_demo,abayla_demo_v1,demo_g064,verified,1
+demo_0137_aug0,работа на дому 25 000 в ден нужно только платить обучающие материалы 7 000 тенге,scam,other_scheme,ru,synthetic_demo,abayla_demo_v1,demo_g065,verified,1
+demo_0138_aug0,үйден жұыс күніне 25 000 тек оқу материалдарына 7 000 теңге төеу керек,scam,other_scheme,kk,synthetic_demo,abayla_demo_v1,demo_g065,verified,1
+demo_0139_aug0,ва выигрыш в инвесционной игре 1 200 000 тенге для вывода оплатите налог 12 000 тенге,scam,other_scheme,ru,synthetic_demo,abayla_demo_v1,demo_g066,verified,1
+demo_0140_aug0,инвестицялық ойындаы ұтысыңыз 1 200 000 теңге шығару үшін 12 000 теңге салық төлеңіз,scam,other_scheme,kk,synthetic_demo,abayla_demo_v1,demo_g066,verified,1
+demo_0141_aug0,вы победитель розыгрш магазина для получения подарка сообщите номер карты мы перведём 30 000 тенге,scam,other_scheme,ru,synthetic_demo,abayla_demo_v1,demo_g067,verified,1
+demo_0142_aug0,сіз дүкен ұтыс ойынының жеімпазысыз сыйлықты алу үшін карта нөміріңізді айтыңыз біз 30 000 теңге адарамыз,scam,other_scheme,kk,synthetic_demo,abayla_demo_v1,demo_g067,verified,1
+demo_0143_aug0,ваш код входа в демобанк 4821 ниому его не собщайте даже сотрудникам банка,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g068,verified,1
+demo_0144_aug0,демобанкке кіру кодыңыз 4821 ны ешкіме тіпті банк қызметкерлеріне де айтпаңыз,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g068,verified,1
+demo_0145_aug0,код для входа в прложение демобанк 6610 не сообщайте его никому,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g068,verified,1
+demo_0152_aug0,код для ргисрации в приложении доставки 2281 никому не сообщйт этот код,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g072,verified,1
+demo_0153_aug0,жеткізу қосымшасына тіркелу коды 2281 бұл кодты ешкімге айтпаңыз,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g072,verified,1
+demo_0158_aug0,пенсия зачислена на ваш счёт 98 000 тенге хорошего дня,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g075,verified,1
+demo_0159_aug0,зейнетақы шотыңызға түсті 98 000 теңге күніңіз сәті өтсін,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g075,verified,1
+demo_0162_aug0,напоминаем платёж по кредиту 24 000 тнге нужно внести до 15 числа оплатить ожно в приложении банка,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g077,verified,1
+demo_0163_aug0,еске саламыз несие бойынша 24 000 теңге төлемді айдың 15-не дейін егізу керек банк қосымшасында төлеге болады,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g077,verified,1
+demo_0164_aug0,ваша новая карта готова получите её в отделении банка с удостоверением личности,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g078,verified,1
+demo_0165_aug0,жаңа артаңыз дайын оны жеке куәлігіңізбен банк бөлімшесінен алыңыз,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g078,verified,1
+demo_0166_aug0,демобанк срок дествия карты *5678 истекает в следующем месяце перевыпуск бесплатный оформите в приложении или отделени,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g079,verified,1
+demo_0167_aug0,дембнк *5678 картасының мерзімі келесі айда бітеді қайт шығару тегін қосмшада немесе бөлімшеде рәсімдеңіз,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g079,verified,1
+demo_0168_aug0,ваш вклад пополнен на 50 000 тенге ставка и услови — в приложении банка,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g080,verified,1
+demo_0169_aug0,салымыыз 50 000 теңгеге толықтырылды өлшерлеме мн шарттар — банк қсымшасында,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g080,verified,1
+demo_0175_aug0,полиция напоминает если вам вонят от имени родственника попавшего в беду перезвоните ему сми по известному номеру,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g083,verified,1
+demo_0176_aug0,полиция еске салады егер сізге қиын жағдайға тап болған туысыңыздың атынн қоңырау шала оан өзіңіз білетін нөмір арқыл хабарласыңыз,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g083,verified,1
+demo_0177_aug0,вниание участились случаи мошеничества с объявлениями не вносите предоплату незнакомым продавцам,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g084,verified,1
+demo_0178_aug0,назар аударыңыз хабрландыруар арқылы алаяқтық жиілп кетті бейтаныс сатшыларға алдын ала төлем жасамаңыз,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g084,verified,1
+demo_0179_aug0,сынок мне сегодня звонили говорили что из бана просили код я ничего не сказала и положила трубку,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g085,verified,1
+demo_0180_aug0,бала бүгін маған банктен деп қоңырау шалды кд сұрады мен ештеңе айтпай тұтқаы қойдым,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g085,verified,1
+demo_0181_aug0,апоминание т банка подключите кодове слов в приложении чтобы защитить счёт никогда не сообщайте его по телефону,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g086,verified,1
+demo_0182_aug0,банктен еске салу шотты қорғау үшін қоымшада кодтық сзді қосыңыз оны ешқашан телефон арқылы айтпаңыз,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g086,verified,1
+demo_0183_aug0,мам я доехал всё хрошо вечером позвоню,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g087,verified,1
+demo_0184_aug0,апа еттім бәрі жақсы кешке қоңырау шаламын,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g087,verified,1
+demo_0185_aug0,апа мен доехал бәрі нормально вечером позвоню,not_scam,none,mixed,synthetic_demo,abayla_demo_v1,demo_g087,verified,1
+demo_0186_aug0,ппа не забудь завтра к врачу в 10 утра я заеду за тобой в 930,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g088,verified,1
+demo_0187_aug0,әке ертең таңғы 10-да дәрігерге баруды мытпа мен 930-да келіп аламын,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g088,verified,1
+demo_0188_aug0,бабушка поздравляю с днём рождени приедем в субботу всй семьёй,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g089,verified,1
+demo_0189_aug0,әе туған күніңмен құттықтаймын сенбіде бкл тбасымызбен келемі,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g089,verified,1
+demo_0190_aug0,мама купи пожалуйста хлеб и молоко если будешь в магазин,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g090,verified,1
+demo_0191_aug0,апа дүкенге барсаң нан мен сүт алып келші,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g090,verified,1
+demo_0192_aug0,ата я перевёл тебе 10 000 на лекарста проверь пришли ли,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g091,verified,1
+demo_0193_aug0,ата дәрі алуға 10 000 аудардым түсті ме тексеріп көрші,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g091,verified,1
+demo_0194_aug0,сестрёнка скинь фото рецепта который давал врач хочу закаать лекарства,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g092,verified,1
+demo_0195_aug0,қарындасым дәрігер берен рецепттің суретін жіберші дәрі тпсырыс бергім келеді,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g092,verified,1
+demo_0196_aug0,апа внуки соскучились можно привезём их к тебе на выходные,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g093,verified,1
+demo_0197_aug0,апа немерелерің сағыд демалыста саған әкелейік пе,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g093,verified,1
+demo_0198_aug0,сын свет дали у нас в подъезде с утра не было,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g094,verified,1
+demo_0199_aug0,балам жарық берді ме біздің подъзе таңнан бері болған жоқ,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g094,verified,1
+demo_0204_aug0,ваш заказ №48213 передан курьеру доставка сегодня с 1400 до 1800,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g097,verified,1
+demo_0205_aug0,№48213 тапсырысыңыз курьеге берілді жеткізу бүгін 1400-ден 1800-ге дейін,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g097,verified,1
+demo_0206_aug0,посылка пибыла в пнт выдачи получите её до 20 числа при себе иметь удостоверение,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g098,verified,1
+demo_0207_aug0,сәлемдеме беру пунктіне кеді оны 20-сына дейін алыңыз жаныңызда куәлік болсн,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g098,verified,1
+demo_0210_aug0,закз можно отследить в личном кабинете на сайте магазина https//wwwexamplecom/orders,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g100,verified,1
+demo_0211_aug0,тапсырысты дүкен сайтындағы жеке кабинетте бақылауға болады https//wwwexamplecom/ordrs,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g100,verified,1
+demo_0212_aug0,поликлиника напоминает ваш приём у терапевта завтра в 1120 кабинет 205,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g101,verified,1
+demo_0213_aug0,емхана еске салад терапевтке қабылдауыңыз ертең 1120-да 205-кабинет,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g101,verified,1
+demo_0218_aug0,апека ваш заказ лекарств готов к выаче адрес ул примерная 5,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g104,verified,1
+demo_0219_aug0,дәріхаа дәрі тапсырысыңыз беруге дайын мекенйы мысал көшесі 5,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g104,verified,1
+demo_0222_aug0,квитнция за коммунальне услуги за октябрь сформирована оплатиь можно в приложении банка или в отделеии,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g106,verified,1
+demo_0223_aug0,қазн айындағы оммуналдық қызметтер түіртегі дайын банк қосымшасында немесе бөлімеде төлеуге болады,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g106,verified,1
+demo_0224_aug0,плановое отключение воды по вшеу адресу 12 ноября с 900 до 1700,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g107,verified,1
+demo_0225_aug0,сіздің мекенжайыңыз бойынша 12 қарашада 900-ден 1700-ге дейін су жоспарлы түрде өшріледі,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g107,verified,1
+demo_0226_aug0,ваш заявка на получение спрвки рассмотрена документ доступен в личном кабиет пртала,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g108,verified,1
+demo_0227_aug0,анықтама алуға берген өтініміңз қаралды құат порталдағы жеке кабинетте қолжетімді,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g108,verified,1
+demo_0228_aug0,собрание жильцов дома состоится в субботу в 1200 во дворе обсудим ремонт крыи,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g109,verified,1
+demo_0229_aug0,үй тұрғындарның жиналысы сенбі күні сағат 1200-де аулада теді шатырды жөндеуді алқылаймыз,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g109,verified,1
+demo_0230_aug0,уведомление пенся за ноябрь будет зачислеа в обычные сроки,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g110,verified,1
+demo_0231_aug0,хабарлама қараша айынң зейнтақысы әдеттегі мерзімде түседі,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g110,verified,1
+demo_0234_aug0,скика 20% на все товары для дома до конца недели ждём вас в магазине,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g112,verified,1
+demo_0235_aug0,апта соңына дейін үйге арналған барлық тауарларға 20% жеңілік дүкенде күтеміз,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g112,verified,1
+demo_0236_aug0,ваши бонусы 1 250 испоьзуйте их при следующей покупке в нашей сети,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g113,verified,1
+demo_0237_aug0,бонустарыңыз 1 250 оларды біздің желідегі кеесі сатып алуда пайдаланыңыз,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g113,verified,1
+demo_0238_aug0,новое меню в нашем кафе приходите попробовать при акае от 5 000 — десерт в подарок,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g114,verified,1
+demo_0239_aug0,бздің кафеде жаңа мәзір келіп дәмін атыңыз 5 000-нан сатын тапсырысқа десерт сыйлыққа,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g114,verified,1
+demo_0242_aug0,оперто связи подключите тариф семейный в приложении — вонки близким бесплатно,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g116,verified,1
+demo_0243_aug0,байланыс операторы қосымшада отбасылық тарифін қосыңыз — жақындарға қоңыау шалу тгін,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g116,verified,1
+demo_0244_aug0,ваш номер телефона успешно перенесён к новому оператору спасибо что выбрали нас,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g117,verified,1
+demo_0245_aug0,телефон нөміріңіз жаңа опраторға сәтті ауыстыылды бізді таңдағаныңызға рахмет,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g117,verified,1
+demo_0246_aug0,добрый вечер галина петровна завтра в 10 занятие в клубе скндинавской ходьбы не абудьте палки,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g118,verified,1
+demo_0247_aug0,қайырлы кеш гүлнар апай ертең сағат 10-да скандинавиялы жүру клубында сабақ бар таяқтарды ұмытпаңыз,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g118,verified,1
+demo_0248_aug0,соедка у вас не найдётся немного соли зайду через пять минут,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g119,verified,1
+demo_0249_aug0,көрші сзде азда тұз табыла ма бес минуттан кейін кіремін,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g119,verified,1
+demo_0250_aug0,привет как зоровье давно не виделись может встретимся в парке на этой неделе,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g120,verified,1
+demo_0251_aug0,сәлем денсаулығың қалай көтен көіспедік осы аптада саябақта кездесейік пе,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g120,verified,1
+demo_0252_aug0,внимание жители в четверг в подъезде буут мыть окна,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g121,verified,1
+demo_0253_aug0,тұрғындар назарына бейсенбі күні подъезде терезе жуылады,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g121,verified,1
+demo_0254_aug0,спасибо за пирог очень вкусный поделитесь рецептом,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g122,verified,1
+demo_0255_aug0,бәліш үшін рахме т дәмді рецептімен бөлісесіз бе,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g122,verified,1
+demo_0258_aug0,нурлан перезвон кгда освободишься надо обсудить поздку в аул,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g124,verified,1
+demo_0259_aug0,нұрлан осаған кезде қоңырау шал ауылға баруды талқылау керек,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g124,verified,1
+demo_0262_aug0,друзья отографии с юбилея выложила в общий альбом https//exampleorg/album/123,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g126,verified,1
+demo_0263_aug0,достар мерейтойағы уреттерді ортақ албомға салдым https//exampleorg/album/123,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g126,verified,1
+demo_0264_aug0,мам вот рецепт того салта https//wwexamplecom/recipes/salad,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g127,verified,1
+demo_0265_aug0,апа міне сол салаттың рецпті https//wwwexamplecom/recipes/salad,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g127,verified,1
+demo_0266_aug0,сәлем завтра в 10 той болады не паздывайте адрес жібердм,not_scam,none,mixed,synthetic_demo,abayla_demo_v1,demo_g128,verified,1
+demo_0269_aug0,зравствуте по вашему объявлению о велосипеде можно прехать посмотреть автра вечером,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g130,verified,1
+demo_0270_aug0,сәлеметсз бе велосипед туралы хабарлндыруыңыз бойынша ертең кешке көруге келуге бола ма,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g130,verified,1
+demo_0271_aug0,сосед я перевёл тебе за общий счёт за интернет 2 500 провер,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g131,verified,1
+demo_0272_aug0,көрі интернеттің орта шоты үшін саан 2 500 аудардым тексеріп көр,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g131,verified,1
+demo_0273_aug0,сбр на подарок учительнице — по 2 000 с семьи деньги соираю лично на собрании,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g132,verified,1
+demo_0274_aug0,мұғалмге сыйлыққа ақша жинау — әр отбасынан 2 000 ақшаны жиналыста өзім жинаймын,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g132,verified,1
+demo_0275_aug0,синоптики бещаю похолодание до минус 25 на выходных одевайтесь теплее,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g133,verified,1
+demo_0276_aug0,синоптиктер демалыста минус 25-ке дейін суық болатынын болжайды жылы киініңіз,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g133,verified,1
+demo_0277_aug0,автобус №12 вреенно меняет маршрут из-за ремнта дороги,not_scam,none,ru,synthetic_demo,abayla_demo_v1,demo_g134,verified,1
+demo_0278_aug0,№12 автобус жо жөнеуіне бйланысты бағытын уақытша өзгертеді,not_scam,none,kk,synthetic_demo,abayla_demo_v1,demo_g134,verified,1

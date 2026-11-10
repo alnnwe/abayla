@@ -1,4 +1,4 @@
-# SaqBol — технический отчёт
+# Abayla — технический отчёт
 
 AI-помощник против мошенничества для пожилых пользователей Казахстана (RU/KZ). Дата экспериментов: 10.11.2026.
 
@@ -46,7 +46,7 @@ precision ≥ 0.85 при одном пороге; p95 времени ответ
 | 4 | XLM-RoBERTa base | дообучение классификатора, 2 класса | 4 эпохи, lr 3e-5, batch 8, max_len 128, warmup 10%, AdamW wd 0.01; **эмбеддинги заморожены** (85.6 млн обучаемых из 278 млн) из-за 3.9 ГБ RAM; выбрана лучшая эпоха по PR-AUC на validation |
 
 Все модели реализуют один интерфейс `ScamClassifier.predict_scores()`; бот переключается переменной
-`SAQBOL_MODEL_DIR` без изменения кода (проверено: `SAQBOL_MODEL_DIR=artifacts/models/xlmr python -m saqbol.cli scenarios` → 10/10).
+`ABAYLA_MODEL_DIR` без изменения кода (проверено: `ABAYLA_MODEL_DIR=artifacts/models/xlmr python -m abayla.cli scenarios` → 10/10).
 
 **Пороги** выбираются только на validation: `binary` — максимальная precision при recall ≥ 0.90;
 `low` — наибольший порог с recall ≥ 0.98; `high` — наименьший порог ≥ binary с precision ≥ 0.95.
@@ -57,7 +57,7 @@ Score — некалиброванная оценка, не вероятност
 удалённый доступ) не допускает ответ «низкий риск» → «не определён»; короткий текст (< 8 слов) с признаком риска →
 «не определён» и один уточняющий вопрос.
 
-**Обучение XLM-R** (CPU, 1 ядро): ~55 с на эпоху, всего 252.8 с.
+**Обучение XLM-R** (CPU, 1 ядро): ~55 с на эпоху, всего 313.9 с (первая эпоха шла параллельно с тестами; без нагрузки — около 250 с).
 
 | Эпоха | train loss | val PR-AUC |
 |---|---|---|
@@ -91,12 +91,12 @@ XLM-R выполнил цель по recall (18/19), но не по precision. �
 
 | Модель | Медиана, мс | p95, мс | Загрузка модели, с |
 |---|---|---|---|
-| Правила | 0.30 | 0.43 | — |
-| TF-IDF word | 0.78 | 0.94 | — |
-| TF-IDF word+char | 1.89 | 2.19 | 0.05 |
-| XLM-R | 84.13 | 116.9 | 2.2 |
+| Правила | 0.48 | 0.68 | 0.0 |
+| TF-IDF word | 1.3 | 1.51 | 0.012 |
+| TF-IDF word+char | 2.86 | 3.29 | 0.051 |
+| XLM-R | 104.22 | 133.76 | 3.137 |
 
-Цель p95 < 5 с выполнена для всех моделей **в этой области измерения**. Полное время ответа в Telegram
+Между запусками задержка на одном ядре колеблется (в предыдущем запуске медиана XLM-R была 84 мс). Цель p95 < 5 с выполнена для всех моделей **в этой области измерения**. Полное время ответа в Telegram
 (сеть, а при включении — LLM с тайм-аутом 4 с) не измерялось. Распознавание голоса — отдельно: 0.70 с на 3 с
 синтетического аудио (Whisper tiny, CPU); на реальной речи и модели `small` не измерялось.
 
@@ -152,12 +152,12 @@ recall 1.0 у всех ML-моделей на test (n=4 в каждой из э�
 
 ```bash
 pip install -r requirements-dev.txt
-python -m saqbol.training.train                    # данные, разбиение, 3 baseline, пороги на val
-python -m saqbol.training.train --models tfidf_wordchar --augment --splits artifacts/splits_aug --out artifacts/models_aug
+python -m abayla.training.train                    # данные, разбиение, 3 baseline, пороги на val
+python -m abayla.training.train --models tfidf_wordchar --augment --splits artifacts/splits_aug --out artifacts/models_aug
 pip install -r requirements-ml.txt --extra-index-url https://download.pytorch.org/whl/cpu
-python -m saqbol.training.train_transformer --epochs 4
-python -m saqbol.evaluation.evaluate --extra-models artifacts/models_aug/tfidf_wordchar
+python -m abayla.training.train_transformer --epochs 4
+python -m abayla.evaluation.evaluate --extra-models artifacts/models_aug/tfidf_wordchar
 ```
-Сид 42 фиксирован; параметры, версия данных (`saqbol_demo_v1@ee6de8e8d62699ba`), время обучения и оборудование
+Сид 42 фиксирован; параметры, версия данных (`abayla_demo_v1@c3abdde2ae2a42d2`), время обучения и оборудование
 записаны в `artifacts/models/*/meta.json`. TF-IDF и правила детерминированы; результаты XLM-R на CPU могут
 незначительно отличаться между машинами.

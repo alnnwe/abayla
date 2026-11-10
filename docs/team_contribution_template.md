@@ -6,9 +6,9 @@
 
 | Участник | Роль | Модули / файлы | Решения, которые объясняет на защите |
 |---|---|---|---|
-| ___ | Данные и оценка | `saqbol/data/*`, `saqbol/evaluation/*`, `docs/dataset_card.md`, `docs/annotation_guide.md` | разбиение по группам и утечка; почему disputed исключены; бутстрэп по группам; «короткий путь» по длине |
-| ___ | Модели | `saqbol/models/*`, `saqbol/training/*`, `notebooks/` | TF-IDF word vs word+char; выбор порогов на validation; заморозка эмбеддингов XLM-R; почему трансформер не обязан победить |
-| ___ | Продукт и безопасность | `saqbol/bot/*`, `saqbol/storage/*`, `saqbol/explain/*`, `saqbol/service/*`, `docs/responsible_ai.md` | двустороннее согласие; дедупликация без хранения текста; LLM только для формулировки; отрицания в признаках |
+| ___ | Данные и оценка | `abayla/data/*`, `abayla/evaluation/*`, `docs/dataset_card.md`, `docs/annotation_guide.md` | разбиение по группам и утечка; почему disputed исключены; бутстрэп по группам; «короткий путь» по длине |
+| ___ | Модели | `abayla/models/*`, `abayla/training/*`, `notebooks/` | TF-IDF word vs word+char; выбор порогов на validation; заморозка эмбеддингов XLM-R; почему трансформер не обязан победить |
+| ___ | Продукт и безопасность | `abayla/bot/*`, `abayla/storage/*`, `abayla/explain/*`, `abayla/service/*`, `docs/responsible_ai.md` | двустороннее согласие; дедупликация без хранения текста; LLM только для формулировки; отрицания в признаках |
 
 Для 2 человек: объединить «Модели» с «Данными и оценкой».
 

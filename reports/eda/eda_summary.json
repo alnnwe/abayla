@@ -1,0 +1,106 @@
+{
+  "rows": 286,
+  "validation_errors": [],
+  "validation_warnings": [],
+  "missing_per_column": {
+    "id": 0,
+    "text": 0,
+    "label": 0,
+    "scheme": 0,
+    "language": 0,
+    "source_type": 0,
+    "source_id": 0,
+    "template_group": 0,
+    "annotation_status": 0
+  },
+  "label": {
+    "scam": 145,
+    "not_scam": 141
+  },
+  "language": {
+    "ru": 149,
+    "kk": 133,
+    "mixed": 4
+  },
+  "language_by_label": {
+    "not_scam": {
+      "kk": 68,
+      "mixed": 2,
+      "ru": 71
+    },
+    "scam": {
+      "kk": 65,
+      "mixed": 2,
+      "ru": 78
+    }
+  },
+  "scheme": {
+    "none": 141,
+    "bank_police_impersonation": 37,
+    "phishing": 28,
+    "relative_in_trouble": 23,
+    "other_scheme": 23,
+    "fake_ad": 19,
+    "investment": 15
+  },
+  "source_type": {
+    "synthetic_demo": 286
+  },
+  "annotation_status": {
+    "verified": 280,
+    "disputed": 4,
+    "pending": 2
+  },
+  "template_groups": 141,
+  "rows_per_group_mean": 2.03,
+  "exact_duplicates": 0,
+  "normalized_duplicates": 0,
+  "chars_by_label": {
+    "not_scam": {
+      "count": 141.0,
+      "mean": 79.8,
+      "std": 22.0,
+      "min": 43.0,
+      "25%": 65.0,
+      "50%": 78.0,
+      "75%": 91.0,
+      "max": 167.0
+    },
+    "scam": {
+      "count": 145.0,
+      "mean": 120.0,
+      "std": 24.7,
+      "min": 40.0,
+      "25%": 104.0,
+      "50%": 118.0,
+      "75%": 135.0,
+      "max": 189.0
+    }
+  },
+  "words_by_label": {
+    "not_scam": {
+      "count": 141.0,
+      "mean": 11.3,
+      "std": 3.3,
+      "min": 6.0,
+      "25%": 9.0,
+      "50%": 11.0,
+      "75%": 13.0,
+      "max": 25.0
+    },
+    "scam": {
+      "count": 145.0,
+      "mean": 16.0,
+      "std": 3.9,
+      "min": 6.0,
+      "25%": 14.0,
+      "50%": 16.0,
+      "75%": 18.0,
+      "max": 30.0
+    }
+  },
+  "share_with_url_by_label": {
+    "not_scam": 0.064,
+    "scam": 0.228
+  }
+}

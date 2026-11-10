@@ -1,0 +1,10 @@
+{
+  "_comment": "Эвристики для анализа ссылок без их открытия. Списки нужно поддерживать вручную. brands: ключевое слово бренда -> официальные домены. В репозитории только вымышленный бренд; реальные бренды добавляйте ТОЛЬКО с официальными доменами, проверенными по сайту организации.",
+  "suspicious_score": 1.5,
+  "brands": {
+    "demobank": ["demobank.example"]
+  },
+  "shorteners": ["bit.ly", "tinyurl.com", "t.co", "goo.su", "clck.ru", "cutt.ly", "is.gd", "rebrand.ly"],
+  "suspicious_tlds": ["zip", "top", "xyz", "click", "icu", "rest", "cfd", "sbs"],
+  "sensitive_keywords": ["login", "verify", "secure", "update", "bonus", "prize", "payout", "refund", "account", "confirm", "parcel", "pay", "polis", "vote", "win"]
+}

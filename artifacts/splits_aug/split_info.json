@@ -1,0 +1,26 @@
+{
+  "dataset": "/home/claude/saqbol/data/demo/saqbol_demo_v1.csv",
+  "seed": 42,
+  "rows_total": 286,
+  "rows_trainable": 280,
+  "train": {
+    "rows": 394,
+    "groups": 95,
+    "scam": 200,
+    "not_scam": 194
+  },
+  "val": {
+    "rows": 43,
+    "groups": 20,
+    "scam": 23,
+    "not_scam": 20
+  },
+  "test": {
+    "rows": 40,
+    "groups": 20,
+    "scam": 19,
+    "not_scam": 21
+  },
+  "augment": true,
+  "data_hash": "ee6de8e8d62699ba"
+}

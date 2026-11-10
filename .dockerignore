@@ -1,0 +1,9 @@
+.git
+__pycache__
+.pytest_cache
+.env
+*.sqlite3
+artifacts/models/xlmr
+artifacts/models_aug
+reports
+notebooks

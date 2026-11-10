@@ -1,0 +1,10 @@
+# Ядро: бот + baseline-модели. Версии проверены в среде разработки (Python 3.12.3), см. docs/report.md.
+aiogram==3.31.0
+scikit-learn==1.9.1
+scipy==1.18.1
+numpy==2.5.4
+pandas==3.0.6
+joblib==1.6.0
+matplotlib==3.11.2
+python-dotenv==1.2.4
+httpx==0.28.1

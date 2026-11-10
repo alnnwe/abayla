@@ -1,0 +1,11 @@
+services:
+  bot:
+    build: .
+    env_file: .env
+    environment:
+      SAQBOL_DB_PATH: /app/state/saqbol.sqlite3
+    volumes:
+      - saqbol_state:/app/state
+    restart: unless-stopped
+volumes:
+  saqbol_state:

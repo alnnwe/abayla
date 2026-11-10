@@ -1,0 +1,20 @@
+{
+  "code_request": 3.0,
+  "card_data_request": 3.0,
+  "safe_account": 3.0,
+  "remote_access": 2.5,
+  "personal_data_request": 2.0,
+  "guaranteed_income": 2.0,
+  "suspicious_link": 2.0,
+  "money_transfer_request": 1.5,
+  "authority_impersonation": 1.0,
+  "secrecy": 1.5,
+  "relative_new_number": 1.5,
+  "relative_trouble": 1.5,
+  "prize_fee": 1.5,
+  "prepayment": 1.5,
+  "urgency": 1.0,
+  "threat": 1.0,
+  "link_present": 0.3,
+  "code_notification": -2.5
+}

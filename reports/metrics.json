@@ -1,0 +1,967 @@
+{
+  "hardware": "Linux 6.18.44-fc-v338, x86_64, 1 CPU, RAM 3.9 GB, нет GPU, Python 3.12.3",
+  "test": {
+    "n": 40,
+    "n_scam": 19,
+    "groups": 20,
+    "source_types": {
+      "synthetic_demo": 40
+    },
+    "languages": {
+      "ru": 20,
+      "kk": 19,
+      "mixed": 1
+    }
+  },
+  "models": {
+    "rules": {
+      "n": 40,
+      "n_scam": 19,
+      "n_not_scam": 21,
+      "precision": 0.8888888888888888,
+      "recall": 0.8421052631578947,
+      "f1": 0.8648648648648649,
+      "tp": 16,
+      "fp": 2,
+      "fn": 3,
+      "tn": 19,
+      "roc_auc": 0.9210526315789473,
+      "pr_auc": 0.9210526315789475,
+      "ci95_group_bootstrap": {
+        "precision": [
+          0.636,
+          1.0
+        ],
+        "recall": [
+          0.6,
+          1.0
+        ],
+        "f1": [
+          0.667,
+          1.0
+        ]
+      },
+      "thresholds": {
+        "binary": 0.266,
+        "low": 0.266,
+        "high": 0.266,
+        "preliminary": true
+      },
+      "three_level": {
+        "scam": {
+          "low": 3,
+          "uncertain": 0,
+          "high": 16
+        },
+        "not_scam": {
+          "low": 19,
+          "uncertain": 0,
+          "high": 2
+        }
+      },
+      "targets_met": {
+        "recall>=0.90": false,
+        "precision>=0.85": true,
+        "both_at_same_threshold": false
+      },
+      "meta": {
+        "data_version": "saqbol_demo_v1@ee6de8e8d62699ba",
+        "demo_data": true,
+        "seed": 42,
+        "train_time_s": 0.0,
+        "hardware": "Linux 6.18.44-fc-v338, x86_64, 1 CPU, RAM 3.9 GB, нет GPU, Python 3.12.3",
+        "params": {
+          "bias": 2.0
+        }
+      },
+      "by_language": [
+        {
+          "language": "kk",
+          "n": 19,
+          "n_scam": 9,
+          "n_not_scam": 10,
+          "recall": 0.889,
+          "false_positive_rate": 0.1,
+          "precision": 0.889
+        },
+        {
+          "language": "mixed",
+          "n": 1,
+          "n_scam": 1,
+          "n_not_scam": 0,
+          "recall": 1.0,
+          "precision": 1.0
+        },
+        {
+          "language": "ru",
+          "n": 20,
+          "n_scam": 9,
+          "n_not_scam": 11,
+          "recall": 0.778,
+          "false_positive_rate": 0.091,
+          "precision": 0.875
+        }
+      ],
+      "by_scheme": [
+        {
+          "scheme": "bank_police_impersonation",
+          "n": 4,
+          "n_scam": 4,
+          "n_not_scam": 0,
+          "recall": 1.0,
+          "precision": 1.0
+        },
+        {
+          "scheme": "fake_ad",
+          "n": 2,
+          "n_scam": 2,
+          "n_not_scam": 0,
+          "recall": 1.0,
+          "precision": 1.0
+        },
+        {
+          "scheme": "investment",
+          "n": 2,
+          "n_scam": 2,
+          "n_not_scam": 0,
+          "recall": 0.0
+        },
+        {
+          "scheme": "none",
+          "n": 21,
+          "n_scam": 0,
+          "n_not_scam": 21,
+          "false_positive_rate": 0.095,
+          "precision": 0.0
+        },
+        {
+          "scheme": "other_scheme",
+          "n": 4,
+          "n_scam": 4,
+          "n_not_scam": 0,
+          "recall": 0.75,
+          "precision": 1.0
+        },
+        {
+          "scheme": "phishing",
+          "n": 4,
+          "n_scam": 4,
+          "n_not_scam": 0,
+          "recall": 1.0,
+          "precision": 1.0
+        },
+        {
+          "scheme": "relative_in_trouble",
+          "n": 3,
+          "n_scam": 3,
+          "n_not_scam": 0,
+          "recall": 1.0,
+          "precision": 1.0
+        }
+      ],
+      "by_source_type": [
+        {
+          "source_type": "synthetic_demo",
+          "n": 40,
+          "n_scam": 19,
+          "n_not_scam": 21,
+          "recall": 0.842,
+          "false_positive_rate": 0.095,
+          "precision": 0.889
+        }
+      ],
+      "n_errors": 5
+    },
+    "tfidf_word": {
+      "n": 40,
+      "n_scam": 19,
+      "n_not_scam": 21,
+      "precision": 0.7391304347826086,
+      "recall": 0.8947368421052632,
+      "f1": 0.8095238095238095,
+      "tp": 17,
+      "fp": 6,
+      "fn": 2,
+      "tn": 15,
+      "roc_auc": 0.8095238095238095,
+      "pr_auc": 0.6984092808410199,
+      "ci95_group_bootstrap": {
+        "precision": [
+          0.476,
+          0.955
+        ],
+        "recall": [
+          0.75,
+          1.0
+        ],
+        "f1": [
+          0.611,
+          0.939
+        ]
+      },
+      "thresholds": {
+        "binary": 0.5895,
+        "low": 0.5597,
+        "high": 0.7886,
+        "preliminary": true
+      },
+      "three_level": {
+        "scam": {
+          "low": 2,
+          "uncertain": 16,
+          "high": 1
+        },
+        "not_scam": {
+          "low": 12,
+          "uncertain": 8,
+          "high": 1
+        }
+      },
+      "targets_met": {
+        "recall>=0.90": false,
+        "precision>=0.85": false,
+        "both_at_same_threshold": false
+      },
+      "meta": {
+        "data_version": "saqbol_demo_v1@ee6de8e8d62699ba",
+        "demo_data": true,
+        "seed": 42,
+        "train_time_s": 0.038,
+        "hardware": "Linux 6.18.44-fc-v338, x86_64, 1 CPU, RAM 3.9 GB, нет GPU, Python 3.12.3",
+        "params": {
+          "analyzer": "word",
+          "C": 4.0,
+          "class_weight": "balanced",
+          "word_ngram_range": [
+            1,
+            2
+          ],
+          "char_ngram_range": [
+            2,
+            5
+          ],
+          "min_df": 1,
+          "sublinear_tf": true,
+          "max_iter": 2000
+        }
+      },
+      "by_language": [
+        {
+          "language": "kk",
+          "n": 19,
+          "n_scam": 9,
+          "n_not_scam": 10,
+          "recall": 0.778,
+          "false_positive_rate": 0.3,
+          "precision": 0.7
+        },
+        {
+          "language": "mixed",
+          "n": 1,
+          "n_scam": 1,
+          "n_not_scam": 0,
+          "recall": 1.0,
+          "precision": 1.0
+        },
+        {
+          "language": "ru",
+          "n": 20,
+          "n_scam": 9,
+          "n_not_scam": 11,
+          "recall": 1.0,
+          "false_positive_rate": 0.273,
+          "precision": 0.75
+        }
+      ],
+      "by_scheme": [
+        {
+          "scheme": "bank_police_impersonation",
+          "n": 4,
+          "n_scam": 4,
+          "n_not_scam": 0,
+          "recall": 1.0,
+          "precision": 1.0
+        },
+        {
+          "scheme": "fake_ad",
+          "n": 2,
+          "n_scam": 2,
+          "n_not_scam": 0,
+          "recall": 1.0,
+          "precision": 1.0
+        },
+        {
+          "scheme": "investment",
+          "n": 2,
+          "n_scam": 2,
+          "n_not_scam": 0,
+          "recall": 0.5,
+          "precision": 1.0
+        },
+        {
+          "scheme": "none",
+          "n": 21,
+          "n_scam": 0,
+          "n_not_scam": 21,
+          "false_positive_rate": 0.286,
+          "precision": 0.0
+        },
+        {
+          "scheme": "other_scheme",
+          "n": 4,
+          "n_scam": 4,
+          "n_not_scam": 0,
+          "recall": 1.0,
+          "precision": 1.0
+        },
+        {
+          "scheme": "phishing",
+          "n": 4,
+          "n_scam": 4,
+          "n_not_scam": 0,
+          "recall": 1.0,
+          "precision": 1.0
+        },
+        {
+          "scheme": "relative_in_trouble",
+          "n": 3,
+          "n_scam": 3,
+          "n_not_scam": 0,
+          "recall": 0.667,
+          "precision": 1.0
+        }
+      ],
+      "by_source_type": [
+        {
+          "source_type": "synthetic_demo",
+          "n": 40,
+          "n_scam": 19,
+          "n_not_scam": 21,
+          "recall": 0.895,
+          "false_positive_rate": 0.286,
+          "precision": 0.739
+        }
+      ],
+      "n_errors": 8
+    },
+    "tfidf_wordchar": {
+      "n": 40,
+      "n_scam": 19,
+      "n_not_scam": 21,
+      "precision": 0.68,
+      "recall": 0.8947368421052632,
+      "f1": 0.7727272727272727,
+      "tp": 17,
+      "fp": 8,
+      "fn": 2,
+      "tn": 13,
+      "roc_auc": 0.9223057644110275,
+      "pr_auc": 0.9327256442388021,
+      "ci95_group_bootstrap": {
+        "precision": [
+          0.412,
+          0.923
+        ],
+        "recall": [
+          0.75,
+          1.0
+        ],
+        "f1": [
+          0.552,
+          0.923
+        ]
+      },
+      "thresholds": {
+        "binary": 0.5391,
+        "low": 0.5391,
+        "high": 0.6262,
+        "preliminary": true
+      },
+      "three_level": {
+        "scam": {
+          "low": 2,
+          "uncertain": 0,
+          "high": 17
+        },
+        "not_scam": {
+          "low": 13,
+          "uncertain": 4,
+          "high": 4
+        }
+      },
+      "targets_met": {
+        "recall>=0.90": false,
+        "precision>=0.85": false,
+        "both_at_same_threshold": false
+      },
+      "meta": {
+        "data_version": "saqbol_demo_v1@ee6de8e8d62699ba",
+        "demo_data": true,
+        "seed": 42,
+        "train_time_s": 0.086,
+        "hardware": "Linux 6.18.44-fc-v338, x86_64, 1 CPU, RAM 3.9 GB, нет GPU, Python 3.12.3",
+        "params": {
+          "analyzer": "wordchar",
+          "C": 4.0,
+          "class_weight": "balanced",
+          "word_ngram_range": [
+            1,
+            2
+          ],
+          "char_ngram_range": [
+            2,
+            5
+          ],
+          "min_df": 1,
+          "sublinear_tf": true,
+          "max_iter": 2000
+        }
+      },
+      "by_language": [
+        {
+          "language": "kk",
+          "n": 19,
+          "n_scam": 9,
+          "n_not_scam": 10,
+          "recall": 0.778,
+          "false_positive_rate": 0.4,
+          "precision": 0.636
+        },
+        {
+          "language": "mixed",
+          "n": 1,
+          "n_scam": 1,
+          "n_not_scam": 0,
+          "recall": 1.0,
+          "precision": 1.0
+        },
+        {
+          "language": "ru",
+          "n": 20,
+          "n_scam": 9,
+          "n_not_scam": 11,
+          "recall": 1.0,
+          "false_positive_rate": 0.364,
+          "precision": 0.692
+        }
+      ],
+      "by_scheme": [
+        {
+          "scheme": "bank_police_impersonation",
+          "n": 4,
+          "n_scam": 4,
+          "n_not_scam": 0,
+          "recall": 1.0,
+          "precision": 1.0
+        },
+        {
+          "scheme": "fake_ad",
+          "n": 2,
+          "n_scam": 2,
+          "n_not_scam": 0,
+          "recall": 1.0,
+          "precision": 1.0
+        },
+        {
+          "scheme": "investment",
+          "n": 2,
+          "n_scam": 2,
+          "n_not_scam": 0,
+          "recall": 0.5,
+          "precision": 1.0
+        },
+        {
+          "scheme": "none",
+          "n": 21,
+          "n_scam": 0,
+          "n_not_scam": 21,
+          "false_positive_rate": 0.381,
+          "precision": 0.0
+        },
+        {
+          "scheme": "other_scheme",
+          "n": 4,
+          "n_scam": 4,
+          "n_not_scam": 0,
+          "recall": 1.0,
+          "precision": 1.0
+        },
+        {
+          "scheme": "phishing",
+          "n": 4,
+          "n_scam": 4,
+          "n_not_scam": 0,
+          "recall": 1.0,
+          "precision": 1.0
+        },
+        {
+          "scheme": "relative_in_trouble",
+          "n": 3,
+          "n_scam": 3,
+          "n_not_scam": 0,
+          "recall": 0.667,
+          "precision": 1.0
+        }
+      ],
+      "by_source_type": [
+        {
+          "source_type": "synthetic_demo",
+          "n": 40,
+          "n_scam": 19,
+          "n_not_scam": 21,
+          "recall": 0.895,
+          "false_positive_rate": 0.381,
+          "precision": 0.68
+        }
+      ],
+      "n_errors": 10
+    },
+    "xlmr": {
+      "n": 40,
+      "n_scam": 19,
+      "n_not_scam": 21,
+      "precision": 0.72,
+      "recall": 0.9473684210526315,
+      "f1": 0.8181818181818182,
+      "tp": 18,
+      "fp": 7,
+      "fn": 1,
+      "tn": 14,
+      "roc_auc": 0.9398496240601504,
+      "pr_auc": 0.9449048776273383,
+      "ci95_group_bootstrap": {
+        "precision": [
+          0.462,
+          0.929
+        ],
+        "recall": [
+          0.833,
+          1.0
+        ],
+        "f1": [
+          0.615,
+          0.949
+        ]
+      },
+      "thresholds": {
+        "binary": 0.0358,
+        "low": 0.0148,
+        "high": 0.7034,
+        "preliminary": true
+      },
+      "three_level": {
+        "scam": {
+          "low": 1,
+          "uncertain": 3,
+          "high": 15
+        },
+        "not_scam": {
+          "low": 9,
+          "uncertain": 10,
+          "high": 2
+        }
+      },
+      "targets_met": {
+        "recall>=0.90": true,
+        "precision>=0.85": false,
+        "both_at_same_threshold": false
+      },
+      "meta": {
+        "data_version": "saqbol_demo_v1@ee6de8e8d62699ba",
+        "demo_data": true,
+        "seed": 42,
+        "train_time_s": 252.8,
+        "hardware": "Linux 6.18.44-fc-v338, x86_64, 1 CPU, RAM 3.9 GB, нет GPU, Python 3.12.3",
+        "params": {
+          "model_name": "FacebookAI/xlm-roberta-base",
+          "max_len": 128,
+          "epochs": 4,
+          "lr": 3e-05,
+          "batch_size": 8,
+          "weight_decay": 0.01,
+          "warmup_ratio": 0.1,
+          "freeze_embeddings": true,
+          "selection": "лучшая эпоха по PR-AUC на validation"
+        }
+      },
+      "by_language": [
+        {
+          "language": "kk",
+          "n": 19,
+          "n_scam": 9,
+          "n_not_scam": 10,
+          "recall": 0.889,
+          "false_positive_rate": 0.3,
+          "precision": 0.727
+        },
+        {
+          "language": "mixed",
+          "n": 1,
+          "n_scam": 1,
+          "n_not_scam": 0,
+          "recall": 1.0,
+          "precision": 1.0
+        },
+        {
+          "language": "ru",
+          "n": 20,
+          "n_scam": 9,
+          "n_not_scam": 11,
+          "recall": 1.0,
+          "false_positive_rate": 0.364,
+          "precision": 0.692
+        }
+      ],
+      "by_scheme": [
+        {
+          "scheme": "bank_police_impersonation",
+          "n": 4,
+          "n_scam": 4,
+          "n_not_scam": 0,
+          "recall": 1.0,
+          "precision": 1.0
+        },
+        {
+          "scheme": "fake_ad",
+          "n": 2,
+          "n_scam": 2,
+          "n_not_scam": 0,
+          "recall": 1.0,
+          "precision": 1.0
+        },
+        {
+          "scheme": "investment",
+          "n": 2,
+          "n_scam": 2,
+          "n_not_scam": 0,
+          "recall": 1.0,
+          "precision": 1.0
+        },
+        {
+          "scheme": "none",
+          "n": 21,
+          "n_scam": 0,
+          "n_not_scam": 21,
+          "false_positive_rate": 0.333,
+          "precision": 0.0
+        },
+        {
+          "scheme": "other_scheme",
+          "n": 4,
+          "n_scam": 4,
+          "n_not_scam": 0,
+          "recall": 1.0,
+          "precision": 1.0
+        },
+        {
+          "scheme": "phishing",
+          "n": 4,
+          "n_scam": 4,
+          "n_not_scam": 0,
+          "recall": 1.0,
+          "precision": 1.0
+        },
+        {
+          "scheme": "relative_in_trouble",
+          "n": 3,
+          "n_scam": 3,
+          "n_not_scam": 0,
+          "recall": 0.667,
+          "precision": 1.0
+        }
+      ],
+      "by_source_type": [
+        {
+          "source_type": "synthetic_demo",
+          "n": 40,
+          "n_scam": 19,
+          "n_not_scam": 21,
+          "recall": 0.947,
+          "false_positive_rate": 0.333,
+          "precision": 0.72
+        }
+      ],
+      "n_errors": 8
+    },
+    "models_aug/tfidf_wordchar": {
+      "n": 40,
+      "n_scam": 19,
+      "n_not_scam": 21,
+      "precision": 0.7391304347826086,
+      "recall": 0.8947368421052632,
+      "f1": 0.8095238095238095,
+      "tp": 17,
+      "fp": 6,
+      "fn": 2,
+      "tn": 15,
+      "roc_auc": 0.9122807017543859,
+      "pr_auc": 0.9211351476210823,
+      "ci95_group_bootstrap": {
+        "precision": [
+          0.476,
+          0.955
+        ],
+        "recall": [
+          0.75,
+          1.0
+        ],
+        "f1": [
+          0.611,
+          0.939
+        ]
+      },
+      "thresholds": {
+        "binary": 0.619,
+        "low": 0.5416,
+        "high": 0.6546,
+        "preliminary": true
+      },
+      "three_level": {
+        "scam": {
+          "low": 2,
+          "uncertain": 0,
+          "high": 17
+        },
+        "not_scam": {
+          "low": 13,
+          "uncertain": 4,
+          "high": 4
+        }
+      },
+      "targets_met": {
+        "recall>=0.90": false,
+        "precision>=0.85": false,
+        "both_at_same_threshold": false
+      },
+      "meta": {
+        "data_version": "saqbol_demo_v1@ee6de8e8d62699ba",
+        "demo_data": true,
+        "seed": 42,
+        "train_time_s": 0.136,
+        "hardware": "Linux 6.18.44-fc-v338, x86_64, 1 CPU, RAM 3.9 GB, нет GPU, Python 3.12.3",
+        "params": {
+          "analyzer": "wordchar",
+          "C": 4.0,
+          "class_weight": "balanced",
+          "word_ngram_range": [
+            1,
+            2
+          ],
+          "char_ngram_range": [
+            2,
+            5
+          ],
+          "min_df": 1,
+          "sublinear_tf": true,
+          "max_iter": 2000
+        }
+      },
+      "by_language": [
+        {
+          "language": "kk",
+          "n": 19,
+          "n_scam": 9,
+          "n_not_scam": 10,
+          "recall": 0.778,
+          "false_positive_rate": 0.2,
+          "precision": 0.778
+        },
+        {
+          "language": "mixed",
+          "n": 1,
+          "n_scam": 1,
+          "n_not_scam": 0,
+          "recall": 1.0,
+          "precision": 1.0
+        },
+        {
+          "language": "ru",
+          "n": 20,
+          "n_scam": 9,
+          "n_not_scam": 11,
+          "recall": 1.0,
+          "false_positive_rate": 0.364,
+          "precision": 0.692
+        }
+      ],
+      "by_scheme": [
+        {
+          "scheme": "bank_police_impersonation",
+          "n": 4,
+          "n_scam": 4,
+          "n_not_scam": 0,
+          "recall": 1.0,
+          "precision": 1.0
+        },
+        {
+          "scheme": "fake_ad",
+          "n": 2,
+          "n_scam": 2,
+          "n_not_scam": 0,
+          "recall": 1.0,
+          "precision": 1.0
+        },
+        {
+          "scheme": "investment",
+          "n": 2,
+          "n_scam": 2,
+          "n_not_scam": 0,
+          "recall": 0.5,
+          "precision": 1.0
+        },
+        {
+          "scheme": "none",
+          "n": 21,
+          "n_scam": 0,
+          "n_not_scam": 21,
+          "false_positive_rate": 0.286,
+          "precision": 0.0
+        },
+        {
+          "scheme": "other_scheme",
+          "n": 4,
+          "n_scam": 4,
+          "n_not_scam": 0,
+          "recall": 1.0,
+          "precision": 1.0
+        },
+        {
+          "scheme": "phishing",
+          "n": 4,
+          "n_scam": 4,
+          "n_not_scam": 0,
+          "recall": 1.0,
+          "precision": 1.0
+        },
+        {
+          "scheme": "relative_in_trouble",
+          "n": 3,
+          "n_scam": 3,
+          "n_not_scam": 0,
+          "recall": 0.667,
+          "precision": 1.0
+        }
+      ],
+      "by_source_type": [
+        {
+          "source_type": "synthetic_demo",
+          "n": 40,
+          "n_scam": 19,
+          "n_not_scam": 21,
+          "recall": 0.895,
+          "false_positive_rate": 0.286,
+          "precision": 0.739
+        }
+      ],
+      "n_errors": 8
+    }
+  },
+  "length_only_roc_auc": 0.788,
+  "latency": {
+    "rules": {
+      "model_load_s": 0.0,
+      "n_calls": 200,
+      "median_ms": 0.3,
+      "p95_ms": 0.43,
+      "max_ms": 0.58,
+      "scope": "Analyzer.analyze(): классификатор + признаки + анализ URL, без сети Telegram и без LLM",
+      "target_p95_met": true
+    },
+    "tfidf_word": {
+      "model_load_s": 0.006,
+      "n_calls": 200,
+      "median_ms": 0.78,
+      "p95_ms": 0.94,
+      "max_ms": 1.37,
+      "scope": "Analyzer.analyze(): классификатор + признаки + анализ URL, без сети Telegram и без LLM",
+      "target_p95_met": true
+    },
+    "tfidf_wordchar": {
+      "model_load_s": 0.027,
+      "n_calls": 200,
+      "median_ms": 1.89,
+      "p95_ms": 2.19,
+      "max_ms": 5.86,
+      "scope": "Analyzer.analyze(): классификатор + признаки + анализ URL, без сети Telegram и без LLM",
+      "target_p95_met": true
+    },
+    "xlmr": {
+      "model_load_s": 2.208,
+      "n_calls": 40,
+      "median_ms": 84.13,
+      "p95_ms": 116.9,
+      "max_ms": 123.84,
+      "scope": "Analyzer.analyze(): классификатор + признаки + анализ URL, без сети Telegram и без LLM",
+      "target_p95_met": true
+    },
+    "models_aug/tfidf_wordchar": {
+      "model_load_s": 0.033,
+      "n_calls": 200,
+      "median_ms": 1.94,
+      "p95_ms": 2.23,
+      "max_ms": 4.96,
+      "scope": "Analyzer.analyze(): классификатор + признаки + анализ URL, без сети Telegram и без LLM",
+      "target_p95_met": true
+    }
+  },
+  "service_levels": {
+    "model_only": {
+      "not_scam": {
+        "low": 13,
+        "uncertain": 4,
+        "high": 4
+      },
+      "scam": {
+        "low": 2,
+        "uncertain": 0,
+        "high": 17
+      }
+    },
+    "with_policy": {
+      "not_scam": {
+        "low": 13,
+        "uncertain": 4,
+        "high": 4
+      },
+      "scam": {
+        "low": 2,
+        "uncertain": 0,
+        "high": 17
+      }
+    }
+  },
+  "learning_curve_val": {
+    "0.2": {
+      "n_groups": 19,
+      "val_pr_auc_mean": 0.833,
+      "val_pr_auc_std": 0.066,
+      "val_f1_at_0.5_mean": 0.73
+    },
+    "0.4": {
+      "n_groups": 38,
+      "val_pr_auc_mean": 0.878,
+      "val_pr_auc_std": 0.034,
+      "val_f1_at_0.5_mean": 0.837
+    },
+    "0.6": {
+      "n_groups": 57,
+      "val_pr_auc_mean": 0.936,
+      "val_pr_auc_std": 0.037,
+      "val_f1_at_0.5_mean": 0.855
+    },
+    "0.8": {
+      "n_groups": 76,
+      "val_pr_auc_mean": 0.961,
+      "val_pr_auc_std": 0.016,
+      "val_f1_at_0.5_mean": 0.865
+    },
+    "1.0": {
+      "n_groups": 95,
+      "val_pr_auc_mean": 0.978,
+      "val_pr_auc_std": 0.0,
+      "val_f1_at_0.5_mean": 0.868
+    }
+  },
+  "test_ids_sha": "4bf93412d0ac0793",
+  "synthetic_vs_real": "не выполнено: все примеры synthetic_demo, реальных сообщений в наборе нет"
+}

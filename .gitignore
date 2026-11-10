@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+*.sqlite3
+artifacts/models/xlmr/
+artifacts/models_aug/
+data/raw/*
+!data/raw/.gitkeep

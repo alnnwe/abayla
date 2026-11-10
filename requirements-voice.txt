@@ -1,0 +1,6 @@
+# Голос (необязательно). Проверено в среде разработки: faster-whisper 1.2.1 НЕСОВМЕСТИМ с av 19.0.2
+# (TypeError: open() got an unexpected keyword argument 'metadata_errors'); с av 17.0.0 работает.
+-r requirements.txt
+faster-whisper==1.2.1
+ctranslate2==4.8.5
+av==17.0.0
